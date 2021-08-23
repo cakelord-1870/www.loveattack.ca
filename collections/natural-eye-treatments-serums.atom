@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/natural-eye-treatments-serums.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-03-05T09:10:18-08:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/6536040251447</id>
+    <published>2021-03-05T09:10:18-08:00</published>
+    <updated>2021-03-05T09:10:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/ocular-eye-serum-skin-essence-organics"/>
+    <title>Ocular Eye Serum for Reducing Dark Circles, Puffiness &amp; Fine Lines</title>
+    <s:type>Eye Serum</s:type>
+    <s:vendor>Skin Essence Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/skin-essence-organics-ocular-eye-serum-boutique-love-attack.png?v=1614300614"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skin Essence Organics<br>
+        <strong>Type: </strong>Eye Serum<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;" data-mce-style="text-align: center;"></div>
+<div></div>
+<div>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Ocular was created specifically for the delicate skin around the eye to help reduce dark circles, puffiness, and fine lines while also serving as a vital protective layer against pollution and the chemicals found in makeup.</span><br></p>
+<h3><span>Features + Benefits</span></h3>
+<div class="woocommerce-product-details__short-description">
+<ul>
+<li>Eco Cert Organic Cosmetic, Leaping Bunny Certified, Vegan, Non GMO, Gluten Free and Fair Trade</li>
+<li>100% of the total ingredients are from natural origin</li>
+<li>94.88% of the total ingredients are from organic farming</li>
+<li>Remaining 5.12% are naturally organic ingredients such as vitamins &amp; minerals</li>
+</ul>
+<h3>How to use</h3>
+<p>Always make sure the serum is shaken well before applying so that all the key ingredients are present in each application.</p>
+<p>After cleansing with the Skin Essence Organics Pure or Fresh facial cleanser, massage the Ocular eye serum into the skin around the eye bone for approximately 10 to 20 seconds. This will ensure deep absorption of the ingredients.</p>
+<p>Wait approximately 5 minutes for full absorption of the formula before applying any makeup over top.</p>
+<p>Tip: The special dropper cap used on this product carefully controls how much is released and stops the dirt and air from entering into the package, keeping it fresh. To easily release one drop at a time, simply hold the bottle upside down and “tap” the bottom of the bottle with your finger.</p>
+</div>
+<div class="woocommerce-product-details__short-description">
+<h3>Composition</h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">This unique serum contains a variety of nourishing extracts that offer a complete anti-aging blend. </span><span data-mce-fragment="1">(Non-comedogenic)</span><br></p>
+<h3>Ingredients</h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span>Rosehip Seed Oil*, Jojoba Seed Oil*, Hemp Seed Oil*, Borage Seed Oil*, Apricot Kernel Oil*, Nettle Leaf Extract*, Olive Oil*, Kukui Nut Oil, Blue Chamomile Oil*, Tocopherol (Vitamin-E), Zinc Oxide (Non-Nano) *Ingredient from organic farming</span> </p>
+</div>
+</div>
+<div>
+<ul></ul>
+<meta charset="utf-8">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Eye Serum</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6536040251447</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+</feed>

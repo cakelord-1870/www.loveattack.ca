@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/eco-friendly-hair-accessories.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-04-20T09:32:25-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/6551180509239</id>
+    <published>2021-04-20T09:32:25-07:00</published>
+    <updated>2021-04-20T09:32:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/plastic-free-biodegradable-hair-ties-black"/>
+    <title>Plastic Free Biodegradable Hair Ties - Black</title>
+    <s:type>Scrunchies + Hair Ties</s:type>
+    <s:vendor>Love Attack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/love-attack-biodegradable-hair-ties-black.png?v=1618349192"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Attack<br>
+        <strong>Type: </strong>Scrunchies + Hair Ties<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your new favourite eco-friendly hair accessory is here! Love Attack Biodegradable Hair Ties are 100% plastic free and made from organic cotton and natural rubber. Each set comes with 20 flat hair ties. Hair tie paper packaging is 100% recyclable. When you're done with your hair ties, simply throw them in your home compost bin. Being made out of 100% natural materials, hair ties are fully biodegradable and compostable.</p>
+<h3>Made from </h3>
+<p>100% Natural Rubber + GOTS Certified Organic Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scrunchies + Hair Ties</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6551180509239</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>LA-H-001</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6551180476471</id>
+    <published>2021-04-20T09:32:24-07:00</published>
+    <updated>2021-04-20T09:32:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/plastic-free-biodegradable-hair-ties-white"/>
+    <title>Plastic Free Biodegradable Hair Ties - White</title>
+    <s:type>Scrunchies + Hair Ties</s:type>
+    <s:vendor>Love Attack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/love-attack-biodegradable-hair-ties-white.png?v=1618347767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Attack<br>
+        <strong>Type: </strong>Scrunchies + Hair Ties<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Your new favourite eco-friendly hair accessory is here! Love Attack Biodegradable Hair Ties are 100% plastic free and made from organic cotton and natural rubber. Each set comes with 20 flat hair ties. Hair tie paper packaging is 100% recyclable. When you're done with your hair ties, simply throw them in your home compost bin. Being made out of 100% natural materials, hair ties are fully biodegradable and compostable.</p>
+<h3>Made from </h3>
+<p>100% Natural Rubber + GOTS Certified Organic Cotton</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scrunchies + Hair Ties</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6551180476471</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>LA-H-002</s:sku>
+      <s:grams>40</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4672086671415</id>
+    <published>2021-02-01T17:50:04-08:00</published>
+    <updated>2021-02-01T17:50:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/recycled-grande-luxe-oversized-scrunchie-velvet-ocean-bellantoni"/>
+    <title>Recycled Grande Luxe Oversized Scrunchie - Velvet Ocean</title>
+    <s:type>Scrunchies + Hair Ties</s:type>
+    <s:vendor>Bellantoni</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-recycled-grande-luxe-oversized-scrunchie-bellantoni_2.png?v=1612230438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bellantoni<br>
+        <strong>Type: </strong>Scrunchies + Hair Ties<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="">Grande, luxurious and sustainable. Our Grande Luxe Oversized Velvet Scrunchies are made from leftover fabric sourced from the Vancouver fashion industry. Each scrunchie adds instant volume and elegance to any ponytail or bun while being kind to our planet.</p>
+<p class="">The word “Grande” means large in Italian, playing to the designer’s Italian roots.</p>
+<h3>Eco Recipe<br><meta charset="utf-8">
+</h3>
+<ul>
+<li>100% Reclaimed Fabric</li>
+</ul>
+<h3>Care</h3>
+<div data-content-field="excerpt" class="ProductItem-details-excerpt">
+<p class="">Machine wash cold, delicate cycle. Lay flat to dry.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scrunchies + Hair Ties</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4672086671415</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4672086179895</id>
+    <published>2021-02-01T17:50:04-08:00</published>
+    <updated>2021-02-01T17:50:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/recycled-sweater-knit-scrunchie-luna-bellantoni"/>
+    <title>Recycled Sweater Knit Scrunchie - Luna</title>
+    <s:type>Scrunchies + Hair Ties</s:type>
+    <s:vendor>Bellantoni</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-recycled-sweater-knit-scrunchie-luna-bellantoni_2.png?v=1612228854"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bellantoni<br>
+        <strong>Type: </strong>Scrunchies + Hair Ties<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">A cozy sweater for your ponytail! This beautiful fluffy sweater knit scrunchie adds comfort and style to your hair. It was thoughtfully handcrafted in Vancouver, BC using recycled sweater fabric leftover from the textile industry.</span></p>
+<h3><strong>Eco Recipe</strong></h3>
+<ul>
+<li>100% Reclaimed Sweater Knit Fabric (we think it’s a synthetic knit)</li>
+<li>Made from fabric ‘waste’ sourced from Vancouver</li>
+<li>0.15lbs of textiles diverted</li>
+</ul>
+<h3><strong>Care</strong></h3>
+<p class="">Machine wash cold, delicate cycle. Air dry.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Scrunchies + Hair Ties</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4672086179895</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634029064247</id>
+    <published>2020-11-19T11:18:17-08:00</published>
+    <updated>2020-11-19T11:18:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/bamboo-hairbrush-allbambu"/>
+    <title>Bamboo Hairbrush</title>
+    <s:type>Bamboo Hairbrush</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/brush1.png?v=1605052157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Hairbrush<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Made from organically grown bamboo, this eco-friendly hairbrush is suitable for all hair types and is the ultimate hair accessory for your hair. </span><span data-mce-fragment="1">Stylish contoured smooth bamboo handle is biodegradable and antibacterial. </span><span data-mce-fragment="1">The pins are bamboo as well which help naturally condition your hair, and evenly distribute your hairs' natural oils. </span><span data-mce-fragment="1">The bamboo pins also stimulates and massages your scalp to improve blood flow. </span><span data-mce-fragment="1">The anti-static properties of the pins prevent hair static, flyaway and frizziness</span><br>
+<ul data-mce-fragment="1"></ul>
+<h3 class="fw600">Product Specifications</h3>
+<ul>
+<li>Lightweight</li>
+<li>Natural Rubber Cushioning</li>
+<li>Gentle Detangling</li>
+<li>Bamboo handle is biodegradable and antibacterial</li>
+<li>Naturally conditions hair</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hairbrushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634029064247</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>97</s:grams>
+    </s:variant>
+  </entry>
+</feed>

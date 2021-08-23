@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/iphone-cases.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2018-06-18T13:45:53-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/692119175223</id>
+    <published>2018-06-18T13:45:53-07:00</published>
+    <updated>2018-06-18T13:45:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/stand-tall-darling-iphone-case-signe-collection"/>
+    <title>Stand Tall Darling iPhone Case | 6/6S/7/8</title>
+    <s:type>Phone Case</s:type>
+    <s:vendor>Signé Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/PicMonkey_Sample-8.jpg?v=1532298333"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Signé Collection<br>
+        <strong>Type: </strong>Phone Case<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Stand tall darling, treat yourself to a Signé phone case!</p>
+<h3>Features + Benefits</h3>
+<p>• Fits the iPhone 6/6S, 7 and 8<br>• Raised bumper on sides for full protection<br>• Military drop tested<br>• Scratch resistant<br>• Access to all charging/electronic ports</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone Cases</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/692119175223</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>64</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/691793952823</id>
+    <published>2018-06-18T13:45:52-07:00</published>
+    <updated>2018-06-18T13:45:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/ive-got-my-eye-on-you-iphone-case-signe-collection"/>
+    <title>I&apos;ve Got My Eye On You iPhone Case |  6+/7+/8+</title>
+    <s:type>Phone Case</s:type>
+    <s:vendor>Signé Collection</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/PicMonkey_Sample-6.jpg?v=1532298313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Signé Collection<br>
+        <strong>Type: </strong>Phone Case<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">I've got my eye on you, treat yourself to a Signé iphone case!</p>
+<p data-mce-fragment="1"><br data-mce-fragment="1">• Fits the iPhone 6+, 7+ and 8+<br data-mce-fragment="1">• Raised bumper on sides for full protection<br data-mce-fragment="1">• Military drop tested<br data-mce-fragment="1">• Scratch resistant<br data-mce-fragment="1">• Access to all charging/electronic ports </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>iPhone Cases</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/691793952823</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>64</s:grams>
+    </s:variant>
+  </entry>
+</feed>

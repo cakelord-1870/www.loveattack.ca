@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/reusable-straws.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-02-15T14:40:15-08:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/4675324117047</id>
+    <published>2021-02-15T14:40:15-08:00</published>
+    <updated>2021-02-15T14:40:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/bamboo-straw-single-sip-naked"/>
+    <title>Bamboo Straw - Single</title>
+    <s:type>Bamboo Straws</s:type>
+    <s:vendor>Sip Naked</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/sip-naked-bamboo-straws_4_62966bbc-79ca-4f3a-9739-8ce6415e0e86.png?v=1613095373"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sip Naked<br>
+        <strong>Type: </strong>Bamboo Straws<br>
+        <strong>Price: </strong>
+            1.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Sip Naked believes in sustainable living. They encourage everyone to not only practice the 3 Rs, but to reinforce that the first R is reduce. Recycling is a last resort, used only when we are no longer able to reduce or reuse.</p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>Bamboo is naturally anti-microbial and anti-bacterial. It requires no irrigation or pesticides.</span></p>
+<p data-mce-fragment="1"><span><meta charset="utf-8">Bamboo is ideal for hot and cold drinks because bamboo is temperature resistant. <meta charset="utf-8">No matter what your drinking—a warm cup of tea, piping hot chocolate, or an icy cold drink—our bamboo straws make it easy to enjoy any beverage while being environmentally conscious.</span></p>
+<p data-mce-fragment="1">Each straw is made in China from moso bamboo and the boxes are made and printed in British Columbia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Straws</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4675324117047</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1.50</s:price>
+      <s:sku></s:sku>
+      <s:grams>5</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4675323199543</id>
+    <published>2021-02-15T14:40:15-08:00</published>
+    <updated>2021-02-15T14:40:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/bamboo-straws-15pack-sip-naked"/>
+    <title>Bamboo Straws - 15 Pack</title>
+    <s:type>Bamboo Straws</s:type>
+    <s:vendor>Sip Naked</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/sip-naked-bamboo-straws.png?v=1613095011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sip Naked<br>
+        <strong>Type: </strong>Bamboo Straws<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Sip Naked believes in sustainable living. They encourage everyone to not only practice the 3 Rs, but to reinforce that the first R is reduce. Recycling is a last resort, used only when we are no longer able to reduce or reuse.</p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>Bamboo is naturally anti-microbial and anti-bacterial. It requires no irrigation or pesticides.</span></p>
+<p data-mce-fragment="1"><span><meta charset="utf-8">Bamboo is ideal for hot and cold drinks because bamboo is temperature resistant. <meta charset="utf-8">No matter what your drinking—a warm cup of tea, piping hot chocolate, or an icy cold drink—our bamboo straws make it easy to enjoy any beverage while being environmentally conscious.</span></p>
+<p data-mce-fragment="1">Each straw is made in China from moso bamboo and the boxes are made and printed in British Columbia.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Straws</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4675323199543</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>105</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634032341047</id>
+    <published>2020-11-19T11:18:20-08:00</published>
+    <updated>2020-11-19T11:18:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/bamboo-smoothie-straws-allbambu"/>
+    <title>Bamboo Smoothie Straws - Pack of 2</title>
+    <s:type>Bamboo Straws</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/smoothie1.png?v=1605053021"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Straws<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li>A perfect zero-waste alternative to plastic straws!</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Made from organically grown bamboo, these straws are reusable, zero-plastic, vegan, 100% biodegradable</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Great for parties, home &amp; office use and even ideal to carry with you on the go</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Ideal for all type of drinks - Hot and Cold</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Superior option to paper &amp; stainless-steel straws</p>
+</li>
+</ul>
+<h1 data-mce-fragment="1"><strong>Cleaning and Maintenance</strong></h1>
+<p data-mce-fragment="1">These straws are made from 100% natural bamboo and should be cleaned before using. Keep dry when not in use. </p>
+<h1 class="fw600"><strong>Product Specifications</strong></h1>
+<ul>
+<li>Length: 19.5 cm</li>
+<li>Width: 8mm -10 mm</li>
+<li>Cleaner included</li>
+<li>Hand wash recommended</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Straws</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634032341047</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>37</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634031521847</id>
+    <published>2020-11-19T11:18:19-08:00</published>
+    <updated>2020-11-19T11:18:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/bamboo-straws-5pack-allbambu"/>
+    <title>Bamboo Straws - Pack of 5</title>
+    <s:type>Bamboo Straws</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/straws6.png?v=1605052825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Straws<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li>A perfect zero-waste alternative to plastic straws!</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Made from organically grown bamboo, these straws are reusable, zero-plastic, vegan, 100% biodegradable</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Great for parties, home &amp; office use and even ideal to carry with you on the go</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Ideal for all type of drinks - Hot and Cold</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Superior option to paper &amp; stainless-steel straws</p>
+</li>
+</ul>
+<h1 data-mce-fragment="1"><strong>Cleaning and Maintenance</strong></h1>
+<p data-mce-fragment="1">These straws are made from 100% natural bamboo and should be cleaned before using. Keep dry when not in use. </p>
+<h1 class="fw600"><strong>Product Specifications</strong></h1>
+<ul>
+<li>Length: 19.5 cm</li>
+<li>Width: 3-5 mm</li>
+<li>Cleaner Included</li>
+<li>Hand wash recommended</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Straws</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634031521847</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634031194167</id>
+    <published>2020-11-19T11:18:18-08:00</published>
+    <updated>2020-11-19T11:18:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/bamboo-straws-10pack-allbambu"/>
+    <title>Bamboo Straws - Pack of 10</title>
+    <s:type>Bamboo Straws</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/straws1.png?v=1605052694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Straws<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li>A perfect zero-waste alternative to plastic straws!</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Made from organically grown bamboo, these straws are reusable, zero-plastic, vegan, 100% biodegradable</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Great for parties, home &amp; office use and even ideal to carry with you on the go</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Ideal for all type of drinks - Hot and Cold</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Superior option to paper &amp; stainless-steel straws</p>
+</li>
+</ul>
+<h1 data-mce-fragment="1"><strong>Cleaning and Maintenance</strong></h1>
+<p data-mce-fragment="1">These straws are made from 100% natural bamboo and should be cleaned before using. Keep dry when not in use. </p>
+<h1 class="fw600"><strong>Product Specifications</strong></h1>
+<ul>
+<li>Length: 19.5 cm</li>
+<li>Width: 3-5 mm</li>
+<li>Cleaner Included</li>
+<li>Hand wash recommended</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Straws</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634031194167</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>79</s:grams>
+    </s:variant>
+  </entry>
+</feed>

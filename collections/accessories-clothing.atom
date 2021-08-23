@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/accessories-clothing.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2017-11-03T06:08:13-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/10345110017</id>
+    <published>2017-11-03T06:08:13-07:00</published>
+    <updated>2017-11-03T06:08:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/the-basic-toque-in-black"/>
+    <title>Basic Toque - Red</title>
+    <s:type>Hat</s:type>
+    <s:vendor>Love Attack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/RED_fe71e87a-d600-48c7-872c-babd5cafbf7a.jpg?v=1625252419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Attack<br>
+        <strong>Type: </strong>Hat<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div>
+<ul style="text-align: left;">
+<li>Basic extra long style toque</li>
+<li>Unisex style</li>
+</ul>
+<h3>Product Information</h3>
+</div>
+Product is made from 100% Acrylic</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hats</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/10345110017</id>
+      <title>Red</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/10268030849</id>
+    <published>2017-10-16T17:52:53-07:00</published>
+    <updated>2017-10-16T17:52:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/magic-eye-sparkle-shorty-sock-strathcona-stockings"/>
+    <title>Magic Eye Sparkle Shorty Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Strathcona Stockings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Magic_Eye_Sparkle_Socks.jpg?v=1507298381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Strathcona Stockings<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: left;">
+<div>
+<meta charset="utf-8">
+<span></span>
+</div>
+<h1><strong>Strathcona Stockings Magic Eye Sparkle Shorty Socks</strong></h1>
+<div>
+<span>Strathcona</span><span> </span><span>Stockings</span><span> specializes in fine printed socks, objects and leisure wear. The brand is recognized for its unique and varied patterns, all of which are original works: painted, collaged, photographed or drawn by founder/artist</span><span> </span><em>Ryley O'Byrne, </em><span>who started the brand after leaving her </span><span>position</span><span> as Aritzia's creative director of marketing.</span>
+</div>
+<ul>
+<li>Specialty printed with felt pen drawing</li>
+<li>Fine and sparkly shorty sock </li>
+<li>Size 6-11</li>
+<li>Semi-opaque</li>
+<li>Unisex</li>
+<li>Treat socks with care, the colours may fade with age and wear.</li>
+<li>Printed in Canada</li>
+</ul>
+</div>
+<div>
+<div style="text-align: center;"><span><strong><em></em></strong></span></div>
+<div style="text-align: center;"><meta charset="utf-8"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Socks</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/10268030849</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/10268039361</id>
+    <published>2017-10-16T17:52:11-07:00</published>
+    <updated>2017-10-16T17:52:11-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/japanese-lover-sparkle-shorty-socks-stratchcona-stockings"/>
+    <title>Japanese Lover Sparkle Shorty Unisex Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Strathcona Stockings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Sparkle_Japanese_lover.jpg?v=1507298554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Strathcona Stockings<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">
+<div data-mce-fragment="1">
+<span data-mce-fragment="1">Strathcona</span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">Stockings</span><span data-mce-fragment="1"> specializes in fine printed socks, objects and leisure wear. The brand is recognized for its unique and varied patterns, all of which are original works: painted, collaged, photographed or drawn by founder/artist</span><span data-mce-fragment="1"> </span><span data-mce-fragment="1">Ryley O'Byrne, </span><span data-mce-fragment="1">who started the brand after leaving her </span><span data-mce-fragment="1">position</span><span data-mce-fragment="1"> as Aritzia's creative director of marketing.</span>
+</div>
+<div data-mce-fragment="1"><span data-mce-fragment="1"></span></div>
+<h3 data-mce-fragment="1"><span data-mce-fragment="1">Features + Benefits</span></h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Original collage print of Japanese woodblock prints<br data-mce-fragment="1">
+</li>
+<li data-mce-fragment="1">Fine and sparkly shorty sock </li>
+<li data-mce-fragment="1">Size 6-11</li>
+<li data-mce-fragment="1">Semi-opaque</li>
+<li data-mce-fragment="1">Unisex</li>
+<li data-mce-fragment="1">Treat socks with care, the colours may fade with age and wear.</li>
+<li data-mce-fragment="1">Individually printed in Canada</li>
+</ul>
+</div>
+<div data-mce-fragment="1">
+<div data-mce-fragment="1"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Socks</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/10268039361</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/10268020929</id>
+    <published>2017-10-16T17:50:10-07:00</published>
+    <updated>2017-10-16T17:50:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/the-insect-sparkle-shorty-sock-strathcona-stockings"/>
+    <title>Insect Sparkle Shorty Unisex Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Strathcona Stockings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Insect_Sparkle_Sock.jpg?v=1507298205"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Strathcona Stockings<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Strathcona Stockings specializes in fine printed socks, objects and leisure wear. The brand is recognized for its unique and varied patterns, all of which are original works: painted, collaged, photographed or drawn by founder/artist Ryley O'Byrne<em>, </em>who started the brand after leaving her position as Aritzia's creative director of marketing.</p>
+<h3>Features + Benefits</h3>
+<ul>
+<li>Fun entomological print </li>
+<li>Fine and sparkly shorty sock </li>
+<li>Size 6-11</li>
+<li>Semi-opaque</li>
+<li>Unisex</li>
+<li>Treat socks with care, the colours may fade with age and wear.</li>
+<li>Printed in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Socks</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/10268020929</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/10264530497</id>
+    <published>2017-10-16T17:44:32-07:00</published>
+    <updated>2017-10-16T17:44:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/purple-weed-socks-strathcona-stockings"/>
+    <title>Purple Weed Unisex Dress Socks</title>
+    <s:type>Socks</s:type>
+    <s:vendor>Strathcona Stockings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Purple_Weed_Socks.jpg?v=1507239758"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Strathcona Stockings<br>
+        <strong>Type: </strong>Socks<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div><meta charset="utf-8"></div>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<p>Strathcona Stockings specializes in fine printed socks, objects and leisure wear. The brand is recognized for its unique and varied patterns, all of which are original works: painted, collaged, photographed or drawn by founder/artist <em>Ryley O'Byrne, </em>who started the brand after leaving her position as Aritzia's creative director of marketing.</p>
+<h3>Features + Benefits</h3>
+</div>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<meta charset="utf-8">
+<h3 style="text-align: left;" data-mce-style="text-align: left;"><meta charset="utf-8"></h3>
+<ul>
+<li>
+<p>Collage print of Mary Jane botanicals </p>
+</li>
+<li>
+<p>Soft and silky feel</p>
+</li>
+<li>
+<p>Mid calf to knee-high fit depending on foot size &amp; height</p>
+</li>
+<li>
+<p>One size fits all</p>
+</li>
+<li>
+<p>Opaque</p>
+</li>
+<li>
+<p>Unisex</p>
+</li>
+<li>
+<p>Treat socks with care, the colours may fade with age and wear.</p>
+</li>
+<li>
+<p>Speciality printed in the USA, Canadian designed</p>
+</li>
+</ul>
+<p> </p>
+</div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><br></div>
+<br>
+<p> </p>
+<ul style="display: inline !important;" data-mce-style="display: inline !important;">
+<li style="display: inline !important;" data-mce-style="display: inline !important;"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;" data-mce-style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;"> </span></li>
+</ul>
+<div style="text-align: center;" data-mce-style="text-align: center;"><span><strong><em></em></strong></span></div>
+<div style="text-align: center;" data-mce-style="text-align: center;"><meta charset="utf-8"></div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Socks</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/10264530497</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>38</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/10268212737</id>
+    <published>2017-10-06T08:06:44-07:00</published>
+    <updated>2017-10-06T08:06:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/the-hey-babe-graphic-tee-brunette-the-label"/>
+    <title>Hey Babe Graphic Tee</title>
+    <s:type>Tee</s:type>
+    <s:vendor>Brunette the Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/heybabe_Fotor.jpg?v=1532620685"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brunette the Label<br>
+        <strong>Type: </strong>Tee<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p style="text-align: left;"><strong></strong>Boyfriend Fit white tee with Hey Babe black graphic</p>
+<div style="text-align: left;"><span></span></div>
+<h3 style="text-align: left;">Product Information</h3>
+<ul>
+<li>100% cotton</li>
+<li>Model wears size s/m</li>
+<li>Printed in Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>T-Shirts</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/10268212737</id>
+      <title>S/M</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/10268212737</id>
+      <title>M/L</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>109</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/10268142913</id>
+    <published>2017-10-06T07:21:40-07:00</published>
+    <updated>2017-10-06T07:21:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/the-blonde-sweatshirt-in-heather-grey-brunette-the-label"/>
+    <title>Blonde Crew Sweatshirt in Grey</title>
+    <s:type>Sweater</s:type>
+    <s:vendor>Brunette the Label</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/blonde_grey_white.jpg?v=1507301558"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brunette the Label<br>
+        <strong>Type: </strong>Sweater<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div style="text-align: center;"></div>
+<div style="text-align: left;">
+<p>Heather grey classic crew neck sweatshirt with white Blonde graphic<br></p>
+</div>
+<h3 style="text-align: left;"><em><strong></strong></em></h3>
+<h3 style="text-align: left;">Product Information</h3>
+<div style="text-align: left;">
+<ul>
+<li>Printed in Canada</li>
+<li>Model wears size S/M</li>
+<li>Made from 52% Polyester 48% Cotton </li>
+</ul>
+</div>
+<div><span></span></div>
+<div><span></span></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Sweatshirts</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/10268142913</id>
+      <title>XS/S</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>368</s:grams>
+    </s:variant>
+  </entry>
+</feed>

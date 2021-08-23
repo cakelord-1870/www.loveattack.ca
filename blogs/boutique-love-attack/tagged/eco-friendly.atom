@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/blogs/boutique-love-attack.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/blogs/boutique-love-attack"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/blogs/boutique-love-attack/tagged/eco-friendly.atom"/>
+  <title>Boutique Love Attack - Boutique Love Attack</title>
+  <updated>2021-06-17T14:37:44-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/blogs/boutique-love-attack/cotton-swabs-are-not-sexy</id>
+    <published>2021-03-15T18:21:19-07:00</published>
+    <updated>2021-03-15T18:21:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/blogs/boutique-love-attack/cotton-swabs-are-not-sexy"/>
+    <title>Cotton Swabs Are Not Sexy...</title>
+    <author>
+      <name>Zoë John</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8"><meta charset="utf-8">
+<p><span>Let's face it, cotton swabs aren't the sexiest product to come out with, but my oh my, am I so glad that I launched this eco-friendly and sustainable swab swap.</span></p>
+<p><span> When brainstorming a new product, I like to take a look at my own personal body and skincare routines. What products am I reaching for the most often? What am I using that is wasteful? How can I do better to reduce waste? I then jot these products all down and get to work sourcing the best eco-friendly solutions.</span></p>
+<p><span> These biodegradable swabs, are the end result in one of these product idea brain dumps.</span></p>
+<h3><span>Why choose this zero-waste alternative?</span></h3>
+<p>Traditional cotton buds are used for 5-10 seconds on average for each use. That is very little use time considering that plastic can take over <a href="https://pelacase.com/blogs/news/does-plastic-degrade" target="_blank" title="https://pelacase.com/blogs/news/does-plastic-degrade" rel="noopener noreferrer">450 years to decompose</a>. WHOOPS. Does anyone else feel bad now for using single use plastic cotton buds for decades? </p>
+<meta charset="utf-8">
+<p> Sometimes fully giving up using a product because it just sucks for the environment is simply not an option. I think it is important to offer a more sustainable and zero waste solution which customers can choose from. It is all about taking a step in the right direction and making more thoughtful and conscious choices.</p>
+<meta charset="utf-8">
+<p><span>Although my own brand of <a href="https://www.loveattack.ca/products/organic-biodegradable-bamboo-cotton-buds-love-attack" target="_blank" title="Love Attack Biodegradable Organic Cotton and Bamboo Swabs " rel="noopener noreferrer">Organic Biodegradable Bamboo Cotton Buds</a> are still single use, each swab is made from organic cotton and bamboo which are 100% natural plant fibres. This means that these swabs can can be placed in compost bin and will only take on average </span><a href="https://www.down2earthmaterials.ie/2013/02/14/decompose/#:~:text=Cotton%3A%201%2D5%20months" target="_blank" title="https://www.down2earthmaterials.ie/2013/02/14/decompose/#:~:text=Cotton%3A%201%2D5%20months" rel="noopener noreferrer">1-5 months</a><span> to decompose in a landfill. They have the added bonus of being packaged in recyclable paper boxes instead of plastic packaging so they are 100% waste-free!</span></p>
+<h3><span>Cotton swabs are not just for cleaning your ears...</span></h3>
+<p> I think most people just use single-use plastic cotton swabs for one thing, to clean their ears. Not the most glamorous application; it's just the reality. But there are SO MANY other applications for choosing a more eco-friendly swab.</p>
+<p> From touching up, applying or removing make up, removing nail polish mishaps, arts and crafts, cleansing babies, cleaning doggy wrinkles, cleaning electronics, removing brow or lash tint...there are so many ways you can use these little natural beauties!</p>
+<p> I use swabs to clean my ears OBVZ but also whenever I paint my nails to remove any mistakes, to clean up my hair line when I dye my roots each month and to remove brow tint from my skin to prevent staining. I also use them to clean <a href="https://www.instagram.com/montythemegaesophagusdog/" target="_blank" title="Monty the Megaesophagus Dog Instagram Page " rel="noopener noreferrer">Monty's</a> eyes, wrinkles and ears whenever he needs a little TLC.</p>
+<p> I have noticed a huge reduction in the waste that I am producing just from this one simple swap alone.</p>
+<p> </p>
+<p> </p>
+<h3>Shop now </h3>
+<p> </p>
+<p> </p>
+<meta charset="utf-8">
+<p><span> </span> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<div id="product-component-1615854560974"></div>
+<script type="text/javascript">// <![CDATA[
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'fishpuppy.myshopify.com',
+      storefrontAccessToken: '9106a5a95c2c24c631e368d8cc1be055',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('product', {
+        id: '6538497523767',
+        node: document.getElementById('product-component-1615854560974'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px"
+        }
+      },
+      "button": {
+        "font-family": "Arial, sans-serif",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        ":hover": {
+          "background-color": "#b69d89"
+        },
+        "background-color": "#caae98",
+        ":focus": {
+          "background-color": "#b69d89"
+        },
+        "border-radius": "40px"
+      },
+      "quantityInput": {
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px"
+      }
+    },
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "font-family": "Arial, sans-serif",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        ":hover": {
+          "background-color": "#b69d89"
+        },
+        "background-color": "#caae98",
+        ":focus": {
+          "background-color": "#b69d89"
+        },
+        "border-radius": "40px"
+      },
+      "quantityInput": {
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px"
+      }
+    },
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "option": {},
+  "cart": {
+    "styles": {
+      "button": {
+        "font-family": "Arial, sans-serif",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        ":hover": {
+          "background-color": "#b69d89"
+        },
+        "background-color": "#caae98",
+        ":focus": {
+          "background-color": "#b69d89"
+        },
+        "border-radius": "40px"
+      }
+    },
+    "text": {
+      "total": "Subtotal",
+      "button": "Checkout"
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-family": "Arial, sans-serif",
+        "background-color": "#caae98",
+        ":hover": {
+          "background-color": "#b69d89"
+        },
+        ":focus": {
+          "background-color": "#b69d89"
+        }
+      },
+      "count": {
+        "font-size": "18px"
+      }
+    }
+  }
+},
+      });
+    });
+  }
+})();
+// ]]]]><![CDATA[></script>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/blogs/boutique-love-attack/why-switch-to-reusable-feminine-hygiene-products</id>
+    <published>2021-02-20T10:13:38-08:00</published>
+    <updated>2021-02-20T10:13:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/blogs/boutique-love-attack/why-switch-to-reusable-feminine-hygiene-products"/>
+    <title>Why Switch to Reusable Feminine Hygiene Products?</title>
+    <author>
+      <name>Zoë John</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Did you know that the vagina is the most permeable part of the female body? Disposable menstrual pads and liners contain a wide range of chemicals, neurotoxins, irritants, carcinogens and pesticides such as Chloromethane, Styrene, Acetone, Chloroform and Chloroethane. </p>
+<p> These names might not scare you right off the bat, but what if I phrased it like this? <strong>Acetone</strong> is what you use to take your nail polish off. <strong>Chloroethane</strong> is used to make styrofoam. <strong>Styrene</strong> is used to create rubber. <strong>Chloromethane</strong> is used in the petroleum industry for refinement. Scared yet? I know I was.</p>
+<p> These dangerous components which make up disposable pads and liners have been linked to reproduction harm, Toxic Shock Syndrome, Cancer and have been known to cause hormone disruptions. The face that each month women are exposing the most intimate and permeable part of their body these harmful chemicals is so scary.</p>
+<p>  It has also been proven that most pads and tampons are not actually made from cotton but rather synthetic materials like rayon and polymers. These materials are bleached with chlorine to give them that bright white effect. The bleaches used can cause endocrine disruption as well as allergies and potential reproductive toxicity. </p>
+<h3>Why Organic Cotton?</h3>
+<p>When buying menstrual products, you should always be looking for those made from<strong> organic cotton </strong>instead of traditionally grown cotton if shopping for disposable products. Organic cotton is grown using non GMO seeds and without the use of harmful fungicides and insecticides. It is grown in soil which contains no synthetic fertilizers and the leaves are removed by freeze drying instead of by toxic chemicals.</p>
+<h3>What are the alternatives?</h3>
+<p><strong><a href="https://www.natracare.com/" target="_blank" title="https://www.natracare.com/" rel="noopener noreferrer">Natracare</a></strong> here in Canada make disposable tampons, pads and liners which are made from 100% organic cotton and are a great alternative to unregulated feminine hygiene products.</p>
+<p> Reusable Period Cups such as <strong><a href="https://divacup.com/" target="_blank" title="https://divacup.com/" rel="noopener noreferrer">Diva Cup </a> </strong>are another great alternative to disposable products and they contain no plastics, chemicals or toxins. They are reusable time and time again and although the upfront cost is a little higher than the disposable variety, you will have this paid paid back within a few months as the reusable cups last for 12 months!</p>
+<p> Reusable Pads and Liners from Canada's own <strong><a href="https://www.loveattack.ca/collections/smartliners" target="_blank" title="Smartliners available ONLINE NOW Boutique Love Attack Canada" rel="noopener noreferrer">Smartliners</a></strong> are my personal choice when it comes to alternatives for menstrual pads and liners. They have a range of thong and regular size daily liners in <strong><a href="https://www.loveattack.ca/collections/smartliners/products/regular-black-washable-daily-liners-smartliners" target="_blank" title="Smarliner Pads Regular Washable Daily Liners Shop Now Boutique Love Attack " rel="noopener noreferrer">black</a></strong> or <strong><a href="https://www.loveattack.ca/collections/smartliners/products/washable-daily-liners-regular-smartliners" target="_blank" title="Smarliner Pads Regular Washable Daily Liners Shop Now Boutique Love Attack " rel="noopener noreferrer">white</a> </strong>which are made from 100% organic cotton and can be thrown in your regular washing and reused hundreds of times. They also make washable period pads for <strong><a href="https://www.loveattack.ca/collections/smartliners/products/washable-menstrual-pad-regular-flow-pad-smartliners" target="_blank" title="Washable Reusable Period Pad Regular Flow by Smartliners Pads available now Boutique Love Attack " rel="noopener noreferrer">regular</a></strong>, <strong><a href="https://www.loveattack.ca/collections/smartliners/products/washable-menstrual-pad-heavy-flow-pad-smartliners" target="_blank" title="Washable Reusable Period Pad Heavy Flow by Smartliners Pads available now Boutique Love Attack " rel="noopener noreferrer">heavy</a></strong> flows and a pad which is amazing for <strong><a href="https://www.loveattack.ca/collections/smartliners/products/washable-menstrual-pad-overnight-pad-smartliners" target="_blank" title="Washable Reusable Period Pad Overnight Flow by Smartliners Pads available now Boutique Love Attack " rel="noopener noreferrer">overnight</a></strong> use.</p>
+<p> Check out the range of reusable pads and liners from Smartliners below, available for sale now <strong><a href="https://www.loveattack.ca/" target="_blank" title="Boutique Love Attack Shop Online " rel="noopener noreferrer">Boutique Love Attack</a></strong>.</p>
+<div id="collection-component-1613844248542"></div>
+<script type="text/javascript">// <![CDATA[
+(function () {
+  var scriptURL = 'https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js';
+  if (window.ShopifyBuy) {
+    if (window.ShopifyBuy.UI) {
+      ShopifyBuyInit();
+    } else {
+      loadScript();
+    }
+  } else {
+    loadScript();
+  }
+  function loadScript() {
+    var script = document.createElement('script');
+    script.async = true;
+    script.src = scriptURL;
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(script);
+    script.onload = ShopifyBuyInit;
+  }
+  function ShopifyBuyInit() {
+    var client = ShopifyBuy.buildClient({
+      domain: 'fishpuppy.myshopify.com',
+      storefrontAccessToken: '9106a5a95c2c24c631e368d8cc1be055',
+    });
+    ShopifyBuy.UI.onReady(client).then(function (ui) {
+      ui.createComponent('collection', {
+        id: '60395946039',
+        node: document.getElementById('collection-component-1613844248542'),
+        moneyFormat: '%24%7B%7Bamount%7D%7D',
+        options: {
+  "product": {
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "calc(25% - 20px)",
+          "margin-left": "20px",
+          "margin-bottom": "50px",
+          "width": "calc(25% - 20px)"
+        },
+        "img": {
+          "height": "calc(100% - 15px)",
+          "position": "absolute",
+          "left": "0",
+          "right": "0",
+          "top": "0"
+        },
+        "imgWrapper": {
+          "padding-top": "calc(75% + 15px)",
+          "position": "relative",
+          "height": "0"
+        }
+      },
+      "button": {
+        "font-family": "Arial, sans-serif",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        ":hover": {
+          "background-color": "#b69d89"
+        },
+        "background-color": "#caae98",
+        ":focus": {
+          "background-color": "#b69d89"
+        },
+        "border-radius": "40px"
+      },
+      "quantityInput": {
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px"
+      }
+    },
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "productSet": {
+    "styles": {
+      "products": {
+        "@media (min-width: 601px)": {
+          "margin-left": "-20px"
+        }
+      }
+    }
+  },
+  "modalProduct": {
+    "contents": {
+      "img": false,
+      "imgWithCarousel": true,
+      "button": false,
+      "buttonWithQuantity": true
+    },
+    "styles": {
+      "product": {
+        "@media (min-width: 601px)": {
+          "max-width": "100%",
+          "margin-left": "0px",
+          "margin-bottom": "0px"
+        }
+      },
+      "button": {
+        "font-family": "Arial, sans-serif",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        ":hover": {
+          "background-color": "#b69d89"
+        },
+        "background-color": "#caae98",
+        ":focus": {
+          "background-color": "#b69d89"
+        },
+        "border-radius": "40px"
+      },
+      "quantityInput": {
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px"
+      }
+    },
+    "text": {
+      "button": "Add to cart"
+    }
+  },
+  "option": {},
+  "cart": {
+    "styles": {
+      "button": {
+        "font-family": "Arial, sans-serif",
+        "font-size": "18px",
+        "padding-top": "17px",
+        "padding-bottom": "17px",
+        ":hover": {
+          "background-color": "#b69d89"
+        },
+        "background-color": "#caae98",
+        ":focus": {
+          "background-color": "#b69d89"
+        },
+        "border-radius": "40px"
+      }
+    },
+    "text": {
+      "total": "Subtotal",
+      "button": "Checkout"
+    }
+  },
+  "toggle": {
+    "styles": {
+      "toggle": {
+        "font-family": "Arial, sans-serif",
+        "background-color": "#caae98",
+        ":hover": {
+          "background-color": "#b69d89"
+        },
+        ":focus": {
+          "background-color": "#b69d89"
+        }
+      },
+      "count": {
+        "font-size": "18px"
+      }
+    }
+  }
+},
+      });
+    });
+  }
+})();
+// ]]]]><![CDATA[></script>
+<p> </p>
+<br>
+<h3><iframe width="1280" height="720" src="https://www.youtube.com/embed/IfJZtV7T5Ho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></h3>
+<h3>Resources</h3>
+<p><strong>Natracare Plastic Free Period Products and Personal Care</strong></p>
+<p><em><a href="https://www.natracare.com/products/" target="_blank" title="https://www.natracare.com/products/" rel="noopener noreferrer">https://www.natracare.com/products/</a></em></p>
+<p><strong>Made Safe Feminine Care</strong></p>
+<p><em><a href="https://www.madesafe.org/education/whats-in-that/feminine-care/" target="_blank" title="https://www.madesafe.org/education/whats-in-that/feminine-care/" rel="noopener noreferrer">https://www.madesafe.org/education/whats-in-that/feminine-care/</a></em></p>
+<p><strong>Women's Voices for the Earth</strong></p>
+<p><a href="https://www.womensvoices.org/menstrual-care-products/detox-the-box/always-pads-testing-results/" target="_blank" title="Women's Voices for the Earth, Always Pads Testing Results" rel="noopener noreferrer"><em>https://www.womensvoices.org/menstrual-care-products/detox-the-box/always-pads-testing-results/</em></a></p>
+<p><strong>Smartlinerpads.com </strong></p>
+<p><a href="https://smartlinerpads.com/pages/why-switch-to-smartliners%E2%84%A2" target="_blank" title="Why Switch to Smartliners Pads?" rel="noopener noreferrer"><em>https://smartlinerpads.com/pages/why-switch-to-smartliners%E2%84%A2</em></a></p>
+<p><strong>Chemicals in our Life</strong><em><br></em></p>
+<p><a href="https://chemicalsinourlife.echa.europa.eu/chemicals-in-feminine-hygiene-products" target="_blank" title="https://chemicalsinourlife.echa.europa.eu/chemicals-in-feminine-hygiene-products" rel="noopener noreferrer"><em>https://chemicalsinourlife.echa.europa.eu/chemicals-in-feminine-hygiene-products</em></a></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/blogs/boutique-love-attack/5-easy-eco-friendly-product-swaps</id>
+    <published>2021-01-20T14:23:08-08:00</published>
+    <updated>2021-01-20T14:23:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/blogs/boutique-love-attack/5-easy-eco-friendly-product-swaps"/>
+    <title>5 Easy Eco-Friendly Product Swaps</title>
+    <author>
+      <name>Zoë John</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Starting off on a more <em>eco-friendly</em> journey can be daunting. These 5 easy eco-friendly product swaps are a great place to start...</p>
+<h3>Reusable Facial Rounds</h3>
+<p>Think how many single use cotton pads/rounds you go through on a daily basis. When I thought about it, I was charging through a solid pack of single-use cotton pads every few weeks. You use them to take off nail polish, remove eye make up, apply toner, clean up excess make up... the list goes on and on. When I realized just how wasteful this was, I decided to create my own pack of <strong><a href="https://www.loveattack.ca/collections/our-products-love-attack/products/organic-cotton-reusable-facial-rounds" target="_blank" title="LOVE ATTACK REUSABLE FACIAL ROUNDS" rel="noopener noreferrer">reusable facial rounds</a></strong>! Each pad comes with 3 layers of organic cotton and can be used up to 100 times per pad. An amazing swap that is great for not only the environment, but also your wallet!</p>
+<p><a href="https://www.loveattack.ca/collections/our-products-love-attack/products/organic-cotton-reusable-facial-rounds" target="_blank" title="Boutique Love Attack Reusable Facial Rounds" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/1951/0465/files/3_bdb873c7-6bb2-42dd-803c-000590264e08_1024x1024.png?v=1611180955" alt="Boutique Love Attack Reusable Cotton Rounds "></a></p>
+<h3>Bamboo Straws</h3>
+<p>Bamboo Straws are an easy place to start when it comes to more sustainable and eco-friendly products. So many plastic straws end up in refills each year and they take FOREVER to break down. Like seriously....forever. I love these reusable and sustainable <strong><a href="https://www.loveattack.ca/collections/home-straws" target="_blank" title="Reusable Bamboo Straws Boutique Love Attack " rel="noopener noreferrer">bamboo straws</a></strong> from <strong><a href="https://www.loveattack.ca/collections/allbambu" target="_blank" title="AllBambu available online now Boutique Love Attack" rel="noopener noreferrer">AllBambu</a></strong> who make amazing cruelty free and vegan products all made from bamboo. </p>
+<meta charset="utf-8">
+<p><a href="https://www.loveattack.ca/collections/home-straws" target="_blank" title="Boutique Love Attack allBambu Reusable Bamboo Straws" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/1951/0465/files/4_6d0fa816-9333-4158-91af-9a0e569c62b8_1024x1024.png?v=1611181024" alt="Boutique Love Attack allBambu Reusable Bamboo Straws"></a></p>
+<h3>Washable Menstrual Products</h3>
+<p>One of the best selling eco-friendly products I stock is the reusable and washable menstrual<strong> <a href="https://www.loveattack.ca/collections/bathroom-menstrual-products" target="_blank" title="Reusable Menstrual Pads and Liners Smartliner Pads Boutique Love Attack " rel="noopener noreferrer">pads and liners</a></strong> from Quebec based brand <strong><a href="https://www.loveattack.ca/collections/smartliners" target="_blank" title="Smartliners Reusable Menstrual Pads and Liners Boutique Love Attack" rel="noopener noreferrer">Smartliners</a></strong>. They create these amazing waste-free and reusable pads and liners from 100% organic cotton. They also have the added benefit of not containing any harmful chemicals, dyes or toxins.</p>
+<p><a href="https://www.loveattack.ca/collections/smartliners" target="_blank" title="Boutique Love Attack Smartliner Pads Washable Menstrual Pads + Liners" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/1951/0465/files/2_55ebc7fb-3529-41ec-ab12-7373ac3fb78c_1024x1024.png?v=1611181089" alt="Boutique Love Attack Smartliner Pads Washable Menstrual Pads + Liners"></a></p>
+<meta charset="utf-8">
+<div style="text-align: start;"><img src="https://cdn.shopify.com/s/files/1/0246/9032/7645/products/photo_2019-06-21_2_43_43_pm_1024x1024@2x_1024x1024.jpg?v=1580928979" alt="" style="float: none;"></div>
+<h3>Waste-Free Dish Soap Blocks</h3>
+<p>These amazing eco-friendly <strong><a href="https://www.loveattack.ca/collections/home-dish-soap" target="_blank" title="Dish Soap Blocks Make Nice Company Boutique Love Attack " rel="noopener noreferrer">dish soap blocks</a></strong> from Vancouver based brand <strong><a href="https://www.loveattack.ca/collections/make-nice-company" target="_blank" title="Make Nice Company Dish Soap Blocks Boutique Love Attack " rel="noopener noreferrer">Make Nice Company</a></strong> replace up to 3 bottles of plastic liquid dish soap bottles and the large replaces up to 6! Not only are you reducing your plastic waste, you are also saving money. A double-win!</p>
+<p><a href="https://www.loveattack.ca/collections/make-nice-company" target="_blank" title="Boutique Love Attack Make Nice Company Waste Free Dish Soap Blocks" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/1951/0465/files/5_e16e303a-390a-4fdd-846a-a4469e1ac173_1024x1024.png?v=1611181145" alt="Boutique Love Attack Make Nice Company Waste Free Dish Soap Blocks"></a></p>
+<h3>Bamboo Toothbrushes</h3>
+<p>This was my first eco-friendly swap that I made. Plastic toothbrushes can literally take a LIFETIME to break down. These <strong><a href="https://www.loveattack.ca/collections/bathroom-oral-care" target="_blank" title="Bathroom Reusable Oral Care Toothbrushes Boutique Love Attack " rel="noopener noreferrer">bamboo toothbrushes</a></strong> from <strong><a href="https://www.loveattack.ca/collections/brush-naked" target="_blank" title="Brush Naked Bamboo Toothbrushes Boutique Love Attack " rel="noopener noreferrer">Brush Naked</a> </strong>are an amazing product to start out your eco-friendly journey with. They come in 4 different colours and even in cute kid sizes so your whole family can join in on the fun.</p>
+<meta charset="utf-8">
+<p><a href="https://www.loveattack.ca/collections/brush-naked" target="_blank" title="Boutique Love Attack Bamboo Toothbrushes from Brush Naked" rel="noopener noreferrer"><img src="https://cdn.shopify.com/s/files/1/1951/0465/files/6_0d06b11c-4fbb-41ce-bd4c-de16961502cd_1024x1024.png?v=1611181197" alt="Boutique Love Attack Bamboo Toothbrushes from Brush Naked"></a></p>
+<p>Shop all cruelty free, eco-friendly and all natural products online now <strong><a href="www.loveattack.ca" target="_blank" title="Love Attack Home Page" rel="noopener noreferrer">www.loveattack.ca</a></strong> . Need a recommendation? <a href="mailto:zoe@loveattack.ca" target="_blank" title="Boutique Love Attack Contact Email" rel="noopener noreferrer"><strong>Reach out to me</strong></a> and I would love to help you!</p>
+<p> </p>]]>
+    </content>
+  </entry>
+</feed>

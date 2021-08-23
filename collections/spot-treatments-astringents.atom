@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/spot-treatments-astringents.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2018-09-19T11:16:58-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/1398133096503</id>
+    <published>2018-09-19T11:16:58-07:00</published>
+    <updated>2018-09-19T11:16:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/original-witch-hazel-astringent-thayers"/>
+    <title>Original Witch Hazel Aloe Vera Astringent</title>
+    <s:type>Astringent</s:type>
+    <s:vendor>Thayers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/6576-Original-Astringent.png?v=1574828350"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Thayers<br>
+        <strong>Type: </strong>Astringent<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><span>Experience home-grown healing power with THAYERS® Original Astringent. This gentle astringent is derived from a honoured formula, developed by Thayers to cleanse, tone, moisturize, and balance the pH level of skin. In addition to containing certified organic Aloe Vera, this unique, proprietary blend also contains certified organic, non-distilled Witch Hazel that’s grown exclusively for Thayers on a family farm in Fairfield County, Connecticut. By avoiding distillation of our Witch Hazel, we’re able to preserve the naturally-occurring, beneficial tannins, which are known to offer antioxidant and antibacterial benefits, and bring about a natural glow. Thayers elixirs have been a fixture in medicine cabinets for generations – once you use them, you’ll know why.</span></p>
+<p><span>Paraben-Free • Phthalate-Free • Gluten-Free</span></p>
+<p>12 oz. bottle</p>
+<p> </p>
+<h3>Ingredients</h3>
+<p>Purified  Water,  SD Alcohol 40-B (Natural Grain), Glycerin (Vegetable), Natural Fragrance, Certified Organic Witch Hazel Ext Blend  (Hamamelis virginiana Extract (Witch Hazel*), Aloe barbadensis Leaf Juice (Filet of Aloe Vera*)), Phenoxyethanol<br>* Denotes Certified Organic Ingredients</p>
+<h3>Directions</h3>
+<p> Apply with a cotton ball or soft pad to cleanse, soften, refresh and moisturize skin. Use anytime throughout the day as a softening refresher.</p>
+<h3>Warning </h3>
+<p>For external use only. Avoid contact with eyes. If contact occurs, flush thoroughly with water. Keep out of reach of children.</p>
+<p>The carefully selected, naturally sourced ingredients in this product may have undergone limited processing. Variations in colour, clarity, etc. can be expected from lot to lot due to our use of naturally occurring ingredients.  Please note that ingredient decks may change from time to time.  Ingredients listed here may differ from what is listed on your product package or label.  Please refer to product package or label for the most up-to-date ingredients for the product you receive.  Info on this site is intended for educational and informational purposes only.  Since each experience is unique, this information is in not intended to make claims to any individual experience.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Spot Treatments + Astringents</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/1398133096503</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>389</s:grams>
+    </s:variant>
+  </entry>
+</feed>

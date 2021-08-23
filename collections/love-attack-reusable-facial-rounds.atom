@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/love-attack-reusable-facial-rounds.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-06-29T09:45:50-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/6575671902263</id>
+    <published>2021-06-29T09:45:50-07:00</published>
+    <updated>2021-06-29T09:45:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/reusable-organic-cotton-facial-rounds-pink-love-attack"/>
+    <title>Reusable Organic Cotton Facial Rounds - Pink</title>
+    <s:type>Washable Reusable Organic Cotton Rounds</s:type>
+    <s:vendor>Love Attack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/love-attack-reusable-cotton-rounds-pink-1.png?v=1624918014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Attack<br>
+        <strong>Type: </strong>Washable Reusable Organic Cotton Rounds<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Reusable bubblegum pink facial rounds made from </span><span>100% organic cotton</span><span>! These reusable</span><span> </span><span>cotton rounds are the perfect </span><span>replacement for single-use cotton pads, cotton balls and make up remover wipes</span><span>. Each reusable cotton round can be washed over 200 times making them the perfect</span><span> </span><span>eco-friendly alternative in your skincare routine. </span></p>
+<h3>Features + Benefits</h3>
+<ul>
+<li>10-pack of 3" diameter pads and mesh wash/carry bag both made from 100% <meta charset="utf-8">
+<span data-mce-fragment="1">GOTS Certified </span>organic cotton </li>
+<li>
+<meta charset="utf-8"> <span>Organic cotton reusable facial rounds can be washed over 200 times</span>
+</li>
+<li><span>Sustainable and eco-friendly alternative to disposable cotton pads and make up remover wipes</span></li>
+<li><span>3 layers of organic cotton make these reusable cotton rounds extremely soft and extremely durable</span></li>
+<li><span>Pink coloured reusable cotton facial rounds are perfect for applying and removing skincare and beauty products</span></li>
+</ul>
+<h3><strong>How to use</strong></h3>
+<p>Use these organic cotton face wipes to remove makeup, cleanse your face, for applying toner or whatever else you need them for throughout your skincare routine. Once used, simply throw used rounds into your new wash bag and toss them into your machine.</p>
+<p>Make sure you wash all your pads before first use. Wash on medium cycle. Air-dry pads after wash to maintain shape or line dry.</p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Facial Rounds + Cloths</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6575671902263</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku>LA-S-005</s:sku>
+      <s:grams>44</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4671151013943</id>
+    <published>2021-01-31T18:48:45-08:00</published>
+    <updated>2021-01-31T18:48:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/black-organic-cotton-reusable-facial-rounds"/>
+    <title>Reusable Organic Cotton Facial Rounds - Black</title>
+    <s:type>Washable Reusable Organic Cotton Rounds</s:type>
+    <s:vendor>Love Attack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/love-attack-reusable-cotton-rounds.jpg?v=1624925344"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Attack<br>
+        <strong>Type: </strong>Washable Reusable Organic Cotton Rounds<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Reusable black facial rounds made from </span><span>100% organic cotton</span><span>! These reusable</span><span> </span><span>cotton rounds are the perfect </span><span>replacement for single-use cotton pads, cotton balls and make up remover wipes</span><span>. Each reusable cotton round can be washed over 200 times making them the perfect</span><span> </span><span>eco-friendly alternative in your skincare routine. </span></p>
+<h3>Features + Benefits</h3>
+<ul>
+<li>10-pack of 3" diameter pads and mesh wash/carry bag both made from 100% GOTS Certified organic cotton </li>
+<li>
+<meta charset="utf-8"> <span>Organic cotton reusable facial rounds can be washed over 200 times</span>
+</li>
+<li><span>Sustainable and eco-friendly alternative to disposable cotton pads and make up remover wipes</span></li>
+<li><span>3 layers of organic cotton make these reusable cotton rounds extremely soft and extremely durable</span></li>
+<li><span>Black coloured reusable cotton facial rounds are perfect for removing eye make up, face masks or any other darker pigmented skincare or make up products</span></li>
+</ul>
+<h3><strong>How to use</strong></h3>
+<p>Use these organic cotton face wipes to remove makeup, cleanse your face, for applying toner or whatever else you need them for throughout your skincare routine. Once used, simply throw used rounds into your new wash bag and toss them into your machine.</p>
+<p>Make sure you wash all your pads before first use. Wash on medium cycle. Air-dry pads after wash to maintain shape or line dry.</p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Facial Rounds + Cloths</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4671151013943</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>LA-S-003</s:sku>
+      <s:grams>44</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4135237976119</id>
+    <published>2019-10-07T11:48:14-07:00</published>
+    <updated>2019-10-07T11:48:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/organic-cotton-reusable-facial-rounds"/>
+    <title>Reusable Organic Cotton Facial Rounds - White</title>
+    <s:type>Washable Reusable Organic Cotton Rounds</s:type>
+    <s:vendor>Love Attack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/love-attack-reusable-cotton-rounds-white.png?v=1624925144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Love Attack<br>
+        <strong>Type: </strong>Washable Reusable Organic Cotton Rounds<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Reusable white facial rounds made from 100% organic cotton! These reusable cotton rounds are the perfect replacement for single-use cotton pads, cotton balls and make up remover wipes. Each reusable cotton round can be washed over 200 times making them the perfect eco-friendly alternative in your skincare routine. </p>
+<h3>Features + Benefits</h3>
+<ul>
+<li>10-pack of 3" diameter pads and mesh wash/carry bag both made from 100% <meta charset="utf-8">
+<span data-mce-fragment="1">GOTS Certified </span>organic cotton </li>
+<li><span>Reusable facial rounds can be washed over 200 times</span></li>
+<li><span>Sustainable and eco-friendly alternative to disposable cotton pads and make up remover wipes</span></li>
+<li><span>3 layers of organic cotton make these reusable rounds extremely soft and extremely durable</span></li>
+<li><span>White coloured reusable cotton rounds are perfect for applying and removing toner and other clear or lighter coloured make up or skincare products</span></li>
+</ul>
+<h3><strong>How to use</strong></h3>
+<p>Use these organic cotton face wipes to remove makeup, cleanse your face, for applying toner or whatever else you need them for throughout your skincare routine. Once used, simply throw used rounds into your new wash bag and toss them into your machine.</p>
+<p>Make sure you wash all your pads before first use. Wash on medium cycle. Air-dry pads after wash to maintain shape or line dry.</p>
+<ul></ul>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Facial Rounds + Cloths</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4135237976119</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku>LA-S-002</s:sku>
+      <s:grams>44</s:grams>
+    </s:variant>
+  </entry>
+</feed>

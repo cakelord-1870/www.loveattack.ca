@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/kpure-natural-body-care.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-02-09T12:24:21-08:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674075164727</id>
+    <published>2021-02-09T12:24:21-08:00</published>
+    <updated>2021-02-09T12:24:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/get-closer-all-natural-deodorant-kpure-naturals"/>
+    <title>Get Closer All Natural Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-get-closer-deodorant_2.png?v=1612834012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            15.00 - 27.00
+            <a href="https://www.loveattack.ca/products/get-closer-all-natural-deodorant-kpure-naturals">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: left;">
+<meta charset="utf-8"> <meta charset="utf-8"> <meta charset="utf-8">
+<p>This light as air whipped mousse is moisturizing, deodorizing and absorbs wetness. With an uplifting unisex scent (patchouli/orange), it also works great to prevent smelly feet when applied to the bottoms of clean dry feet.  Made with organic shea butter, organic cocoa butter and almond oil to moisturize, activated charcoal to absorb wetness, and aluminum-free baking soda and a blend of essential oils to deodorize.  This formulation has been five years in the making, and has stood the test of marathon training, bootcamp sessions and everyday parenting life.</p>
+<p>Now available in a travel size mini.  Perfect for mid-day touchups. And now available in large 4oz. </p>
+<p>When transitioning to an all-natural deodorant, your body may need a couple of weeks to adjust. You may notice a detox period. This is your body ridding itself of your old antiperspirant and the chemicals in the antiperspirant.  You may notice a rash, heavy perspiration and/or odour. Don't give up! Apply the deodorant a couple of times a day if needed in the beginning, until your body adjusts to the changes. *Avoid using immediately after shaving. Shave in the evening if necessary, to avoid irritation.* The longer you use it, the less you need, and you will be able to skip a day while still smelling fresh. So if you notice redness or irritation after a couple of weeks, take a day or two break from the deodorant, or alternate with the Gentle, baking soda-free version, and then come back to it. It will be worth it, keeping the chemicals out of your body and/or breastmilk!</p>
+<p><iframe src="https://www.youtube.com/embed/jwTHxtMpvvU" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<ul></ul>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span>Organic Shea Butter, Organic Cocoa Butter, Organic Coconut Oil and Sweet Almond Oil, Arrowroot Powder, Activated Charcoal, Aluminum-free baking soda, rosewater,  organic witch hazel and a blend of organic essential oils. </span></p>
+<p><span><meta charset="utf-8">﻿***PLEASE NOTE: your deodorant will melt in warmer temperatures.  If it does melt, it will lose it's whipped consistency, but it will not affect the efficacy of the deodorant.  Simply give the deodorant a stir with a toothpick and place in the fridge to firm up.***</span></p>
+</div>
+<div style="text-align: left;"><strong></strong></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"><span></span></div>
+<div style="text-align: left;"><meta charset="utf-8"></div>
+<div style="text-align: left;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674075164727</id>
+      <title>4oz</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>119</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674075164727</id>
+      <title>2oz</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674076672055</id>
+    <published>2021-02-09T12:23:36-08:00</published>
+    <updated>2021-02-09T12:23:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/get-gently-closer-all-natural-deodorant-kpure-naturals"/>
+    <title>Get Gently Closer All Natural Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-get-gently-closer-deodorant.png?v=1612834612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-single__meta"><form data-product-form="" novalidate="novalidate" enctype="multipart/form-data" class="product-form product-form-product-template" id="product_form_5901604423" action="https://kpurenaturals.com/cart/add" method="post" accept-charset="UTF-8">
+<div class="product-form__controls-group product-form__controls-group--submit">
+<div class="product-form__item product-form__item--submit product-form__item--payment-button">
+<div class="shopify-payment-button" data-shopify="payment-button">
+<div>
+<div>
+<div>
+<div>
+<meta charset="utf-8">
+<span>A baking soda-free, all-natural deodorant that really works??  Yes! We've replaced baking soda with Magnesium and the biggest perk for you, is that it's naturally absorbent, both of moisture and odour. So if you have sensitive skin, or have adverse reactions to sodium bicarbonate (baking soda), this is THE deodorant for you! As with our regular deodorant, you may or may not experience a detox period, but be patient. Give the deodorant time to work, applying twice a day for the first few days if necessary. And the longer you use K'pure deodorants, the less you'll need to use.</span>
+</div>
+<div><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form></div>
+<div class="product-single__description rte"><br></div>
+<p><iframe src="https://www.youtube.com/embed/jwTHxtMpvvU" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<ul></ul>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span data-mce-fragment="1">Organic butyrospermum parkii (shea) butter, organic theobroma cacoa (cocoa) seed butter, organic cocos nuciferus (coconut) oil, prunus amygdalus dulcis (sweet almond) oil and tocopherol (Vitamin E) to moisturize and protect skin; maranta arudinacea (arrow) root powder and activated charcoal powder to absorb wetness, and magnesium hydroxide, rosa damascena (rose) flower water, organic hamamelis virginiana (witch hazel) and a blend of organic essential oils to deodorize.</span><br></p>
+<p><span><meta charset="utf-8">﻿***PLEASE NOTE: your deodorant will melt in warmer temperatures.  If it does melt, it will lose it's whipped consistency, but it will not affect the efficacy of the deodorant.  Simply give the deodorant a stir with a toothpick and place in the fridge to firm up.***</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674076672055</id>
+      <title>Lavender/Vanilla</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>133</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674076672055</id>
+      <title>Original (Patchouli/Orange)</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674078900279</id>
+    <published>2021-02-09T12:22:33-08:00</published>
+    <updated>2021-02-09T12:22:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/settle-down-essential-oil-spray-kpure-naturals"/>
+    <title>Settle Down Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-settle-down-essential-oil-spray.png?v=1612837562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Settle Down is a calming spray for pillow, face and body.  A great addition to the entire family's bedtime routine, and we've added witch hazel and coconut oil, so it also doubles as a hydrating facial toner with a blend of organic essential oils including lavender. </span></p>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span>Purified water, organic witch hazel, coconut oil and a blend of pure and organic essential oils including lavender.</span></p>
+<p><iframe src="https://www.youtube.com/embed/_lCvAsZ1tHo" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674078900279</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674084405303</id>
+    <published>2021-02-09T12:20:59-08:00</published>
+    <updated>2021-02-09T12:20:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/time-out-essential-oil-spray-kpure-naturals"/>
+    <title>Time Out Uplifting Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-time-out-essential-oil-spray.png?v=1612838386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>For that magical time between coffee and wine o'clock, Time Out uplifting organic essential oil spray.  Use this as a hydrating facial toner, body spray, room spray or mist the kids as they walk through the front door after school.  </span><br></p>
+<h3>Ingredients</h3>
+<p>Purified water, organic witch hazel, coconut oil, patchouli, orange, bergamot, almond and other pure, organic essential oils.</p>
+<p><iframe src="https://www.youtube.com/embed/_lCvAsZ1tHo" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674084405303</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674085191735</id>
+    <published>2021-02-09T12:19:09-08:00</published>
+    <updated>2021-02-09T12:19:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/chill-out-aloe-vera-mist-kpure-naturals"/>
+    <title>Chill Out Aloe Vera Mist Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-chill-out-essential-oil-spray.png?v=1612838544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>A refreshing and soothing blend of aloe vera, organic witch hazel and pure, organic essential oils.  Use this cooling mist before, during and after those long summer days. For an extra cooling experience, store Chill Out in the fridge.  Chill Out can also be used as a hydrating facial toner  </p>
+<h3>Ingredients</h3>
+<p>Purified water, Aloe Barbadensis Leaf Juice, organic Hamamelis Virginiana (witch hazel) and a blend of pure and organic essential oils. </p>
+<p><iframe src="https://www.youtube.com/embed/_lCvAsZ1tHo" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674085191735</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674085814327</id>
+    <published>2021-02-09T12:18:36-08:00</published>
+    <updated>2021-02-09T12:18:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/deep-breath-soothing-essential-oil-spray-kpure-naturals"/>
+    <title>Deep Breath Soothing Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-deep-breath-essential-oil-spray.png?v=1612838892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>Deep Breath contains a blend of organic essential oils, including eucalyptus, lime and peppermint.   Great for cold and flu season, stressful situations or any time a breath of fresh air is all you need.  With the addition of witch hazel and coconut oil, you can use Deep Breath as a hydrating facial toner and a soothing room and body spray.  </span></p>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span>Purified water, organic witch hazel, coconut oil and a blend of pure and organic essential oils including peppermint, eucalyptus and citrus.</span></p>
+<p><iframe src="https://www.youtube.com/embed/_lCvAsZ1tHo" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674085814327</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674086109239</id>
+    <published>2021-02-09T12:16:58-08:00</published>
+    <updated>2021-02-09T12:16:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/good-morning-essential-oil-spray-kpure-naturals"/>
+    <title>Good Morning Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-good-morning-essential-oil-spray.png?v=1612839056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>An all-natural and organic aromatherapy spray, perfect for those rough mornings (afternoons, evenings....) due to pregnancy or an overindulgent evening.  With an blend of pure and organic essential oils, Good Morning can be used from head to toe, allowing the refreshing blend of grapefruit, ginger and spearmint to soothe and refresh.  </p>
+<h3>Ingredients</h3>
+<p>Purified water, hamamelis virginiana (witch hazel)* , cocos nucifera (coconut) oil and a blend of pure, organic essential oils.*</p>
+<p>*organic ingredients </p>
+<p><iframe src="https://www.youtube.com/embed/_lCvAsZ1tHo" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674086109239</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674086338615</id>
+    <published>2021-02-09T12:16:14-08:00</published>
+    <updated>2021-02-09T12:16:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/keep-going-energizing-essential-oil-spray-kpure-naturals"/>
+    <title>Keep Going Energizing Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-keep-going-essential-oil-spray.png?v=1612839216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>Keep Going is a refreshing blend of lemon, spearmint and other organic essential oils. Ideal for before, during and after workouts or when the 3pm slump hits. Organic witch hazel and coconut oil make it the perfect hydrating facial toner, that can also be used as a body spray, room spray and gym bag spray.  </span></p>
+<h3>Ingredients</h3>
+<p>Purified water, organic hamamelis virginiana (witch hazel) , capric triglyceride (coconut oil) and a blend pure, organic essential oils, including spearmint and lemon.  </p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/_lCvAsZ1tHo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674086338615</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674086666295</id>
+    <published>2021-02-09T12:13:35-08:00</published>
+    <updated>2021-02-09T12:13:35-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/clean-moisturizing-foaming-hand-soap-kpure-naturals"/>
+    <title>CLEAN Moisturizing Foaming Hand Soap</title>
+    <s:type>Hand Soap</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-clean-moisturizing-foaming-hand-soap.png?v=1612839435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Hand Soap<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>All natural, non-toxic, moisturizing foaming hand wash. Made with organic ingredients, and uplifting and naturally anti-bacterial organic essential oils. </span></p>
+<h3><span>Ingredients</span></h3>
+<p><span>Purified water, organic castile soap and pure and organic essential oils.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soap</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674086666295</id>
+      <title>Peppermint</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>303</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674086666295</id>
+      <title>Lemon/Lime</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>303</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674086666295</id>
+      <title>Comfort Spice</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>303</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674087452727</id>
+    <published>2021-02-09T12:12:43-08:00</published>
+    <updated>2021-02-09T12:12:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/dry-clean-rinse-free-hand-cleanser-kpure-naturals"/>
+    <title>Dry Clean Rinse-Free Hand Cleanser</title>
+    <s:type>Hand Soap</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-dry-clean-hand-cleanser.png?v=1612839690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Hand Soap<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-single__description rte" data-mce-fragment="1">
+<p data-mce-fragment="1">Washing with soap and water is always best, but for times when no running water is available: after using a gas pump, touching a shopping cart handle, too many hand shakes... Dry Clean is the next best thing! </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">30ml/1oz amber glass bottle with spray top.  </span></p>
+<h3 data-mce-fragment="1">How to use</h3>
+<p data-mce-fragment="1">Shake well and apply 1-2 sprays onto dry hands. Rub until dried. Avoid contact with eyes. Keep out of reach of children. Keep away from flame, sparks and temperatures above 40 Celsius. </p>
+</div>
+<h3 data-mce-fragment="1"><span data-mce-fragment="1">Ingredients</span></h3>
+<p data-mce-fragment="1"><meta charset="utf-8"><span data-mce-fragment="1">99% alcohol at 60% of the total formula, purified water, Organic Aloe, Organic Vegetable Glycerin and a blend of organic essential oils: pink grapefruit, lavender, cinnamon and clove OR sweet orange and peppermint</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soap</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674087452727</id>
+      <title>Orange/Mint</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>79</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674087452727</id>
+      <title>Grapefruit/Cinnamon/Clove</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>79</s:grams>
+    </s:variant>
+  </entry>
+</feed>

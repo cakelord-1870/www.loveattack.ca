@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/home-dish-cleaning.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-02-15T13:37:57-08:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/4676227366967</id>
+    <published>2021-02-15T13:37:57-08:00</published>
+    <updated>2021-02-15T13:37:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/biodegradable-loofah-dish-sponge-make-nice-company"/>
+    <title>Biodegradable Loofah Dish Sponge</title>
+    <s:type>Loofah Dish Sponge</s:type>
+    <s:vendor>Make Nice Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Make-nice-company-biodegradable-loofah-dish-sponge-boutique-love-attack.png?v=1613425152"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Make Nice Company<br>
+        <strong>Type: </strong>Loofah Dish Sponge<br>
+        <strong>Price: </strong>
+            3.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>100% biodegradable natural loofah dish sponge. It starts off dehydrated and expands in size when water is added.</p>
+<p><br></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Loofah Dish Sponge</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4676227366967</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4676203053111</id>
+    <published>2021-02-15T13:34:44-08:00</published>
+    <updated>2021-02-15T13:34:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/recycled-plastic-soap-tray-make-nice-company"/>
+    <title>Dish Soap Tray - 100% Canadian Recycled Plastic</title>
+    <s:type>Dish Soap Tray</s:type>
+    <s:vendor>Make Nice Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Make-nice-company-recycled-plastic-soap-tray-boutique-love-attack.png?v=1613423424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Make Nice Company<br>
+        <strong>Type: </strong>Dish Soap Tray<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Keep your soap and counter dry!<br></p>
+<p>Make Nice Company dish tray can fit both the <strong><a href="https://www.loveattack.ca/collections/make-nice-company" target="_blank" title="Make Nice Company Available online now Boutique Love Attack " rel="noopener noreferrer">regular</a></strong> and <strong><a href="https://www.loveattack.ca/collections/make-nice-company" target="_blank" title="Make Nice Company available ONLINE NOW Boutique Love Attack " rel="noopener noreferrer">BIG</a></strong> sized Solid Dish Soap.</p>
+<p>Extend the life of your soap with ample drainage. The drip tray catches any water runoff without any mess on your countertop.<br><br>Designed and made in British Columbia, Canada.</p>
+<p>Made from 100% Canadian recycled plastic.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dish Soap Tray</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4676203053111</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4509992943671</id>
+    <published>2020-05-11T05:44:32-07:00</published>
+    <updated>2020-05-11T05:44:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/solid-dish-soap-brush-kit-unscented-make-nice-company"/>
+    <title>Solid Dish Soap Brush Kit - Unscented</title>
+    <s:type>Solid Dish Soap Brush Kit</s:type>
+    <s:vendor>Make Nice Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Make-nice-company-brush-kit-unscented-boutique-love-attack.png?v=1613427228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Make Nice Company<br>
+        <strong>Type: </strong>Solid Dish Soap Brush Kit<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-width-percentage="29.4" class="image-title sqs-dynamic-text" data-mce-fragment="1">
+<span data-mce-fragment="1">This starter kitchen kit includes</span><br data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 Unscented Solid Dish Soap</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 dish brush with removable head</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">1 carry bag</span></li>
+</ul>
+<ul data-mce-fragment="1"></ul>
+<meta charset="utf-8">
+<h3 data-width-percentage="29.4" class="image-title sqs-dynamic-text" data-mce-fragment="1">Made from</h3>
+</div>
+<div data-width-percentage="29.4" class="image-title sqs-dynamic-text" data-mce-fragment="1">
+<span data-mce-fragment="1">Brushes bristles made of tampico (from the agave plant) and the handle is made of beechwood and metal. Handle is reusable.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span data-mce-fragment="1">Carry bag doubles as a soap bag! 100% cotton.</span>
+</div>
+<div data-width-percentage="29.4" class="image-title sqs-dynamic-text" data-mce-fragment="1">
+<br data-mce-fragment="1"><span data-mce-fragment="1">Collect all those end pieces and enjoy them until the very end.</span>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dish Soap</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4509992943671</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>343</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4509984161847</id>
+    <published>2020-05-11T05:44:32-07:00</published>
+    <updated>2020-05-11T05:44:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/solid-dish-soap-scrubber-kit-charcoal-make-nice-company"/>
+    <title>Solid Dish Soap Scrubber Kit - Charcoal</title>
+    <s:type>Solid Dish Soap Scrubber Kit</s:type>
+    <s:vendor>Make Nice Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Make-nice-company-scrubber-kit-charcoal-boutique-love-attack.png?v=1613427133"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Make Nice Company<br>
+        <strong>Type: </strong>Solid Dish Soap Scrubber Kit<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="image-title-wrapper">
+<div class="image-title sqs-dynamic-text" data-width-percentage="29.4">
+<meta charset="utf-8"> <meta charset="utf-8">
+<p>This starter kitchen kit includes<br></p>
+<ul>
+<li>
+<p>1 Charcoal Solid Dish Soap</p>
+</li>
+<li>
+<p>1 dish scrubber</p>
+</li>
+<li>
+<p>1 carry bag</p>
+</li>
+</ul>
+<h3>
+<strong>Made From</strong> </h3>
+<p class="">Scrubber bristles made of tampico (from the agave plant).</p>
+<p class="">Carry bag doubles as a soap bag! 100% cotton.</p>
+<p class="">Collect all those end pieces and enjoy them until the very end.</p>
+</div>
+</div>
+<div class="image-subtitle-wrapper">
+<div class="image-subtitle sqs-dynamic-text" data-width-percentage="29.4"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dish Soap</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4509984161847</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>343</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4509972529207</id>
+    <published>2020-05-11T05:44:31-07:00</published>
+    <updated>2020-05-11T05:44:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/solid-dish-soap-scrubber-kit-unscented-make-nice-company"/>
+    <title>Solid Dish Soap Scrubber Kit - Unscented</title>
+    <s:type>Solid Dish Soap Scrubber Kit</s:type>
+    <s:vendor>Make Nice Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Make-nice-company-scrubber-kit-unscented-boutique-love-attack.png?v=1613427059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Make Nice Company<br>
+        <strong>Type: </strong>Solid Dish Soap Scrubber Kit<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="image-title-wrapper">
+<div data-width-percentage="29.4" class="image-title sqs-dynamic-text">
+<meta charset="utf-8">
+<p><span>This starter kitchen kit includes</span><br></p>
+<ul>
+<li><span>1 Unscented Solid Dish Soap</span></li>
+<li><span>1 dish scrubber</span></li>
+<li><span>1 carry bag</span></li>
+</ul>
+<ul></ul>
+<h3>Made from<strong> </strong>
+</h3>
+<p><span>Scrubber bristles made of tampico (from the agave plant) and the handle is made of beechwood. </span></p>
+<p><span>Carry bag doubles as a soap bag! 100% cotton.</span></p>
+<p><span>Collect all those end pieces and enjoy them until the very end.</span><br></p>
+</div>
+</div>
+<div class="image-subtitle-wrapper">
+<div data-width-percentage="29.4" class="image-subtitle sqs-dynamic-text"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dish Soap</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4509972529207</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>343</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4509953261623</id>
+    <published>2020-05-11T05:44:30-07:00</published>
+    <updated>2020-05-11T05:44:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/big-unscented-solid-dish-soap-make-nice-company"/>
+    <title>BIG Unscented Solid Dish Soap</title>
+    <s:type>Solid Dish Soap</s:type>
+    <s:vendor>Make Nice Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Make-nice-company-BIG-solid-dish-soap-block-unscented-boutique-love-attack.png?v=1613426920"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Make Nice Company<br>
+        <strong>Type: </strong>Solid Dish Soap<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div class="image-title-wrapper">
+<div data-width-percentage="29.4" class="image-title sqs-dynamic-text">
+<p><strong></strong>Over 2.5x the size of the regular sized solid dish soap!<br></p>
+</div>
+</div>
+<div class="image-subtitle-wrapper">
+<p class="">Completely fragrance-free.</p>
+<p class="">Each BIG cube replaces up to 8 bottles of liquid soap. Ditch the plastic! </p>
+<h3>Ingredients</h3>
+<p class="">Cocos nucifera (coconut) oil, olea europaea (olive) oil, aqua, sodium hydroxide</p>
+<h3><strong>To use</strong></h3>
+<ul>
+<li>Create suds by rubbing the solid dish soap with a brush or sponge.</li>
+<li>Wash and rinse well.</li>
+<li>Use warm water for best results.</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dish Soap</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4509953261623</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>660</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4509943463991</id>
+    <published>2020-05-11T05:44:30-07:00</published>
+    <updated>2020-05-11T05:44:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/charcoal-solid-dish-soap-make-nice-company"/>
+    <title>Charcoal Solid Dish Soap</title>
+    <s:type>Solid Dish Soap</s:type>
+    <s:vendor>Make Nice Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Make-nice-company-charcoal-solid-dish-soap-block-boutique-love-attack.png?v=1613426641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Make Nice Company<br>
+        <strong>Type: </strong>Solid Dish Soap<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p><strong></strong>Activated charcoal has toxin absorbing and antibacterial properties. It absorbs and binds to harmful microbials so they could be flushed away.</p>
+<p class="">Our solid dish soap is perfect zero waste option that cuts grease while staying gentle on your hands. This powerhouse cleaner can even take stains out for your cloths or spot clean your carpet. </p>
+<p class="">Completely fragrance-free.</p>
+<p class="">Each cube replaces up to 3 bottles of liquid soap. Ditch the plastic! </p>
+<h3>Ingredients</h3>
+<p class="">Cocos nucifera (coconut) oil, olea europaea (olive) oil, aqua, sodium hydroxide, activated charcoal</p>
+<h3>To use</h3>
+<ul>
+<li>Create suds by rubbing the solid dish soap with a brush or sponge.</li>
+<li>Wash and rinse well.</li>
+<li>Use warm water for best results.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dish Soap</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4509943463991</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>243</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4509942677559</id>
+    <published>2020-05-11T05:44:29-07:00</published>
+    <updated>2020-05-11T05:44:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/unscented-solid-dish-soap-make-nice-company"/>
+    <title>Unscented Solid Dish Soap</title>
+    <s:type>Solid Dish Soap</s:type>
+    <s:vendor>Make Nice Company</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Make-nice-company-unscented-dish-soap-block-boutique-love-attack.png?v=1613424120"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Make Nice Company<br>
+        <strong>Type: </strong>Solid Dish Soap<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="">Make Nice Company solid dish soap is a perfect zero waste option that cuts grease while staying gentle on your hands. This powerhouse cleaner can even take stains out for your cloths or spot clean your carpet. </p>
+<p class="">Completely fragrance-free.</p>
+<p class="">Each cube replaces up to 3 bottles of liquid soap. Ditch the plastic! </p>
+<h3>Ingredients</h3>
+<p class="">Cocos nucifera (coconut) oil, olea europaea (olive) oil, aqua, sodium hydroxide</p>
+<h3>To use</h3>
+<ul>
+<li>Create suds by rubbing the solid dish soap with a brush or sponge.</li>
+<li>Wash and rinse well.</li>
+<li>Use warm water for best results.</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dish Soap</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4509942677559</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>243</s:grams>
+    </s:variant>
+  </entry>
+</feed>

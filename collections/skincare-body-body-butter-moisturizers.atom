@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/skincare-body-body-butter-moisturizers.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-05-13T11:42:32-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/6559690784823</id>
+    <published>2021-05-13T11:42:32-07:00</published>
+    <updated>2021-05-13T11:42:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/glow-body-oil-bare-nature"/>
+    <title>GLOW Body Oil</title>
+    <s:type>Body Oil</s:type>
+    <s:vendor>Bare Nature</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/bare-nature-glow-body-oil-boutique-love-attack.png?v=1620428396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bare Nature<br>
+        <strong>Type: </strong>Body Oil<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Luxe body oil with an entrancing scent.  Made with nourishing plant oils to help hydrate, restore, and promote radiant skin.  </p>
+<h3>Ingredients</h3>
+<p>*Helianthus Annuus (sunflower seed) oil, <span>*Argania Spinosa Kernel oil, </span><span>Simmondsia Chinensis (jojoba</span><span>) Seed oil, </span>*Cannabis Sativa (hempseed) oil, Tocopherols (vitamin E), Hippophae Rhamnoides (Sea Buckthorn) Fruit Oil, *Symphytum officinale (comfrey) leaf, Calendula officinalis (calendula) flower, *<span>Achillea Millefolium (yarrow) flower, *Plantago major (plantain) leaf</span><span>, </span><span>Aniba rosaeodora (rosewood</span><span>) Wood oil, </span>Vanilla planifolia oil.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body Oil</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6559690784823</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>209</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6536038744119</id>
+    <published>2021-03-05T09:10:17-08:00</published>
+    <updated>2021-03-05T09:10:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/chocolate-mandarin-balm-skin-essence-organics"/>
+    <title>Chocolate Mandarin Hand, Body and Lip Balm</title>
+    <s:type>Skin Treatment</s:type>
+    <s:vendor>Skin Essence Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/skin-essence-organics-chocolate-mandarin-balm-boutique-love-attack.png?v=1614300109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skin Essence Organics<br>
+        <strong>Type: </strong>Skin Treatment<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;" data-mce-style="text-align: center;"></div>
+<div></div>
+<div>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><span>This rich balm is ideal for moisturizing and soothing dry, rough skin. Within a few seconds of application the skin appears and feels noticeably softer and smoother. Chocolate Mandarin is an excellent option for those who have dehydrated skin, as the key ingredients offer a rich, long lasting hydration that help to naturally improve the skin’s overall elasticity, texture and moisture.</span></p>
+<h3><span>Features + Benefits</span></h3>
+<div class="woocommerce-product-details__short-description">
+<ul>
+<li>Hydrates and soothes dry, chapped, and sensitive skin</li>
+<li>Offers rich, long lasting hydration for dry hands, heels, and lips</li>
+<li>Naturally concentrated formula helps maintain softer, smoother skin</li>
+<li>Subtle cocoa butter and orange natural aroma.</li>
+<li>Leaping Bunny Certified, Non GMO, Gluten Free and Fair Trade</li>
+</ul>
+</div>
+<div class="woocommerce-product-details__short-description">
+<h3>Composition</h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">This fresh organic formulation effectively softens and nourishes, while the vast amount of cocoa butter keeps the skin flexible, sealing in moisture.</span><br></p>
+<h3>Ingredients</h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span>Jojoba Seed Oil*, Cocoa Butter*, Beeswax, Rosehip Seed Oil*, Coconut Oil*, Castor Oil*, Orange Oil*, Tocopherol (Vitamin-E) <meta charset="utf-8">*Ingredient from organic farming</span></p>
+</div>
+</div>
+<div>
+<ul></ul>
+<meta charset="utf-8">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lip Balm</s:tag>
+    <s:tag>Skin Treatment Balm</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6536038744119</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4668223848503</id>
+    <published>2021-01-22T12:43:10-08:00</published>
+    <updated>2021-01-22T12:43:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/good-fats-body-butter-geti-cosmetics"/>
+    <title>Good Fats Body Butter (2oz)</title>
+    <s:type>Body Butter</s:type>
+    <s:vendor>Geti Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/BoutiqueLoveAttackGetiCosmeticsGoodFatsBodyButter1.png?v=1611339856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geti Cosmetics<br>
+        <strong>Type: </strong>Body Butter<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A unique blend of plant-based oils which leaves skin baby soft and without greasy residue.  Say goodbye to plastics, petrol chemicals and harsh fragrances.<strong> </strong>Stay ultra-hydrated with this all-natural and oh-so-creamy butter that absorbs into the skin within 90 seconds. </p>
+<h3>Features + Benefits</h3>
+<ul>
+<li>A Natural Humectant – meaning it helps your skin draw in moisture to stay hydrated.</li>
+<li>Vegan, Cruelty-Free, Chemical-free.</li>
+<li>Choose Your Plant-Based Scent – or go Unscented.</li>
+<li>Comes in 2oz recyclable and returnable aluminum tin.</li>
+</ul>
+<h3>Ingredients</h3>
+<p>Organic Avocado Butter, Organic Olive Butter, Organic Avocado Oil, Essential Oils</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body Butter</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4668223848503</id>
+      <title>Unscented</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4668223848503</id>
+      <title>Citrus</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4668223848503</id>
+      <title>Lavender</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+</feed>

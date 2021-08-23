@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/reusable-menstrual-pads-liners.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2020-10-14T11:40:13-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/4623052800055</id>
+    <published>2020-10-14T11:40:13-07:00</published>
+    <updated>2020-10-14T11:40:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/thong-black-washable-daily-liners-smartliners"/>
+    <title>Thong Black Washable Daily Liners - Set of 4</title>
+    <s:type>Daily Liners</s:type>
+    <s:vendor>Smartliners</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/smartliner-reusable-daily-liners-black-thong-boutique-love-attack.png?v=1613951585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smartliners<br>
+        <strong>Type: </strong>Daily Liners<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Smartliners organic washable thong daily liners are perfectly designed for everyday protection, giving you a comfortable, clean and fresh feeling.</p>
+<ul>
+<li>5” x 2” pad - New comfortable shape</li>
+<li>EasyWing™<span> </span><span>pull 'n seal (</span><span>hook and loop) </span><span>no-nonsense</span><span> closure system</span><br>
+</li>
+<li>Certified Eco-friendly 100% organic cotton</li>
+<li>For light secretions, menstrual cup backup and can also be used throughout the month</li>
+<li>Organically dyed Black cotton</li>
+<li>Free of any harmful chemicals and plastics</li>
+<li>Extremely comfortable</li>
+<li>Odour free</li>
+<li>Easy to maintain &amp; long lasting</li>
+<li><strong>4 daily liners in a canister</strong></li>
+<li>Includes travel/wash pouch</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<meta charset="utf-8">
+<h3>How to use</h3>
+<p>Just place them in your underwear, and strap the wings in place with the EasyWing™ hook and loop closure system. You're done!</p>
+<h3>Why switch to reusable pads?</h3>
+<p><span>Switching to Smartliners™ is kinder to your skin, your wallet and the planet! Smartliners™ washable period pads are like reusable wipes - once you've tried them you'll wish you'd swapped earlier!</span></p>
+<h3>Product Information</h3>
+<ul>
+<li>Please wash your new Smartliners product before first use</li>
+<li>Once used, you may rinse them out if you wish, or simply throw them in directly with your regular wash or in a mesh garment bag.  Make sure you close the EasyWing™ hook and loop closure prior to washing.</li>
+<li>Do not use softener or bleach</li>
+<li>Smartliners™ may be safely placed in the dryer; no shrinkage to fear!</li>
+</ul>
+<h1><iframe width="560" height="315" src="https://www.youtube.com/embed/IfJZtV7T5Ho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></h1>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4623052800055</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4623049752631</id>
+    <published>2020-10-14T11:36:58-07:00</published>
+    <updated>2020-10-14T11:36:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/thong-washable-daily-liners-smartliners"/>
+    <title>Thong Washable Daily Liners - Set of 4</title>
+    <s:type>Daily Liners</s:type>
+    <s:vendor>Smartliners</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/smartliner-reusable-daily-liners-white-thong-boutique-love-attack.png?v=1613951700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smartliners<br>
+        <strong>Type: </strong>Daily Liners<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Smartliners organic washable thong daily liners are perfectly designed for everyday protection, giving you a comfortable, clean and fresh feeling.</p>
+<ul>
+<li>5” x 2” pad </li>
+<li>EasyWing™<span> </span><span>pull 'n seal (</span><span>hook and loop) </span><span>no-nonsense</span><span> closure system</span><br>
+</li>
+<li>Certified Eco-friendly 100% organic cotton</li>
+<li>For light secretions, menstrual cup backup and can also be used throughout the month</li>
+<li>Undyed cotton</li>
+<li>Free of any harmful chemicals and plastics</li>
+<li>Extremely comfortable</li>
+<li>Odour free</li>
+<li>Easy to maintain &amp; long lasting</li>
+<li><strong>4 daily liners in a canister</strong></li>
+<li>Includes travel/wash pouch</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<meta charset="utf-8">
+<h3>How to use</h3>
+<p>Just place them in your underwear, and strap the wings in place with the EasyWing™ hook and loop closure system. You're done!</p>
+<h3>Why switch to reusable pads?</h3>
+<p><span>Switching to Smartliners™ is kinder to your skin, your wallet and the planet! Smartliners™ washable period pads are like reusable wipes - once you've tried them you'll wish you'd swapped earlier!</span></p>
+<h3>Product Information</h3>
+<ul>
+<li>Please wash your new Smartliners product before first use</li>
+<li>Once used, you may rinse them out if you wish, or simply throw them in directly with your regular wash or in a mesh garment bag.  Make sure you close the EasyWing™ hook and loop closure prior to washing.</li>
+<li>Do not use softener or bleach</li>
+<li>Smartliners™ may be safely placed in the dryer; no shrinkage to fear!</li>
+</ul>
+<h1><iframe width="560" height="315" src="https://www.youtube.com/embed/IfJZtV7T5Ho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></h1>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4623049752631</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4623036907575</id>
+    <published>2020-10-14T11:22:36-07:00</published>
+    <updated>2020-10-14T11:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/regular-black-washable-daily-liners-smartliners"/>
+    <title>Regular Black Washable Daily Liners - Set of 4</title>
+    <s:type>Daily Liners</s:type>
+    <s:vendor>Smartliners</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/smartliner-reusable-daily-liners-black-boutique-love-attack.png?v=1613951218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smartliners<br>
+        <strong>Type: </strong>Daily Liners<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Smartliners organic washable daily liners are perfectly designed for everyday protection, giving you a comfortable, clean and fresh feeling.</p>
+<ul>
+<li>6 1/2”x 2 1/2” liner</li>
+<li>EasyWing™ pull 'n seal (hook and loop) no-nonsense closure system<br>
+</li>
+<li>Certified eco-friendly 100% organic cotton</li>
+<li>For light secretions, menstrual cup backup and can also be used throughout the month</li>
+<li>Organically Dyed (plant based) <strong>Black</strong> Cotton</li>
+<li>Free of any harmful chemicals and plastics</li>
+<li>Extremely comfortable</li>
+<li>Odour free</li>
+<li>Easy to maintain &amp; long lasting</li>
+<li><strong>4 daily liners in a canister</strong></li>
+<li>Includes travel/wash pouch</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<ul></ul>
+<meta charset="utf-8">
+<h3>How to use</h3>
+<p>Just place them in your underwear, and strap the wings in place with the EasyWing™ hook and loop closure system. You're done!</p>
+<h3>Why switch to reusable pads?</h3>
+<p><span>Switching to Smartliners™ is kinder to your skin, your wallet and the planet! Smartliners™ washable period pads are like reusable wipes - once you've tried them you'll wish you'd swapped earlier!</span></p>
+<h3>Product Information</h3>
+<ul>
+<li>Please wash your new Smartliners product before first use</li>
+<li>Once used, you may rinse them out if you wish, or simply throw them in directly with your regular wash or in a mesh garment bag.  Make sure you close the EasyWing™ hook and loop closure prior to washing.</li>
+<li>Do not use softener or bleach</li>
+<li>Smartliners™ may be safely placed in the dryer; no shrinkage to fear!</li>
+</ul>
+<h1><strong><iframe src="https://www.youtube.com/embed/IfJZtV7T5Ho" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></strong></h1>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4623036907575</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/1437912006711</id>
+    <published>2018-12-11T11:50:55-08:00</published>
+    <updated>2018-12-11T11:50:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/washable-menstrual-pad-overnight-pad-smartliners"/>
+    <title>Washable Period Pad - Overnight Pad</title>
+    <s:type>Menstrual Pad</s:type>
+    <s:vendor>Smartliners</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/smartliner-reusable-menstrual-pad-overnight-flow-boutique-love-attack.png?v=1613952157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smartliners<br>
+        <strong>Type: </strong>Menstrual Pad<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Smartliners washable super heavy period flow pads features 4 ply Smartsorb™ and are made of 100% organic cotton which is good for you and kind to the environment.</p>
+<ul>
+<li>12” x 3” overnight period pad</li>
+<li>Smartsorb™ ultra absorbent technology</li>
+<li>EasyWing™<span> </span><span>pull 'n seal (</span><span>hook and loop) </span><span>no-nonsense</span><span> closure system</span>
+</li>
+<li>Certified Eco-friendly 100% organic cotton</li>
+<li>For heavier flows, overnight use or during the middle of your cycle. (please note, your periods vary, and you are to judge what suits your needs)</li>
+<li>Organically dyed black cotton pad</li>
+<li>Free of any harmful chemicals and plastics</li>
+<li>Extremely comfortable</li>
+<li>Odour free</li>
+<li>Easy to maintain &amp; long lasting</li>
+<li><strong>1 pad in a canister</strong></li>
+<li>Includes travel/wash pouch</li>
+<li>All measurements are approximate </li>
+</ul>
+<ul></ul>
+<ul></ul>
+<meta charset="utf-8"><meta charset="utf-8">
+<h3>How to use</h3>
+<meta charset="utf-8">
+<p><span>Just place them in your underwear, and strap the wings in place with the EasyWing™ hook and loop closure system. You're done!</span></p>
+<h3>Why switch to reusable pads?</h3>
+<p><span>Switching to Smartliners™ is kinder to your skin, your wallet and the planet! Smartliners™ washable period pads are like reusable wipes - once you've tried them you'll wish you'd swapped earlier!</span></p>
+<h3>Product Information</h3>
+<ul>
+<li>Please wash your new Smartliners product before first use</li>
+<li>Once used, you may rinse them out if you wish, or simply throw them in directly with your regular wash or in a mesh garment bag.  Make sure you close the EasyWing™ hook and loop closure prior to washing.</li>
+<li>Do not use softener or bleach</li>
+<li>Smartliners™ may be safely placed in the dryer; no shrinkage to fear!</li>
+</ul>
+<p><span><iframe width="560" height="315" src="https://www.youtube.com/embed/IfJZtV7T5Ho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Menstrual Pads</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/1437912006711</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/1437911875639</id>
+    <published>2018-12-11T11:50:55-08:00</published>
+    <updated>2018-12-11T11:50:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/washable-menstrual-pad-heavy-flow-pad-smartliners"/>
+    <title>Washable Period Pad - Heavy Flow</title>
+    <s:type>Menstrual Pad</s:type>
+    <s:vendor>Smartliners</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/smartliner-reusable-menstrual-pad-heavy-flow-boutique-love-attack.png?v=1613951909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smartliners<br>
+        <strong>Type: </strong>Menstrual Pad<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Smartliners washable heavy period flow pads features 4 ply Smartsorb™ and are made of 100% organic cotton which is good for you and kind to the environment.</p>
+<ul>
+<li>9”x 3” period pad </li>
+<li>Smartsorb™ ultra absorbent technology</li>
+<li>Upgraded EasyWing™<span> </span><span>pull 'n seal (</span><span>hook and loop) </span><span>no-nonsense</span><span> easy closure system</span>
+</li>
+<li>Certified Eco-friendly 100% organic cotton</li>
+<li>For heavier flows, or during the middle of your cycle. (please note, your periods vary, and you are to judge what suits your needs)</li>
+<li>Organically dyed (plant based) black cotton pad</li>
+<li>Free of any harmful chemicals and plastics</li>
+<li>Extremely comfortable</li>
+<li>Odour free</li>
+<li>Easy to maintain &amp; long lasting </li>
+<li><strong>1 pad in a canister</strong></li>
+<li>Includes travel/wash pouch</li>
+<li>All measurements are approximate</li>
+</ul>
+<div>
+<ul></ul>
+</div>
+<div></div>
+<meta charset="utf-8"><meta charset="utf-8">
+<h3>How to use</h3>
+<meta charset="utf-8">
+<p><span>Just place them in your underwear, and strap the wings in place with the EasyWing™ hook and loop closure system. You're done!</span></p>
+<h3>Why switch to reusable pads?</h3>
+<p><span>Switching to Smartliners™ is kinder to your skin, your wallet and the planet! Smartliners™ washable period pads are like reusable wipes - once you've tried them you'll wish you'd swapped earlier!</span></p>
+<h3>Product Information</h3>
+<ul>
+<li>Please wash your new Smartliners product before first use</li>
+<li>Once used, you may rinse them out if you wish, or simply throw them in directly with your regular wash or in a mesh garment bag.  Make sure you close the EasyWing™ hook and loop closure prior to washing.</li>
+<li>Do not use softener or bleach</li>
+<li>Smartliners™ may be safely placed in the dryer; no shrinkage to fear!</li>
+</ul>
+<p><span><iframe width="560" height="315" src="https://www.youtube.com/embed/IfJZtV7T5Ho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></span></p>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Menstrual Pads</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/1437911875639</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/1437910794295</id>
+    <published>2018-12-11T11:50:55-08:00</published>
+    <updated>2018-12-11T11:50:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/washable-menstrual-pad-regular-flow-pad-smartliners"/>
+    <title>Washable Period Pad - Regular Flow</title>
+    <s:type>Menstrual Pad</s:type>
+    <s:vendor>Smartliners</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/smartliner-reusable-menstrual-pad-regular-flow-boutique-love-attack.png?v=1613952386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smartliners<br>
+        <strong>Type: </strong>Menstrual Pad<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Smartliners washable regular period flow pads features 3 ply Smartsorb™ and are made of 100% organic cotton which is good for you and kind to the environment.</p>
+<ul>
+<li>9”x 3” period pad </li>
+<li>Smartsorb™ ultra absorbent technology</li>
+<li>Upgraded EasyWing™<span> </span><span>pull 'n seal (</span><span>hook and loop) </span><span>no-nonsense</span><span> easy closure system</span>
+</li>
+<li>Certified Eco-friendly 100% organic cotton</li>
+<li>For lighter flows, or the beginning or end of your cycle. (please note, your periods vary, and you are to judge what suits your needs)</li>
+<li>Organically dyed (plant based) black cotton pad</li>
+<li>Free of any harmful chemicals and plastics</li>
+<li>Extremely comfortable</li>
+<li>Odour free</li>
+<li>Easy to maintain &amp; long lasting</li>
+<li><strong>1 pad in a canister</strong></li>
+<li>Includes travel/wash pouch</li>
+<li>All measurements are approximate</li>
+</ul>
+<ul></ul>
+<h3>How to use</h3>
+<meta charset="utf-8">
+<p>Just place them in your underwear, and strap the wings in place with the EasyWing™ hook and loop closure system. You're done!</p>
+<h3>Why switch to reusable pads?</h3>
+<p><span>Switching to Smartliners™ is kinder to your skin, your wallet and the planet! Smartliners™ washable period pads are like reusable wipes - once you've tried them you'll wish you'd swapped earlier!</span></p>
+<h3>Product Information</h3>
+<ul>
+<li>Please wash your new Smartliners product before first use</li>
+<li>Once used, you may rinse them out if you wish, or simply throw them in directly with your regular wash or in a mesh garment bag.  Make sure you close the EasyWing™ hook and loop closure prior to washing.</li>
+<li>Do not use softener or bleach</li>
+<li>Smartliners™ may be safely placed in the dryer; no shrinkage to fear!</li>
+</ul>
+<h5><iframe width="560" height="315" src="https://www.youtube.com/embed/IfJZtV7T5Ho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></h5>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Menstrual Pads</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/1437910794295</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/1437910401079</id>
+    <published>2018-12-11T11:50:55-08:00</published>
+    <updated>2018-12-11T11:50:55-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/washable-daily-liners-regular-smartliners"/>
+    <title>Regular Washable Daily Liners - Set of 4</title>
+    <s:type>Daily Liners</s:type>
+    <s:vendor>Smartliners</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/smartliner-reusable-daily-liners-white-boutique-love-attack.png?v=1613951432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smartliners<br>
+        <strong>Type: </strong>Daily Liners<br>
+        <strong>Price: </strong>
+            19.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p>Smartliners organic washable daily liners are perfectly designed for everyday protection, giving you a comfortable, clean and fresh feeling.</p>
+<ul>
+<li>6 1/2”x 2 1/2” liner</li>
+<li>EasyWing™ pull 'n seal (hook and loop) no-nonsense closure system<br>
+</li>
+<li>Certified eco-friendly 100% organic cotton</li>
+<li>For light secretions, menstrual cup backup and can also be used throughout the month</li>
+<li>Undyed cotton</li>
+<li>Free of any harmful chemicals and plastics</li>
+<li>Extremely comfortable</li>
+<li>Odour free</li>
+<li>Easy to maintain &amp; long lasting</li>
+<li><strong>4 daily liners in a canister</strong></li>
+<li>Includes travel/wash pouch</li>
+</ul>
+<ul></ul>
+<ul></ul>
+<meta charset="utf-8">
+<h3>How to use</h3>
+<p>Just place them in your underwear, and strap the wings in place with the EasyWing™ hook and loop closure system. You're done!</p>
+<h3><strong>Why switch to reusable pads?</strong></h3>
+<p><span>Switching to Smartliners™ is kinder to your skin, your wallet and the planet! Smartliners™ washable period pads are like reusable wipes - once you've tried them you'll wish you'd swapped earlier!</span></p>
+<h3><strong>Product Information</strong></h3>
+<ul>
+<li>Please wash your new Smartliners product before first use</li>
+<li>Once used, you may rinse them out if you wish, or simply throw them in directly with your regular wash or in a mesh garment bag.  Make sure you close the EasyWing™ hook and loop closure prior to washing.</li>
+<li>Do not use softener or bleach</li>
+<li>Smartliners™ may be safely placed in the dryer; no shrinkage to fear!</li>
+</ul>
+<h1><strong><iframe width="560" height="315" src="https://www.youtube.com/embed/IfJZtV7T5Ho" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></strong></h1>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Liners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/1437910401079</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+</feed>

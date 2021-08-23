@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/body-brushing-exfoliation.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-06-03T11:25:57-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/6569748037687</id>
+    <published>2021-06-03T11:25:57-07:00</published>
+    <updated>2021-06-03T11:25:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/biodegradable-loofah-exfoliating-mitt-love-attack"/>
+    <title>Biodegradable Loofah Exfoliating Mitt</title>
+    <s:type>Exfoliating Gloves</s:type>
+    <s:vendor>Boutique Love Attack</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-loofah-exfoliating-glove.png?v=1622744757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Boutique Love Attack<br>
+        <strong>Type: </strong>Exfoliating Gloves<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This double sided exfoliating mitt is made from natural loofah and cotton. Made for cleansing and exfoliating, this waste free, natural and eco-friendly skincare tool gently and effectively removes dead skin on the body leaving it smooth and soft. Can be used in the shower or bath.</p>
+<h3>Made from</h3>
+<p>Natural loofah and cotton material.</p>
+<h3>How to use</h3>
+<p>Wet mitt in warm water and gently rub on skin with or without cleanser in circular motions. When finished, simply rinse and allow to dry naturally.</p>
+<h3>How to dispose</h3>
+<p>This mitt is made from 100% natural materials meaning it is home compostable and biodegradable. When your glove reaches the end of its life, you can put it into your home compost bin.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Exfoliating Gloves</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6569748037687</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">4.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>26</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4666528596023</id>
+    <published>2021-01-18T17:01:02-08:00</published>
+    <updated>2021-01-18T17:01:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/body-dry-brush-sensitive-skin-merben"/>
+    <title>Body Dry Brush - Sensitive Skin</title>
+    <s:type>Body Dry Brush</s:type>
+    <s:vendor>Merben International Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/SensitiveSkinBodyDryBrushMerben.png?v=1611018056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merben International Inc.<br>
+        <strong>Type: </strong>Body Dry Brush<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Body Dry Brush gently removes dead skin, exfoliates, stimulates circulation, eliminates body toxins and reduces the appearance of cellulite and is suitable for all skin types. <br><meta charset="utf-8"></p>
+<p><span>We recommend dry brushing for a few minutes before a morning shower. Brush in circular motions; start at your feet and move over the entire body. Always brush toward your heart with light pressure. Gradually increase pressure as you build your daily routine.</span><br></p>
+<div>
+<h3>Benefits</h3>
+<p class="text">Skin is our largest organ. When healthy, it’s the vehicle through which environmental pollutants and toxins are eliminated from the body. When not, pores become clogged and the “yucky stuff” stays inside us, where it can build up and wreak havoc.</p>
+<p class="text">Regularly dry brushing is so beneficial because it improves the body’s ability to detoxify by clearing away dead skin cells. It also increases blood flow and circulation (the bristles from the brush stimulate your lymphatic system, consequently speeding up the process of waste elimination). And as if that weren’t enough, dry brushing also easily and painlessly reduces the appearance of cellulite and leaves skin looking and feeling younger</p>
+</div>
+<ul></ul>
+<h3>How to use</h3>
+<ul>
+<li>Brush before bath or shower by brushing in circular motions, starting at your feet and moving upwards, towards the heart with light pressure</li>
+<li>Gradually increase the pressure of the dry brushing over time</li>
+<li>Brush can be used both wet or dry </li>
+<li>After use, rinse dry brush clean, shake of excess water and hang to dry outside of your shower</li>
+<li>After use, rinse dry brush clean, shake of excess water and hang to dry outside of your shower.</li>
+<li>Gradually increase the pressure of the dry brushing over time</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body Dry Brushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4666528596023</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4666527711287</id>
+    <published>2021-01-18T16:50:18-08:00</published>
+    <updated>2021-01-18T16:50:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/bikini-dry-brush-sensitive-skin-merben"/>
+    <title>Bikini Dry Brush - Sensitive Skin</title>
+    <s:type>Bikini Dry Brush</s:type>
+    <s:vendor>Merben International Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/SenstiveSkinBikiniBrushMerben.png?v=1611017493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merben International Inc.<br>
+        <strong>Type: </strong>Bikini Dry Brush<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>By gently brushing the bikini area on a daily basis with our soft handmade natural jute brush, the dry layers of skin are removed, allowing the hair to grow in properly.</p>
+<div>
+<div>
+<p class="text">So go ahead, wear the tiniest of tiny bikinis and be confident that you look great - all over!</p>
+</div>
+<h3>Benefits</h3>
+<meta charset="utf-8">
+<p class="text">Skin is our largest organ. When healthy, it’s the vehicle through which environmental pollutants and toxins are eliminated from the body. When not, pores become clogged and the “yucky stuff” stays inside us, where it can build up and wreak havoc.</p>
+<p class="text">Regularly dry brushing is so beneficial because it improves the body’s ability to detoxify by clearing away dead skin cells. It also increases blood flow and circulation (the bristles from the brush stimulate your lymphatic system, consequently speeding up the process of waste elimination). And as if that weren’t enough, dry brushing also easily and painlessly reduces the appearance of cellulite and leaves skin looking and feeling younger.</p>
+</div>
+<h3>How to use<br>
+</h3>
+<ul>
+<li>Use wet or dry in between waxing to avoid ingrown hairs</li>
+<li>Gently brush in a circular motion daily or every other day around the bikini area </li>
+<li>After use, rinse dry brush then shake off excess water and hang to dry outside the bath/shower</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body Dry Brushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4666527711287</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/1435182759991</id>
+    <published>2018-12-05T10:59:27-08:00</published>
+    <updated>2018-12-05T10:59:27-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/glove-it-multipurpose-gloves-cloth-in-a-box"/>
+    <title>GLOVE IT Reusable Multipurpose Gloves</title>
+    <s:type>Exfoliating Mitts</s:type>
+    <s:vendor>Cloth in a Box</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Cloth-In-A-Box-GLOVE-IT-Boutique-Love-Attack.png?v=1612133440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cloth in a Box<br>
+        <strong>Type: </strong>Exfoliating Mitts<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p>Glove It is a heart shaped body glove designed to simultaneously wash and<br>exfoliate your skin. Unlike other gloves, Glove It is a double treat for your skin;<br>the soft fabric side lathers, while the other exfoliates your body with a dual<br>weave of fibres.All you have to do is rotate the glove and you get twice the<br>action! Each box comes with 2 gloves!</p>
+<h3>How to use</h3>
+<p>You can also use both gloves simultaneously:</p>
+<ul>
+<li>Exfoliate with one and lather with the other</li>
+<li>Exfoliate with both for an invigorating experience</li>
+<li>Or lather both sides to calm your skin</li>
+</ul>
+<p>Either way, your body will thank you for your skin’s natural and healthy glow.</p>
+<meta charset="utf-8">
+<h3>Product Information</h3>
+<meta charset="utf-8">
+<p>Wash in warm water with mild detergent before first usage. After consecutive uses, machine wash and tumble dry only. DO NOT BLEACH OR USE FABRIC SOFTENER.</p>
+<p>Lasts up to 100 washes.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Exfoliating Gloves</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/1435182759991</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/455501611045</id>
+    <published>2018-01-10T12:31:23-08:00</published>
+    <updated>2018-01-10T12:31:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/body-dry-brush-normal-skin-merben"/>
+    <title>Body Dry Brush - Normal Skin</title>
+    <s:type>Body Dry Brush</s:type>
+    <s:vendor>Merben International Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/NormalSkinBodyDryBrushMerben.png?v=1611018219"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merben International Inc.<br>
+        <strong>Type: </strong>Body Dry Brush<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Body Dry Brush gently removes dead skin, exfoliates, stimulates circulation, eliminates body toxins and reduces the appearance of cellulite and is suitable for all skin types. <br> <meta charset="utf-8"></p>
+<p><span>We recommend dry brushing for a few minutes before a morning shower. Brush in circular motions; start at your feet and move over the entire body. Always brush toward your heart with light pressure. Gradually increase pressure as you build your daily routine.</span><br></p>
+<meta charset="utf-8">
+<div>
+<h3>Benefits</h3>
+<p class="text">Skin is our largest organ. When healthy, it’s the vehicle through which environmental pollutants and toxins are eliminated from the body. When not, pores become clogged and the “yucky stuff” stays inside us, where it can build up and wreak havoc.</p>
+<p class="text">Regularly dry brushing is so beneficial because it improves the body’s ability to detoxify by clearing away dead skin cells. It also increases blood flow and circulation (the bristles from the brush stimulate your lymphatic system, consequently speeding up the process of waste elimination). And as if that weren’t enough, dry brushing also easily and painlessly reduces the appearance of cellulite and leaves skin looking and feeling younger</p>
+<h1 class="text"><strong></strong></h1>
+</div>
+<ul></ul>
+<h3>How to use</h3>
+<meta charset="utf-8">
+<ul>
+<li>Brush before bath or shower by brushing in circular motions, starting at your feet and moving upwards, towards the heart with light pressure</li>
+<li>Gradually increase the pressure of the dry brushing over time</li>
+<li>Brush can be used both wet or dry </li>
+<li>After use, rinse dry brush clean, shake of excess water and hang to dry outside of your shower</li>
+<li>After use, rinse dry brush clean, shake of excess water and hang to dry outside of your shower.</li>
+<li>Gradually increase the pressure of the dry brushing over time</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body Dry Brushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/455501611045</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>114</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/455480279077</id>
+    <published>2018-01-10T12:07:38-08:00</published>
+    <updated>2018-01-10T12:07:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/normal-skin-bikini-dry-brush-merben"/>
+    <title>Bikini Dry Brush - Normal Skin</title>
+    <s:type>Bikini Dry Brush</s:type>
+    <s:vendor>Merben International Inc.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/NormalSkinBikiniBrushMerben.png?v=1611017607"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Merben International Inc.<br>
+        <strong>Type: </strong>Bikini Dry Brush<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong></strong>By gently brushing the bikini area on a daily basis with our soft handmade natural jute brush, the dry layers of skin are removed, allowing the hair to grow in properly.</p>
+<div>
+<div>
+<p class="text">So go ahead, wear the tiniest of tiny bikinis and be confident that you look great - all over!</p>
+</div>
+<h3>Benefits</h3>
+<meta charset="utf-8">
+<p class="text">Skin is our largest organ. When healthy, it’s the vehicle through which environmental pollutants and toxins are eliminated from the body. When not, pores become clogged and the “yucky stuff” stays inside us, where it can build up and wreak havoc.</p>
+<p class="text">Regularly dry brushing is so beneficial because it improves the body’s ability to detoxify by clearing away dead skin cells. It also increases blood flow and circulation (the bristles from the brush stimulate your lymphatic system, consequently speeding up the process of waste elimination). And as if that weren’t enough, dry brushing also easily and painlessly reduces the appearance of cellulite and leaves skin looking and feeling younger.</p>
+<h1 class="text"><strong></strong></h1>
+</div>
+<h3>How to use<br>
+</h3>
+<ul>
+<li>Use wet or dry in between waxing to avoid ingrown hairs</li>
+<li>Gently brush in a circular motion daily or every other day around the bikini area </li>
+<li>After use, rinse dry brush then shake off excess water and hang to dry outside the bath/shower</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Body Dry Brushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/455480279077</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+  </entry>
+</feed>

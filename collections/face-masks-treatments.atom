@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/face-masks-treatments.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-04-12T09:06:41-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/6550594355255</id>
+    <published>2021-04-12T09:06:41-07:00</published>
+    <updated>2021-04-12T09:06:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/recovery-skin-salve-onsight-care"/>
+    <title>Recovery Skin Salve</title>
+    <s:type>Vegan Skin Salve</s:type>
+    <s:vendor>Onsight Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-onsight-care-recovery-skin-salve.png?v=1618243593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Onsight Care<br>
+        <strong>Type: </strong>Vegan Skin Salve<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<p data-mce-fragment="1">Recovery Salve is great for when your body aches after a tough climbing session or long work day! Perfect for athletes to help soothe tension and pains.</p>
+<p data-mce-fragment="1">Infused with anti-inflammatories, Arnica flowers and Menthol (found naturally in peppermint) for relief from inflammations, bruises and tension in the body. </p>
+</div>
+<div><span><br></span></div>
+<h3><span>Features + Benefits</span></h3>
+<ul>
+<li>Natural</li>
+<li>Vegan</li>
+<li>Plastic Free</li>
+</ul>
+<h3>How to use</h3>
+<p data-mce-fragment="1">Massage salve onto sore areas as needed. Should feel a slight cooling, refreshing sensation, but not overpowering.</p>
+<p data-mce-fragment="1">CAUTION: Please wash hands before touching face as menthol will irritate eyes! If needed, rise out with soap and water. For external use only!</p>
+<p data-mce-fragment="1">Not much is needed for it to work, so use sparingly. A little goes a long way so our salve lasts you longer!</p>
+<meta charset="utf-8">
+<h3><span mce-data-marked="1">Ingredients</span></h3>
+<p><span mce-data-marked="1"><meta charset="utf-8">
+<span>Olive Oil, Shea Butter, Menthol, Candelilla wax, Arnica, Magnesium, and Essential oils of Camphor, Clove, Rosemary, and Lavender.</span></span></p>
+<h1><span></span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Skin Treatment Balm</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6550594355255</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4585383034935</id>
+    <published>2021-04-12T09:01:56-07:00</published>
+    <updated>2021-04-12T09:01:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/vegan-skin-salve-onsight-care"/>
+    <title>Vegan Skin Salve</title>
+    <s:type>Vegan Skin Salve</s:type>
+    <s:vendor>Onsight Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-onsight-care-vegan-skin-salve.png?v=1618243311"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Onsight Care<br>
+        <strong>Type: </strong>Vegan Skin Salve<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div>
+<meta charset="utf-8"> <span>Use Onsight Vegan Skin Salve to keep skin in its best condition after a tough day of rock climbing, work or everyday life. Our salve is for everyone who is rough on their hands and needs some soothing repair after a long day. Great for dry skin, cuts and scrapes.</span><br data-mce-fragment="1"><br data-mce-fragment="1"><span>Vegan Skin Salve is formulated to absorb quick so it's less greasy than traditional salves. Not much is needed for it to work, so use sparingly. A little goes a long way so our salve lasts you longer!</span>
+</div>
+<div><span><br></span></div>
+<h3><span>Features + Benefits</span></h3>
+<ul>
+<li>Natural</li>
+<li>Vegan</li>
+<li>Plastic Free</li>
+</ul>
+<h3>Ingredients</h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"></p>
+<h1><span></span></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Skin Treatment Balm</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4585383034935</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6536038744119</id>
+    <published>2021-03-05T09:10:17-08:00</published>
+    <updated>2021-03-05T09:10:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/chocolate-mandarin-balm-skin-essence-organics"/>
+    <title>Chocolate Mandarin Hand, Body and Lip Balm</title>
+    <s:type>Skin Treatment</s:type>
+    <s:vendor>Skin Essence Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/skin-essence-organics-chocolate-mandarin-balm-boutique-love-attack.png?v=1614300109"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skin Essence Organics<br>
+        <strong>Type: </strong>Skin Treatment<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;" data-mce-style="text-align: center;"></div>
+<div></div>
+<div>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><span>This rich balm is ideal for moisturizing and soothing dry, rough skin. Within a few seconds of application the skin appears and feels noticeably softer and smoother. Chocolate Mandarin is an excellent option for those who have dehydrated skin, as the key ingredients offer a rich, long lasting hydration that help to naturally improve the skin’s overall elasticity, texture and moisture.</span></p>
+<h3><span>Features + Benefits</span></h3>
+<div class="woocommerce-product-details__short-description">
+<ul>
+<li>Hydrates and soothes dry, chapped, and sensitive skin</li>
+<li>Offers rich, long lasting hydration for dry hands, heels, and lips</li>
+<li>Naturally concentrated formula helps maintain softer, smoother skin</li>
+<li>Subtle cocoa butter and orange natural aroma.</li>
+<li>Leaping Bunny Certified, Non GMO, Gluten Free and Fair Trade</li>
+</ul>
+</div>
+<div class="woocommerce-product-details__short-description">
+<h3>Composition</h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">This fresh organic formulation effectively softens and nourishes, while the vast amount of cocoa butter keeps the skin flexible, sealing in moisture.</span><br></p>
+<h3>Ingredients</h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span>Jojoba Seed Oil*, Cocoa Butter*, Beeswax, Rosehip Seed Oil*, Coconut Oil*, Castor Oil*, Orange Oil*, Tocopherol (Vitamin-E) <meta charset="utf-8">*Ingredient from organic farming</span></p>
+</div>
+</div>
+<div>
+<ul></ul>
+<meta charset="utf-8">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lip Balm</s:tag>
+    <s:tag>Skin Treatment Balm</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6536038744119</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>172</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6536035401783</id>
+    <published>2021-03-05T09:10:17-08:00</published>
+    <updated>2021-03-05T09:10:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/ecream-skin-balm-skin-essence-organics"/>
+    <title>E-Cream Soothing Skin Treatment Balm</title>
+    <s:type>Skin Treatment</s:type>
+    <s:vendor>Skin Essence Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/skin-essence-organics-ecream-skin-treatment-balm-boutique-love-attack.png?v=1614299416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skin Essence Organics<br>
+        <strong>Type: </strong>Skin Treatment<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;" data-mce-style="text-align: center;"></div>
+<div></div>
+<div>
+<meta charset="utf-8">
+<p>E-Cream is a delicately balanced skin balm that contains a wide variety of plant extracts which offer excellent calming, soothing and anti-inflammatory benefits. E-Cream is ideal for helping to soothe and reduce the effects of eczema, redness, sun burns, insect bites, and dry/itchy skin.</p>
+<p>This unique formula can be used anywhere on the body, including the face as a daily moisturizer.</p>
+<h3><span>Features + Benefits</span></h3>
+<ul>
+<li>Leaping Bunny Certified, Non GMO, Gluten Free and Fair Trade</li>
+</ul>
+<div class="woocommerce-product-details__short-description">
+<h3>How to use<br>
+</h3>
+<meta charset="utf-8">
+<div id="x-section-1" class="x-section">
+<div class="x-container max width">
+<div class="x-column x-sm x-1-1">
+<div class="x-text">
+<p>Rub E-Cream onto skin as needed.</p>
+<p><br>Best results with repeated applications.</p>
+</div>
+</div>
+</div>
+</div>
+<div id="x-section-2" class="x-section">
+<div class="x-container max width">
+<div class="x-column x-sm x-1-1"><br></div>
+</div>
+</div>
+<h3>Composition</h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">This product is formulated using the highest concentration of plant extracts possible and has been carefully balanced to create a truly effective and soothing skin balm.</span><br></p>
+<h3>Ingredients</h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><span>Calendula Flower Extract*, Beeswax, Chickweed Extract*, Gotu Kola Extract*, Nettle Leaf Extract*, Olive Oil*, Zinc Oxide (Non- Nano), Oat Extract*, White Kaolin Clay, Rosehip Seed Oil*, Jojoba Seed Oil*, Peppermint Oil*, Tocopherol (Vitamin-E), Blue Chamomile Oil*, Galbanum Oil* <meta charset="utf-8">*Ingredient from organic farming</span></p>
+</div>
+</div>
+<div>
+<ul></ul>
+<meta charset="utf-8">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Skin Treatment Balm</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6536035401783</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>179</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6536025407543</id>
+    <published>2021-03-05T09:10:15-08:00</published>
+    <updated>2021-03-05T09:10:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/facial-in-a-jar-skin-essence-organics"/>
+    <title>Facial in a Jar Exfoliant &amp; Softening Mask for All Skin Types</title>
+    <s:type>Mask</s:type>
+    <s:vendor>Skin Essence Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/skin-essence-organics-facial-in-a-jar-mask-boutique-love-attack.png?v=1614296492"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skin Essence Organics<br>
+        <strong>Type: </strong>Mask<br>
+        <strong>Price: </strong>
+            21.00 - 35.00
+            <a href="https://www.loveattack.ca/products/facial-in-a-jar-skin-essence-organics">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div>
+<meta charset="utf-8"> <span>This unique product helps achieve smooth, vibrant skin by removing dead skin cells that clog pores and form blackheads. Exfoliating regularly improves skin’s elasticity and its ability to absorb moisture and retain the rich nutrients found in each one of our serums.</span>
+</div>
+<div>
+<span></span><br>
+</div>
+<h3>Features + Benefits</h3>
+<ul>
+<li>Softens &amp; balances the skin’s complexion</li>
+<li>Brightens the skin’s natural tone</li>
+<li>Prevents blackheads and clogged pores</li>
+<li>Helps to regenerate and renew the skin</li>
+<li>Helps reduce the appearance of dark spots</li>
+<li>Eco Cert Organic Cosmetic, Leaping Bunny Certified, Non GMO, Vegan, Gluten Free and Fair Trade</li>
+<li>100% of the total ingredients are from natural origin</li>
+<li>82.28% of the total ingredients are from organic farming</li>
+<li>Remaining 17.72% are naturally organic ingredients such as clay</li>
+</ul>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<ul></ul>
+</div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"></div>
+<div>
+<h3>How to use</h3>
+<p>After cleansing with Skin Essence Organics facial cleanser (Pure or Fresh), mix approx. 1 tsp of powder with 1.5 tsp of water and gently massage onto skin in a small circular motion. Relax for 2 to 3 minutes, (optional) reapplying water as necessary to keep the mask hydrated, and then rinse.</p>
+<p>Apply the Skin Essence Organics facial moisturizer of your choice.</p>
+<p>For optimum freshness, keep the product dry until time of use</p>
+<h3>Why is it a powder?</h3>
+<ul>
+<li>
+<strong>MORE PRODUCT - </strong><span>Because there’s no added water, you get twice as much product, just add your own water!</span>
+</li>
+<li><span><meta charset="utf-8"> <strong>CUSTOMIZABLE - </strong>The more water you mix with the powder the thinner/lighter the mask is, so our unique mineral mask can be customized perfectly to your specific skin preferences and needs.</span></li>
+<li><span><meta charset="utf-8"> <strong>STAYS FRESH - </strong>No water means your product will stay fresh much longer and no synthetic preservatives are needed.</span></li>
+</ul>
+</div>
+<div><meta charset="utf-8"></div>
+<h3>Ingredients</h3>
+<div>
+<meta charset="utf-8"> <span data-mce-fragment="1">Oat Powder*, Marshmallow Root Powder*, Jasmine Flowers*, White Kaolin Clay, Stevia Leaf Powder*, Corn Meal*, Green Tea Extract </span>
+</div>
+<div>
+<br>
+<h3>Composition</h3>
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">The various active ingredients in this formulation are ideal for healing, nourishing and softening the skin.</span><br></p>
+</div>
+<div>
+<meta charset="utf-8"> <meta charset="utf-8">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Masks</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6536025407543</id>
+      <title>100ml</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>266</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6536025407543</id>
+      <title>50ml</title>
+      <s:price currency="CAD">21.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>139</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4668332048439</id>
+    <published>2021-01-22T14:01:40-08:00</published>
+    <updated>2021-01-22T14:01:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/lavender-fields-soothing-mask-geti-cosmetics"/>
+    <title>Lavender Fields Soothing Mask</title>
+    <s:type>Face Masks</s:type>
+    <s:vendor>Geti Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/BoutiqueLoveAttackGetiCosmeticsLavenderFieldsSoothingMask.png?v=1611352014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geti Cosmetics<br>
+        <strong>Type: </strong>Face Masks<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Relax, exhald and wander through lavender fields. Clear your worries away with soothing plant extracts for the skin and mind. Soothe exhausted skin with a blend of gentle clay, Plant-Medicines and Essential Oils for a delectable mask that will leave you swooning. </p>
+<h3 data-mce-fragment="1"><span data-mce-fragment="1">Features + Benefits</span></h3>
+<ul>
+<li><span data-mce-fragment="1">Soothing essential oils calm irritated skin and minds.</span></li>
+<li><span data-mce-fragment="1">Gentle clays help remove excess dirt and oil from deep within pores.</span></li>
+<li><span data-mce-fragment="1">Protects skin from harmful UVB rays.</span></li>
+<li><span data-mce-fragment="1">Comes in 2oz Biodegradable paper bag</span></li>
+</ul>
+<ul></ul>
+<ul></ul>
+<h3>How to use</h3>
+<ul>
+<li>Mix 1/2 teaspoon of mask powder with 1 tablespoon of warm water.</li>
+<li>Apply to face using a brush or with your fingers, while standing over a sink or spill-proof surface.</li>
+<li>Allow mask to dry before removing with warm water and a washcloth.</li>
+<li>Moisturize as needed.</li>
+</ul>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span>Organic Rhassoul Clay, Organic Purple Corn Powder, Essential Oils</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Masks</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4668332048439</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4668324053047</id>
+    <published>2021-01-22T13:39:26-08:00</published>
+    <updated>2021-01-22T13:39:26-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/c-here-detox-mask-geti-cosmetics"/>
+    <title>C-Here Detox Mask</title>
+    <s:type>Face Masks</s:type>
+    <s:vendor>Geti Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/BoutiqueLoveAttackGetiCosmeticsC-HereDetoxMask.png?v=1611352164"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geti Cosmetics<br>
+        <strong>Type: </strong>Face Masks<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">Who needs an expensive day at the spa? A proprietary blend of Gentle Clay, Detoxifying Charcoal and Essential Oils to invigorate your skin and your senses. Awaken and detoxify your skin with this charcoal mask- aimed to help you prepare for your next adventure.</p>
+<h3 data-mce-fragment="1"><span data-mce-fragment="1">Features + Benefits</span></h3>
+<ul>
+<li>Absorbs excess oil and dirt that can cause breakouts.</li>
+<li>Gently detoxifies the skin without over-drying.</li>
+<li>Great for oily or acne-prone areas.</li>
+<li>Comes packaged in 2oz biodegradable paper bag</li>
+</ul>
+<h3>How to use</h3>
+<ul>
+<li>Mix 1/2 teaspoon of mask powder with 1 tablespoon of warm water.</li>
+<li>Apply to face using a brush or with your fingers, while standing over a sink or spill-proof surface.</li>
+<li>Allow mask to dry before removing with warm water and a washcloth or reusable <a href="https://www.loveattack.ca/collections/love-attack-reusable-facial-rounds" target="_blank" title="Love Attack Reusable Organic Cotton Facial Rounds" rel="noopener noreferrer">facial rounds</a>.</li>
+<li>Moisturize as needed.</li>
+</ul>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Rhassoul Clay, Organic Charcoal Powder, Essential Oils.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Masks</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4668324053047</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4668299116599</id>
+    <published>2021-01-22T12:52:59-08:00</published>
+    <updated>2021-01-22T12:52:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/hey-rose-repairing-mask-geti-cosmetics"/>
+    <title>Hey Rosé Repairing Mask</title>
+    <s:type>Face Masks</s:type>
+    <s:vendor>Geti Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/BoutiqueLoveAttackGetiCosmeticsHeyRoseRepairingMask1.png?v=1628622218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geti Cosmetics<br>
+        <strong>Type: </strong>Face Masks<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Had a tough week full of toxic air, events, or people? <meta charset="utf-8"><span data-mce-fragment="1">Let Hey Rosé gently clear your worries away with soothing plant extracts for the skin and mind…! <meta charset="utf-8">Repair damaged skin with this blend of Gentle Clays, Plant-Medicines and Essential Oils for a delectable mask that will leave you feeling heavenly.</span></p>
+<h3 data-mce-fragment="1"><span data-mce-fragment="1">Features + Benefits</span></h3>
+<ul>
+<li>Antioxidants and anti-inflammatory properties help repair damaged skin.</li>
+<li>Soothing essential oils calm irritated skin and minds.</li>
+<li>Gentle clays help remove excess dirt and oil from deep within pores.</li>
+<li>It’s PINK, which is extra fun to rock during girl’s night in. </li>
+<li>Comes in 2oz Biodegradable paper bag</li>
+</ul>
+<h3>How to use</h3>
+<ul>
+<li>Mix 1/2 teaspoon of mask powder with 1 tablespoon of warm water.</li>
+<li>Apply to face using a brush or with your fingers, while standing over a sink or spill-proof surface.</li>
+<li>Allow mask to dry before removing with warm water and a washcloth.</li>
+<li>Moisturize as needed.</li>
+</ul>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span>Rhassoul Clay, Organic Beetroot, Essential Oils</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Masks</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4668299116599</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4591353593911</id>
+    <published>2020-07-28T06:18:19-07:00</published>
+    <updated>2020-07-28T06:18:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/glacial-gel-overnight-mask-ativo-skincare"/>
+    <title>Glacial Gel Overnight Mask</title>
+    <s:type>Glacial Gel Overnight Mask</s:type>
+    <s:vendor>Ativo Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/glacial-gel-overnight-mask-340189_2000x_905d6e5f-6738-4465-8707-82b60b3db09c.png?v=1595942300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ativo Skincare<br>
+        <strong>Type: </strong>Glacial Gel Overnight Mask<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">Soothing and cooling cucumber extract, sweet rose and aloe very juice cool and hydrate skin while sleeping. Blue spirulina repairs and fights free radicals that can cause aging. This is a supercharged vitamin mask to fight inflammation and damage from the sun and provide lost moisture. Use as a cooling after-sun treatment or overnight while sleeping. </span></p>
+<p class="p1"><span class="s1">Use as a hydration treatment while flying or traveling long distances in a vehicle.</span></p>
+<p class="p1"><span class="s1"><span>100% Natural | 100% Organic | Tested on Friends Not Animals | 60ml Glass  Recyclable Jar</span></span></p>
+<h3 class="product_name title">Benefits</h3>
+<meta charset="utf-8">
+<ul>
+<li><span class="s1"><span>Repairs and restores hydration and moisture.</span></span></li>
+<li><span class="s1"><span>Perfect for dry, extremely dry, combination, sensitive, oily, rosacea and red skin types.</span></span></li>
+<li><span class="s1"><span>Great for anti aging.</span></span></li>
+</ul>
+<meta charset="utf-8">
+<h3 class="p1">
+<span class="s1"><span><span class="tag tag--solid"><a href="https://ativoskincare.com/collections/face/dry-rough-texture" title="Products tagged Dry / Rough Texture"></a></span></span></span><span class="s1"><span>How to use</span></span>
+</h3>
+<meta charset="utf-8">
+<p><span class="s1">The gel can be used in two ways. </span></p>
+<p><span class="s1">Use as a treatment for 20 min after cleansing and toning your skin. </span></p>
+<p><span class="s1">Use as an overnight treatment after cleansing and toning your skin. </span></p>
+<p class="p1"><span class="s1">Apply a generous amount all over the face. After the product is absorbed completely, leave treatment overnight, and rinse off in the morning. This mask can be used daily one to two times per week. Follow with a skipped morning routine and just apply your favourite moisturizer</span></p>
+<meta charset="utf-8">
+<h3 class="p1"><span class="s1"><span>Ingredients</span></span></h3>
+<p class="p1"><span class="s1"><span>Purified water, cucumis sativus (cucumber) distillate, rosa damascena (rose) distillate, aloe barbadensis juice, simmondsia chinensis (jojoba) seed oil, squalane, propanediol, spirulina, leuconostoc/radish root ferment filtrate. </span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Masks</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4591353593911</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/1448194113591</id>
+    <published>2019-01-15T11:12:52-08:00</published>
+    <updated>2019-01-15T11:12:52-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/nurture-skin-softening-mineral-mask-skin-essence-organics"/>
+    <title>Nurture Skin Softening Mineral Mask for All Skin Types</title>
+    <s:type>Mask</s:type>
+    <s:vendor>Skin Essence Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/skin-essence-organics-nurture-mask-boutique-love-attack.png?v=1614295800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skin Essence Organics<br>
+        <strong>Type: </strong>Mask<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<div><span>Nurture is a softening mineral mask which soothes and softens the skin.This mask is suitable for all skin types. </span></div>
+<div>
+<span></span><br>
+</div>
+<h3>Features + Benefits</h3>
+<ul>
+<li>Formulated to soothe the skin &amp; reduce redness</li>
+<li>Softens the skin’s texture</li>
+<li>Natural calming &amp; anti-inflammatory properties</li>
+<li>Nourishes the skin for a healthier complexion</li>
+<li><span>Leaping Bunny Certified, Non GMO, Vegan, Gluten Free and Fair Trade </span></li>
+<li>Natural and Organic cosmetic certified by Ecocert Greenlife according to Ecocert Standard available at cosmetics.ecocert.com</li>
+<li>100% of the total ingredients are from natural origin</li>
+<li>57.63% of the total ingredients are from organic farming</li>
+<li>Remaining 42.37% is naturally organic mineral</li>
+</ul>
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<ul></ul>
+</div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"><span></span></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"></div>
+<div style="text-align: left;" data-mce-style="text-align: left;"></div>
+<div>
+<h3>How to use</h3>
+<p>After cleansing with Skin Essence Organics facial cleanser (Pure or Fresh), mix together 1 tablespoon of powder and 1 tablespoon of water in a dish or the palm of your hand.</p>
+<p>Gently apply onto the face evenly.</p>
+<p>Relax for 5-10 minutes, reapplying water as necessary to keep the mask hydrated, and then rinse.</p>
+<h3>Why is it a powder?</h3>
+<ul>
+<li>
+<strong>MORE PRODUCT - </strong><span>Because there’s no added water, you get twice as much product, just add your own water!</span>
+</li>
+<li><span><meta charset="utf-8">
+<strong>CUSTOMIZABLE - </strong>The more water you mix with the powder the thinner/lighter the mask is, so our unique mineral mask can be customized perfectly to your specific skin preferences and needs.</span></li>
+<li><span><meta charset="utf-8">
+<strong>STAYS FRESH - </strong>No water means your product will stay fresh much longer and no synthetic preservatives are needed.</span></li>
+</ul>
+</div>
+<div><meta charset="utf-8"></div>
+<h3>Ingredients</h3>
+<div>
+<meta charset="utf-8">
+<span data-mce-fragment="1">Oat Powder*, White Kaolin Clay, Chamomile Flowers*, Stevia Leaf Powder*</span><br>
+<p>*Ingredient from organic farming</p>
+<h3>Composition</h3>
+<p><meta charset="utf-8"><span>Derived from a variety of organic minerals, clays and dried flowers.</span></p>
+</div>
+<div>
+<meta charset="utf-8"> <meta charset="utf-8">
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Masks</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/1448194113591</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>173</s:grams>
+    </s:variant>
+  </entry>
+</feed>

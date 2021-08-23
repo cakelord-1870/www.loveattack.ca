@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/naked-swab.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-03-31T14:35:19-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/6546711216183</id>
+    <published>2021-03-31T14:35:19-07:00</published>
+    <updated>2021-03-31T14:35:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/bamboo-collection-reusable-swabs-naked-swab"/>
+    <title>Bamboo Collection Reusable Swabs</title>
+    <s:type>Reusable Swab</s:type>
+    <s:vendor>Naked Swab</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-naked-swab-bamboo.png?v=1617226513"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Naked Swab<br>
+        <strong>Type: </strong>Reusable Swab<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NakedSwab is a reusable, sustainable and sanitary alternative to cotton swabs and Q-tips. </p>
+<p>1 NakedSwab = 2000 Cotton Swabs! </p>
+<h3>Dual Use</h3>
+<p>Use swabs for cleaning!</p>
+<p>Use swabs for correcting makeup! </p>
+<p><meta charset="utf-8"><span>Swabs can be used for so much more! </span></p>
+<p><span>Each set comes with 4 Bamboo Swabs</span></p>
+<h3>How do I clean my NakedSwab?</h3>
+<div class="rte-setting">Cleaning your NakedSwab is quick and easy- just use soap and water!</div>
+<div class="rte-setting"><br></div>
+<h3 class="rte-setting">How long does NakedSwab last for?</h3>
+<div class="rte-setting">NakedSwab has been designed to last for up to 2000 uses!</div>
+<div class="rte-setting"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Swabs</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6546711216183</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4494245298231</id>
+    <published>2020-04-21T08:05:40-07:00</published>
+    <updated>2020-04-21T08:05:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/the-purple-beauty-reusable-swab-naked-swab"/>
+    <title>The Purple Beauty Reusable Swab</title>
+    <s:type>Reusable Swab</s:type>
+    <s:vendor>Naked Swab</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/BoutiqueLoveAttackNakedSwabReusableQ-Tip_ReusableSwab-5.png?v=1611877472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Naked Swab<br>
+        <strong>Type: </strong>Reusable Swab<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>NakedSwab is a reusable, sustainable and sanitary alternative to cotton swabs and Q-tips. </p>
+<p>1 NakedSwab = 2000 Cotton Swabs! </p>
+<h3>Dual Use</h3>
+<p>One swab for cleaning!</p>
+<p>One for correcting makeup! </p>
+<p>Our swabs can be used for so much more! </p>
+<h3>How do I clean my NakedSwab?</h3>
+<div class="rte-setting">
+<p>Cleaning your NakedSwab is quick and easy- just use soap and water!</p>
+</div>
+<div class="rte-setting">
+<h3>How long does NakedSwab last for?</h3>
+<p>NakedSwab has been designed to last for up to 2000 uses!</p>
+</div>
+<div class="rte-setting"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Swabs</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4494245298231</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4494242152503</id>
+    <published>2020-04-21T08:05:40-07:00</published>
+    <updated>2020-04-21T08:05:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/the-pink-flamingo-reusable-swab-naked-swab"/>
+    <title>The Pink Flamingo Reusable Swab</title>
+    <s:type>Reusable Swab</s:type>
+    <s:vendor>Naked Swab</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/BoutiqueLoveAttackNakedSwabReusableQ-Tip_ReusableSwabPinkFlamingo5.png?v=1611877917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Naked Swab<br>
+        <strong>Type: </strong>Reusable Swab<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8">NakedSwab is a reusable, sustainable and sanitary alternative to cotton swabs and Q-tips. </p>
+<p>1 NakedSwab = 2000 Cotton Swabs! </p>
+<h3>Dual Use</h3>
+<p>One swab for cleaning!</p>
+<p>One for correcting makeup! </p>
+<p><meta charset="utf-8"><span>Swabs can be used for so much more! </span></p>
+<h3>How do I clean my NakedSwab?</h3>
+<div class="rte-setting">Cleaning your NakedSwab is quick and easy- just use soap and water!</div>
+<div class="rte-setting"></div>
+<div class="rte-setting"></div>
+<h3 class="rte-setting">How long does NakedSwab last for?</h3>
+<div class="rte-setting"></div>
+<div class="rte-setting">NakedSwab has been designed to last for up to 2000 uses!</div>
+<div class="rte-setting"></div>
+<div class="rte-setting"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Swabs</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4494242152503</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4494239203383</id>
+    <published>2020-04-21T08:05:39-07:00</published>
+    <updated>2020-04-21T08:05:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/the-black-cat-reusable-swab-naked-swab"/>
+    <title>The Black Cat Reusable Swab</title>
+    <s:type>Reusable Swab</s:type>
+    <s:vendor>Naked Swab</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/BoutiqueLoveAttackNakedSwabReusableQ-Tip_2FReusableSwabBlackCat.png?v=1611878520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Naked Swab<br>
+        <strong>Type: </strong>Reusable Swab<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>NakedSwab is a reusable, sustainable and sanitary alternative to cotton swabs and Q-tips. </p>
+<p>1 NakedSwab = 2000 Cotton Swabs! </p>
+<h3>Dual Use</h3>
+<p>One swab for cleaning!</p>
+<p>One for correcting makeup! </p>
+<p><meta charset="utf-8"><span>Swabs can be used for so much more! </span></p>
+<h3>How do I clean my NakedSwab?</h3>
+<div class="rte-setting">Cleaning your NakedSwab is quick and easy- just use soap and water!</div>
+<div class="rte-setting"><br></div>
+<div class="rte-setting"><br></div>
+<h3 class="rte-setting">How long does NakedSwab last for?</h3>
+<div class="rte-setting"><br></div>
+<div class="rte-setting">NakedSwab has been designed to last for up to 2000 uses!</div>
+<div class="rte-setting"></div>
+<div class="rte-setting"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Swabs</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4494239203383</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4494237892663</id>
+    <published>2020-04-21T08:05:38-07:00</published>
+    <updated>2020-04-21T08:05:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/green-rainforest-reusable-swab-naked-swab"/>
+    <title>Green Rainforest Reusable Swab</title>
+    <s:type>Reusable Swab</s:type>
+    <s:vendor>Naked Swab</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/BoutiqueLoveAttackNakedSwabReusableQ-Tip_2FReusableSwabGreenRainforest.png?v=1611878735"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Naked Swab<br>
+        <strong>Type: </strong>Reusable Swab<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>NakedSwab is a reusable, sustainable and sanitary alternative to cotton swabs and Q-tips. </p>
+<p>1 NakedSwab = 2000 Cotton Swabs! </p>
+<h3>Dual Use</h3>
+<p>One swab for cleaning!</p>
+<p>One for correcting makeup! </p>
+<p><meta charset="utf-8"><span>Swabs can be used for so much more! </span></p>
+<h3>How do I clean my NakedSwab?</h3>
+<div class="rte-setting">Cleaning your NakedSwab is quick and easy- just use soap and water!</div>
+<div class="rte-setting"><br></div>
+<h3 class="rte-setting">How long does NakedSwab last for?</h3>
+<div class="rte-setting">NakedSwab has been designed to last for up to 2000 uses!</div>
+<div class="rte-setting"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Swabs</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4494237892663</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+</feed>

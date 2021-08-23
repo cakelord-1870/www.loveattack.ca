@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/reusable-cutlery.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2020-11-19T11:18:22-08:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/4637539106871</id>
+    <published>2020-11-19T11:18:22-08:00</published>
+    <updated>2020-11-19T11:18:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/on-the-go-cutlery-set-blue-allbambu"/>
+    <title>On the Go Reusable Cutlery Set - Blue</title>
+    <s:type>Reusable Cutlery Set</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/allBambu_-_on_the_go_bamboo_cutlery_set_blue.png?v=1605812543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Reusable Cutlery Set<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<ul>
+<li>This lightweight, durable and sturdy bamboo flatware is a zero-waste solution to carry along wherever you go!</li>
+<li>
+<p>Made from organically grown Bamboo, the cutlery items are reusable, zero-plastic, vegan &amp; 100% compostable</p>
+</li>
+<li>
+<p>Includes a Spoon, Fork, Knife, Chopsticks, Smoothie straw and Coconut Fibre Straw Cleaner</p>
+</li>
+<li>
+<p> It comes in a canvas pouch with a handy carabiner to hook on to your bag, backpack, pant or anything with a loop</p>
+</li>
+<li>
+<p>Great for travel, outdoor camping, picnic, barbecue, kids school lunch, office and more</p>
+</li>
+</ul>
+</div>
+<h1 data-mce-fragment="1"><strong></strong></h1>
+<h1 class="fw600"><strong>Product Specifications</strong></h1>
+<ul>
+<li>Hand wash for longer life</li>
+<li>Stain Resistant &amp; Anti microbial</li>
+<li>Avoid prolonged soaking</li>
+<li>Vegan &amp; PETA Certified</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cutlery</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4637539106871</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>90</s:grams>
+    </s:variant>
+  </entry>
+</feed>

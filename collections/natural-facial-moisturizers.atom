@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/natural-facial-moisturizers.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-03-05T09:10:16-08:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/6536033599543</id>
+    <published>2021-03-05T09:10:16-08:00</published>
+    <updated>2021-03-05T09:10:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/light-facial-moisturizer-skin-essence-organics"/>
+    <title>Light Facial Moisturizer for Oily &amp; Acne Prone Skin</title>
+    <s:type>Facial Moisturizers &amp; Serums</s:type>
+    <s:vendor>Skin Essence Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/skin-essence-organics-light-facial-moisturizer-boutique-love-attack.png?v=1614298682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skin Essence Organics<br>
+        <strong>Type: </strong>Facial Moisturizers &amp; Serums<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="x-column x-sm cs-ta-center x-1-3">
+<div class="x-text cs-ta-left paragraph">
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<meta charset="utf-8">
+<p><meta charset="utf-8"><span>This product is designed specifically for acne and/or oily prone skin that requires light hydration. The extracts and essential oils used in this formula contain natural healing, anti-bacterial and anti-inflammatory properties, which help to keep the skin clean and clear, preventing breakouts.</span></p>
+<h3>Features + Benefits</h3>
+<ul>
+<li>This oil based moisturizer provides light and fast absorbing hydration and is non-comedogenic.</li>
+<li>Calms and tones the skin’s natural complexion</li>
+<li>Helps reduce the occurrence of breakouts and blemishes</li>
+<li>Rich in antioxidants to maintain a youthful and healthy complexion</li>
+<li>USDA Certified Organic, Eco Cert Organic Cosmetic, Leaping Bunny Certified, Non GMO, Vegan, Gluten Free and Fair Trade product</li>
+<li>
+<meta charset="utf-8">
+<span>100% of the total ingredients are from natural origin</span><br><span></span>
+</li>
+<li>
+<span>95.75% of the total ingredients are from organic farming</span><br><span></span>
+</li>
+<li><span>Remaining 4.25% are naturally organic ingredients such as vitamins &amp; minerals</span></li>
+</ul>
+<div class="woocommerce-product-details__short-description"><br></div>
+</div>
+<h3>How to use</h3>
+<p>Always make sure the serums are shaken well before applying so that all of the key ingredients are present in each application.</p>
+<p>To ensure deep absorption, massage the serums into the skin thoroughly.</p>
+<p>*Tip- After cleansing your skin and before applying the serum, splash your face with cool water. This will help to close your skin’s pores and the water on the face will also allow the serum to spread easily and evenly. Water also has a natural capillary action, which will help to pull the vitamins and minerals into your skin, leaving a healthy glow! (Each serum takes about 5 minutes to fully absorb)</p>
+<p>Prefer a lighter hydration? Simply add a couple of drops of water to 1-2 pumps of this moisturizing serum on the palm of your hand, before applying to your face. The more water you add, the lighter the hydration will be. Our oil-based moisturizers are fully customizable to help you get the right hydration for your skin and the weather changes.</p>
+<p>For optimum freshness, use within 6 months of opening.</p>
+<h3>Ingredients</h3>
+<div>
+<meta charset="utf-8">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Jojoba Seed Oil*, Kukui Nut Oil, Orange Oil*, Eucalyptus Oil*, Lavender Flower Oil*, Lime Oil*, Geranium Oil*, Galbanum Oil*, Lemongrass Oil*, Tocopherol (Vitamin-E), Tea Tree Oil* <meta charset="utf-8">*Ingredient from organic farming</span>
+</div>
+<div><span data-mce-fragment="1"></span></div>
+<h3><span data-mce-fragment="1">Composition</span></h3>
+<div>
+<meta charset="utf-8">
+<span>The variety of unique ingredients chosen for this serum have been delicately balanced to effectively heal, hydrate and tone the skin achieving a healthy, clear complexion. </span><span>(Non-comedogenic)</span>
+</div>
+<div>
+<meta charset="utf-8">
+<br>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Serums</s:tag>
+    <s:tag>Moisturizers</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6536033599543</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6536032419895</id>
+    <published>2021-03-05T09:10:16-08:00</published>
+    <updated>2021-03-05T09:10:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/neroli-facial-moisturizer-skin-essence-organics"/>
+    <title>Neroli Anti-Aging Facial Moisturizer for Dry Skin</title>
+    <s:type>Facial Moisturizers &amp; Serums</s:type>
+    <s:vendor>Skin Essence Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/skin-essence-organics-neroli-facial-moisturizer-boutique-love-attack.png?v=1614297872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skin Essence Organics<br>
+        <strong>Type: </strong>Facial Moisturizers &amp; Serums<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="x-column x-sm cs-ta-center x-1-3">
+<div class="x-text cs-ta-left paragraph">
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<meta charset="utf-8">
+<p>This rich facial moisturizer offers a deep hydration and has been formulated to effectively heal and improve the skin’s overall texture and elasticity by uniting carefully selected, concentrated ingredients that reduce the signs of aging resulting in a healthy, even complexion.</p>
+<p>For those who need a little extra moisture, we suggest applying E-Cream overtop of the Neroli for increased benefits and hydration.</p>
+<h3>Features + Benefits</h3>
+<meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Provides rich hydration for a softer, smoother &amp; balanced appearance</li>
+<li data-mce-fragment="1">Helps reduce the appearance of fine lines &amp; wrinkles</li>
+<li data-mce-fragment="1">Rich in antioxidants to maintain a youthful and healthy complexion</li>
+<li data-mce-fragment="1">Naturally brightens, tones &amp; soothes dry skin</li>
+<li data-mce-fragment="1">This oil based moisturizing serum offers deep absorption and a complete hydration.</li>
+<li data-mce-fragment="1">USDA Certified Organic, Eco Cert Organic, Leaping Bunny Certified, Non GMO, Vegan, Gluten Free and Fair Trade </li>
+<li data-mce-fragment="1">
+<meta charset="utf-8">
+<span>100% of the total ingredients are from natural origin</span><br><span></span>
+</li>
+<li data-mce-fragment="1">
+<span>95.08% of the total ingredients are from organic farming</span><br><span></span>
+</li>
+<li data-mce-fragment="1"><span>Remaining 4.92% are naturally organic ingredients such as vitamins &amp; minerals.</span></li>
+</ul>
+</div>
+<h3>How to use</h3>
+<p>Always make sure the serums are shaken well before applying so that all of the key ingredients are present in each application.</p>
+<p>To ensure deep absorption, massage the serums into the skin thoroughly.</p>
+<p>*Tip- After cleansing your skin and before applying the serum, splash your face with cool water. This will help to close your skin’s pores and the water on the face will also allow the serum to spread easily and evenly. Water also has a natural capillary action, which will help to pull the vitamins and minerals into your skin, leaving a healthy glow! (Each serum takes about 5 minutes to fully absorb)</p>
+<p>For lighter hydration, simply add a couple of drops of water to 1-2 pumps of this moisturizing serum on the palm of your hand, before applying to your face. The more water you add, the lighter the hydration will be. Our oil-based moisturizers are fully customizable to help you get the right hydration for your skin and the weather changes.</p>
+<p>For optimum freshness, use within 6 months of opening</p>
+<h3>Ingredients</h3>
+<div>
+<meta charset="utf-8">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Jojoba Seed Oil*, Rosehip Seed Oil*, Macadamia Nut Oil*, Apricot Kernel Oil*, Orange Oil*, Kukui Nut Oil, Neroli Flower Oil*, Jasmine oil*, Evening Primrose Oil*, Tocopherol (Vitamin-E), Zinc Oxide (Non-Nano) <meta charset="utf-8">*Ingredient from organic farming</span><br>
+</div>
+<div><span data-mce-fragment="1"><br></span></div>
+<h3><span data-mce-fragment="1">Composition</span></h3>
+<div>
+<meta charset="utf-8">
+<meta charset="utf-8">
+<span data-mce-fragment="1">The wide variety of organic extracts used in this formulation has many revitalizing properties that help to heal and rejuvenate skin cells and stimulate collagen production. The key ingredients used in this serum and its purpose are similar to those found in the Nourish serum, but the Neroli provides heavier moisturizing capabilities for those who need a bit more hydration. </span><span data-mce-fragment="1">(Non-comedogenic)</span><br>
+</div>
+<div>
+<meta charset="utf-8"> <br>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Serums</s:tag>
+    <s:tag>Moisturizers</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6536032419895</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6536031633463</id>
+    <published>2021-03-05T09:10:15-08:00</published>
+    <updated>2021-03-05T09:10:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/nourish-facial-moisturizer-skin-essence-organics"/>
+    <title>Nourish Anti-Aging Facial Moisturizer for Combination Skin</title>
+    <s:type>Facial Moisturizers &amp; Serums</s:type>
+    <s:vendor>Skin Essence Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/skin-essence-organics-nourish-facial-moisturizer-boutique-love-attack.png?v=1614297662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skin Essence Organics<br>
+        <strong>Type: </strong>Facial Moisturizers &amp; Serums<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="x-column x-sm cs-ta-center x-1-3">
+<div class="x-text cs-ta-left paragraph">
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<meta charset="utf-8">
+<p><meta charset="utf-8"><span>This concentrated facial moisturizer offers ideal hydration for those with combination/normal skin type and has been formulated to effectively heal and improve the skin’s overall texture and elasticity by uniting carefully selected, concentrated organic ingredients that reduce the signs of aging resulting in a healthy, even complexion.</span></p>
+<h3>Features + Benefits</h3>
+<ul>
+<li><span>Provides instant hydration for a softer, smoother and balanced appearance</span></li>
+<li><span>Helps reduce the appearance of fine lines &amp; wrinkles</span></li>
+<li><span>Rich in antioxidants to maintain a youthful and healthy complexion</span></li>
+<li><span>Naturally brightens, tones &amp; soothes combination skin</span></li>
+<li><span>This oil based moisturizing serum offers deep absorption and a complete hydration.</span></li>
+<li><span>USDA Certified Organic, Eco Cert Organic Cosmetic, Leaping Bunny Certified, Non GMO, Vegan, Gluten Free and Fair Trade product</span></li>
+<li><span>100% of the total ingredients are from natural origin</span></li>
+<li>95.22% of the total ingredients are from organic farming</li>
+<li><span>Remaining 4.78% are naturally organic ingredients such as vitamins &amp; minerals</span></li>
+</ul>
+</div>
+<h3>How to use</h3>
+<p>Always make sure the serums are shaken well before applying so that all of the key ingredients are present in each application.</p>
+<p>To ensure deep absorption, massage the serums into the skin thoroughly.</p>
+<p>*Tip- After cleansing your skin and before applying the serum, splash your face with cool water. This will help to close your skin’s pores and the water on the face will also allow the serum to spread easily and evenly. Water also has a natural capillary action, which will help to pull the vitamins and minerals into your skin, leaving a healthy glow! (Each serum takes about 5 minutes to fully absorb)</p>
+<p>For lighter hydration, simply add a couple of drops of water to 1-2 pumps of this moisturizing serum on the palm of your hand, before applying to your face. The more water you add, the lighter the hydration will be.<br>Our oil-based moisturizers are fully customizable to help you get the right hydration for your skin and the weather changes.</p>
+<p>For optimum freshness, use within 6 months of opening</p>
+<h3>Ingredients</h3>
+<div>
+<meta charset="utf-8">
+<meta charset="utf-8">
+<span data-mce-fragment="1">Jojoba Seed Oil*, Rosehip Seed Oil*, Macadamia Nut Oil*, Apricot Kernel Oil*, Orange Oil*, Kukui Nut Oil, Neroli Flower Oil*, Tocopherol (Vitamin-E), Jasmine oil*, Evening Primrose Oil*, Zinc Oxide (Non-Nano) <meta charset="utf-8">*Ingredient from organic farming</span><br>
+</div>
+<div><span data-mce-fragment="1"><br></span></div>
+<h3><span data-mce-fragment="1">Composition</span></h3>
+<div>
+<meta charset="utf-8">
+<span>The nourishing extracts and minerals that have been carefully selected for this serum are very beneficial for combination skin types, that may also be damaged or aging. The abundant amount of Rosehip and Neroli used in this serum are phenomenal for stimulating and rejuvenating skin cells, while also nourishing the skins vital capillaries. </span><span>(Non-comedogenic)</span>
+</div>
+<div>
+<meta charset="utf-8">
+<br>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Serums</s:tag>
+    <s:tag>Moisturizers</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6536031633463</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4673313865783</id>
+    <published>2021-02-19T13:57:02-08:00</published>
+    <updated>2021-02-19T13:57:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/triple-berry-moisturizer-nanaglow-skincare"/>
+    <title>Triple Berry Moisturizer for Normal to Dry Skin</title>
+    <s:type>Face Moisturizers</s:type>
+    <s:vendor>NanaGlow Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/nanaglow-skincare-triple-berry-gel-moisturizer-boutique-love-attack-_2.png?v=1612548939"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NanaGlow Skincare<br>
+        <strong>Type: </strong>Face Moisturizers<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Feel hydrated every day! This daily cream nourishes and protects skin, leaving it feeling </span><em data-mce-fragment="1">soft</em><span data-mce-fragment="1">, </span><em data-mce-fragment="1">smooth</em><span data-mce-fragment="1"> and </span><em data-mce-fragment="1">supple</em><span data-mce-fragment="1"> without any greasy residue. Experience the ultimate in pampering as this moisturizer delivers powerful nutrients that support healthy, vibrant skin. Carefully designed with clean ingredients that enhance the potent natural butters and oils that make this an excellent moisturizer for normal to dry skin.</span><br></p>
+<h3><span data-mce-fragment="1">Skin Types</span></h3>
+<ul>
+<li>Normal</li>
+<li>Dry</li>
+</ul>
+<ul></ul>
+<h3><span data-mce-fragment="1">How to use</span></h3>
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">After cleansing and toning, warm a small amount of Triple Berry Moisturizer between palms and smooth over face and neck. Recommended in the morning and evening for overnight restorative benefits.</span><br></p>
+<h3><span data-mce-fragment="1">Ingredients</span></h3>
+<p class="p1">Aqua (Purified Water),<span> </span>*Helianthus Annuus (Sunflower) Seed Oil,<span> </span>*Persea Gratissima (Avocado) Oil,<span> </span>*Rubus Idaeus (Raspberry) Fruit Extract, Arachidyl Alcohol (and) Behenyl Alcohol (and) Arachidyl Glucoside, Glycerin, *Euphorbia Cerifera (Candelilla) Wax, Cetearyl Alcohol,<span> </span>*Butyrospermum Parkii (Shea) Butter, Glyceryl Stearate, Lauryl Lactate, 1,2-Hexanediol (and) Caprylyl Glycol, Tocopheryl Acetate,<span> </span>Astrocaryum Murumuru Butter, Gluconolactone, Dehydroacetic Acid, Ethylhexylglycerin, Thioctic Acid, Dimethylaminoethanol, Sodium Ascorbyl Phosphate, Iron Oxides, *Fucus Vesiculosus Extract, Aspalathus Linearis Leaf Extract, Palmitoyl Tripeptide-5,<span> </span>*Calendula Officinalis Flower Extract, *Hippophae Rhamnoides Extract, Ubiquinone,<span> </span>*Vaccinium Angustifolium (Blueberry) Fruit Extract,<span> </span>*Vaccinium Macrocarpon (Cranberry) Seed Oil, *Soybean Lecithin.</p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">* Denotes organic ingredient</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Moisturizers</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4673313865783</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4673313407031</id>
+    <published>2021-02-19T13:57:02-08:00</published>
+    <updated>2021-02-19T13:57:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/kiwilitchi-balancing-gel-moisturizer-nanaglow-skincare"/>
+    <title>KiwiLitchi Balancing Gel Moisturizer for Oily/Combination Skin</title>
+    <s:type>Face Moisturizers</s:type>
+    <s:vendor>NanaGlow Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/nanaglow-skincare-kiwilitchi-balancing-gel-moisturizer-boutique-love-attack-_2.png?v=1612548763"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>NanaGlow Skincare<br>
+        <strong>Type: </strong>Face Moisturizers<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Oily-prone skin love this lightweight gel that offers just the right amount of hydration without the greasy residue that causes breakouts. Clarifying nutrients envelope skin in a balancing gel that absorbs quickly, with a clear matte finish that minimizes the shine of an oily appearance. Vitamin A, Vitamin C and Salicylic Acid support clarity of tone and optimal radiance.</span><br></p>
+<h3><span data-mce-fragment="1">Skin Types</span></h3>
+<ul>
+<li><span data-mce-fragment="1" mce-data-marked="1">Oily</span></li>
+<li><span data-mce-fragment="1" mce-data-marked="1">Combination</span></li>
+</ul>
+<ul></ul>
+<h3><span data-mce-fragment="1">How to use</span></h3>
+<p><meta charset="utf-8"><span>After cleansing and toning, apply a small amount of moisturizing gel to fingertips and gently pat onto skin. Recommended as a daily moisturizer, for morning and evening use. *This </span><span data-mce-fragment="1">gel-hydrator c</span><span>an also be applied as a spot treatment targeting stubborn blemishes.</span></p>
+<h3><span data-mce-fragment="1">Ingredients</span></h3>
+<p class="p1">Aqua (Purified Water), *Glycerin, Sorbitol, Acrylates/C10-30 Alkyl Acrylate, Crosspolymer, 1,2-Hexanediol (and) Caprylyl Glycol, Retinyl Palmitate, Arginine, Dehydroacetic Acid,<span> </span>Litchi Chinensis Fruit Extract,<span> </span>Actinidia Chinensis (Kiwi) Fruit Water,<span> </span>*Althaea Officinalis Root Extract,<span> </span>*Calendula Officinalis Flower Extract,<span> </span>*Anthemis Nobilis Flower Extract,<span> </span>*Daucus Carota Sativa (Carrot) Root Extract, Sodium Ascorbyl Phosphate, Arbutin, Salicylic Acid, *Soybean Lecithin, Iron Oxides, *Rosa Damascena Flower Oil, Melia Azadirachta (Neem) Leaf Extract.</p>
+<p data-mce-fragment="1"><em data-mce-fragment="1">* Denotes organic ingredient</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Moisturizers</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4673313407031</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/466302959653</id>
+    <published>2018-01-18T15:07:07-08:00</published>
+    <updated>2018-01-18T15:07:07-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/soothe-facial-moisturizer-skin-essence-organics"/>
+    <title>Soothe Anti-Aging Facial Moisturizer for Sensitive Skin &amp; Rosacea</title>
+    <s:type>Facial Moisturizers &amp; Serums</s:type>
+    <s:vendor>Skin Essence Organics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/skin-essence-organics-soothe-facial-moisturizer-boutique-love-attack.png?v=1614297026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skin Essence Organics<br>
+        <strong>Type: </strong>Facial Moisturizers &amp; Serums<br>
+        <strong>Price: </strong>
+            32.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="x-column x-sm cs-ta-center x-1-3">
+<div class="x-text cs-ta-left paragraph">
+<div style="text-align: left;" data-mce-style="text-align: left;">
+<meta charset="utf-8">
+<p>This unique moisturizer is ideal for those with sensitive skin as it is formulated with a variety of organic herbs and plant oils that offer wonderful calming and soothing benefits, resulting in healthy looking, radiant skin.</p>
+<h3>Features + Benefits</h3>
+<div class="woocommerce-product-details__short-description">
+<ul>
+<li>Calms, soothes &amp; rehydrates all skin types including sensitive skin</li>
+<li>Helps reduce the appearance of redness, fine lines &amp; wrinkles</li>
+<li>Rich in antioxidants to maintain a youthful &amp; healthy complexion</li>
+<li>Naturally tones &amp; balances the skin</li>
+<li>This oil based moisturizing serum offers deep absorption and a complete hydration.</li>
+<li>USDA Certified Organic, Eco Cert Organic Cosmetic, Leaping Bunny Certified, Non GMO, Vegan, Gluten Free and Fair Trade product</li>
+<li>100% of the total ingredients are from natural origin</li>
+<li>98.8% of the total ingredients are from organic farming as calculated by the Eco-Cert Cosmetic Standard </li>
+</ul>
+</div>
+</div>
+<h3>How to use</h3>
+<p>Always make sure the serums are shaken well before applying so that all of the key ingredients are present in each application.</p>
+<p>To ensure deep absorption, massage the serums into the skin thoroughly.</p>
+<p>*Tip- After cleansing your skin and before applying the serum, splash your face with cool water. This will help to close your skin’s pores and the water on the face will also allow the serum to spread easily and evenly. Water also has a natural capillary action, which will help to pull the vitamins and minerals into your skin, leaving a healthy glow! (Each serum takes about 5 minutes to fully absorb)</p>
+<p>For lighter hydration, simply add a couple of drops of water to 1-2 pumps of this moisturizing serum on the palm of your hand, before applying to your face. The more water you add, the lighter the hydration will be.</p>
+<p>Our oil-based moisturizers are fully customizable to help you get the right hydration for your skin and the weather changes.</p>
+<p>For optimum freshness, use within 6 months of opening</p>
+<h3>Ingredients</h3>
+<div>
+<meta charset="utf-8"> <meta charset="utf-8"> <span data-mce-fragment="1">Jojoba Seed Oil*, Macadamia Nut Oil*, Rosehip Seed Oil*, Borage Seed Oil*, Calendula Flower Extract*, Tocopherol (Vitamin-E), Sage Oil*, Galbanum Oil* <meta charset="utf-8">*Ingredient from organic farming</span>
+</div>
+<div><span data-mce-fragment="1"><br></span></div>
+<h3><span data-mce-fragment="1">Composition</span></h3>
+<div><span data-mce-fragment="1"><meta charset="utf-8">This delicate moisturizing blend of organic extracts, minerals and essential oils is specifically formulated to possess brilliant healing and soothing properties.<br>(Non-comedogenic)</span></div>
+<div><meta charset="utf-8"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Serums</s:tag>
+    <s:tag>Moisturizers</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/466302959653</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>85</s:grams>
+    </s:variant>
+  </entry>
+</feed>

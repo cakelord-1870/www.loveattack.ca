@@ -1,0 +1,1361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/natural-toothbrushes-toothpaste-floss.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-04-12T09:20:26-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/6550597402679</id>
+    <published>2021-04-12T09:20:26-07:00</published>
+    <updated>2021-04-12T09:20:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/citrus-fresh-tooth-powder-onsight-care"/>
+    <title>Citrus Fresh Tooth Powder</title>
+    <s:type>All Natural, Vegan Tooth Powder</s:type>
+    <s:vendor>Onsight Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-onsight-care-citrus-fresh-tooth-powder.png?v=1618244424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Onsight Care<br>
+        <strong>Type: </strong>All Natural, Vegan Tooth Powder<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><meta charset="utf-8"><span>Citrus Fresh tooth powder leaves your whole mouth feeling clean and fresh with a citrus taste. Perfect for traveling, our liquid-free formula leaves you worry free about oversized liquids in your carry-on! </span></p>
+<h3 data-mce-fragment="1">Features + Benefits</h3>
+<ul>
+<li>No Glycerin</li>
+<li>No SLS</li>
+<li>No Flouride</li>
+<li>No toxins</li>
+<li>Natural</li>
+<li>Vegan</li>
+<li>Plastic Free</li>
+</ul>
+<h3>How it works</h3>
+<p><meta charset="utf-8"><span>The bentonite clay base not only cleans, but also draws out impurities and remineralizes your teeth. While other ingredients also help with maintaining odour and teeth health. </span><br></p>
+<h3><span>How to use </span></h3>
+<p><span><meta charset="utf-8">Simply wet your toothbrush and dip into powder. Brush as normal. Toothpowder will foam, but not as much as traditional toothpaste.</span></p>
+<h3><span>Ingredients</span></h3>
+<p><meta charset="utf-8"><span>Bentonite clay, Xylitol, Baking soda, Himalayan salt, Calcium powder, Essential oils of Lemon, and Wintergreen.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tooth Powders</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6550597402679</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4585385164855</id>
+    <published>2021-04-12T09:15:15-07:00</published>
+    <updated>2021-04-12T09:15:15-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/spiced-mint-tooth-powder-onsight-care"/>
+    <title>Spiced Mint Tooth Powder</title>
+    <s:type>All Natural, Vegan Tooth Powder</s:type>
+    <s:vendor>Onsight Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-onsight-care-spiced-mint-tooth-powder.png?v=1618244136"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Onsight Care<br>
+        <strong>Type: </strong>All Natural, Vegan Tooth Powder<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Onsight Care tooth powder leaves your whole mouth feeling clean and fresh with a spiced minty taste. Perfect for traveling, our liquid-free formula leaves you worry free about oversized liquids in your carry-on! <br data-mce-fragment="1"></p>
+<h3 data-mce-fragment="1">Features + Benefits</h3>
+<ul>
+<li>No Glycerin</li>
+<li>No SLS</li>
+<li>No Flouride</li>
+<li>No toxins</li>
+<li>Natural</li>
+<li>Vegan</li>
+<li>Plastic Free</li>
+</ul>
+<h3>How it works</h3>
+<p><meta charset="utf-8"><span>The bentonite clay base not only cleans, but also draws out impurities and remineralizes your teeth. While other ingredients also help with maintaining odour and teeth health. </span><br></p>
+<h3><span>How to use </span></h3>
+<p><span><meta charset="utf-8">Simply wet your toothbrush and dip into powder. Brush as normal. Toothpowder will foam, but not as much as traditional toothpaste.</span></p>
+<h3><span>Ingredients</span></h3>
+<p><span><meta charset="utf-8">Bentonite clay, Xylitol, Baking soda, Himalayan salt, Calcium powder, Essential oils of Clove, Cinnamon, and Peppermint.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Tooth Powders</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4585385164855</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>42</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6544602300471</id>
+    <published>2021-03-24T11:20:10-07:00</published>
+    <updated>2021-03-24T11:20:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/original-zero-waste-toothpaste-fennel-nelson-naturals"/>
+    <title>Original Zero Waste Toothpaste - Fennel</title>
+    <s:type>Toothpaste</s:type>
+    <s:vendor>Nelson Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-nelson-naturals-fennel-toothpaste.png?v=1616203401"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nelson Naturals<br>
+        <strong>Type: </strong>Toothpaste<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Fennel was first introduced in India for oral care, where Fennel commonly serves as a mouth freshener (Mukhwas) after meals. Our Fennel toothpaste is a herbaceous, cooling, ultra refreshing formula that is also mint-free.</span></p>
+<p><span>Does not contain Glycerin, SLS or Fluoride.</span></p>
+<p><span>93g Glass Jar.</span></p>
+<h3><span>Ingredients</span></h3>
+<p><meta charset="utf-8"><span>Calcium Carbonate, Sodium Bicarbonate, Colloidal Silver, Sea Salt (Sel marin), Xylitol, Castile Soap, Trace Mineral Concentrate, Foeniculum Vulgare (Fennel) Oil.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6544602300471</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6544602529847</id>
+    <published>2021-03-24T11:19:55-07:00</published>
+    <updated>2021-03-24T11:19:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/original-zero-waste-toothpaste-citrus-spice-blend-nelson-naturals"/>
+    <title>Original Zero Waste Toothpaste - Citrus Spice Blend</title>
+    <s:type>Toothpaste</s:type>
+    <s:vendor>Nelson Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-nelson-naturals-citrus-spice-blend-toothpaste.png?v=1616203484"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nelson Naturals<br>
+        <strong>Type: </strong>Toothpaste<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>Our Best selling “classic” toothpaste formula. This is our take on a Thieves oil blend and it is incredible. This flavour has hints of mint, cinnamon, citrus, rosemary and clove, and is sure to make your brushing experience exceptional every time.</span></p>
+<p><span><meta charset="utf-8">Does not contain Glycerin, SLS or Fluoride.</span></p>
+<p><span>93g Glass Jar.</span></p>
+<h3><span>Ingredients</span></h3>
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Calcium Carbonate, Sodium Bicarbonate, Xylitol, Sea Salt, Colloidal Silver, Castile Soap, Trace Mineral Concentrate, Essential Oils of Sweet Orange, Cinnamon, Clove, Rosemary, &amp; Peppermint.</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6544602529847</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6544601874487</id>
+    <published>2021-03-24T11:19:41-07:00</published>
+    <updated>2021-03-24T11:19:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/original-zero-waste-toothpaste-cinnamon-nelson-naturals"/>
+    <title>Original Zero Waste Toothpaste - Cinnamon</title>
+    <s:type>Toothpaste</s:type>
+    <s:vendor>Nelson Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-nelson-naturals-cinnamon-toothpaste.png?v=1616203314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nelson Naturals<br>
+        <strong>Type: </strong>Toothpaste<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Spicy, bold, fiery, just like you. Our unique Cinnamon flavoured toothpaste will seduce even the more adventurous brushers out there. A truly exciting toothpaste for the tastebuds.</span></p>
+<p><span>93g Glass Jar.</span></p>
+<h3><span>Ingredients</span></h3>
+<p><span>Calcium Carbonate, Sodium Bicarbonate, Xylitol, Sea Salt, Colloidal Silver, Castile Soap, Trace Mineral Concentrate, Cinnamon Leaf Essential Oil</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6544601874487</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4675319693367</id>
+    <published>2021-02-15T15:03:02-08:00</published>
+    <updated>2021-02-15T15:03:02-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/kids-bamboo-toothbrush-4pack-brush-naked"/>
+    <title>Kid&apos;s Bamboo Nylon Soft Toothbrush 4-Pack</title>
+    <s:type>Toothbrush</s:type>
+    <s:vendor>Brush Naked Bamboo Toothbrush Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-brush-naked-kids-bamboo-toothbrushes.png?v=1613093894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brush Naked Bamboo Toothbrush Co<br>
+        <strong>Type: </strong>Toothbrush<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Multipack of 4 kid's bamboo toothbrushes: 1 Green, 1 Naked, 1 Pink, 1 White. Each brush is made with <span data-mce-fragment="1" data-mce-style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">100% bamboo handles </span>and BPA-free DuPont nylon bristles. </p>
+<p>Kids Soft bristles now contain 35% Castor Bean Oil which means less carbon is used in making the bristles. </p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">Each brush is wrapped in a 100% biodegradable/compostable cello made from wood and cotton pulp. The packaging is 100% biodegradable/compostable and 4 brushes come in one box to reduce unnecessary packaging!</span></p>
+<p data-mce-fragment="1"><span data-mce-fragment="1" data-mce-style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">These brushes are naturally anti-bacterial and anti-microbial.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4675319693367</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>52</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4676239491127</id>
+    <published>2021-02-15T14:47:04-08:00</published>
+    <updated>2021-02-15T14:47:04-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/adult-bamboo-nylon-toothbrush-naked-brush-naked"/>
+    <title>Adult Bamboo Nylon Toothbrush - Naked</title>
+    <s:type>Toothbrush</s:type>
+    <s:vendor>Brush Naked Bamboo Toothbrush Co</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/brush-naked-adult-bamboo-toothbrush-naked--boutique-love-attack.png?v=1613429187"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Brush Naked Bamboo Toothbrush Co<br>
+        <strong>Type: </strong>Toothbrush<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: center;"></div>
+<meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<p>Brush Naked adult size bamboo toothbrush with a natural bamboo handle made from 100% moso bamboo and sealed in 100% compostable cello wrap made from wood and cotton pulp. <br></p>
+<h3>Features + Benefits</h3>
+<ul>
+<li>100% biodegradable bamboo handle</li>
+<li>BPA-free DuPont nylon bristles containing 65% Castor Bean Oil for less carbon used in production</li>
+<li><span data-mce-fragment="1">Each brush is wrapped in 100% biodegradable/compostable cello which is made from wood and cotton pulp</span></li>
+<li><span data-mce-fragment="1">Paper box packaging is compostable and biodegradable</span></li>
+<li><span data-mce-fragment="1">Each bamboo toothbrush is naturally anti-bacterial and anti-microbial</span></li>
+<li><span data-mce-fragment="1">Lasts 3 months (or longer)</span></li>
+</ul>
+</div>
+<ul></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4676239491127</id>
+      <title>Soft</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku/>
+      <s:grams>17</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4676239491127</id>
+      <title>Medium</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku/>
+      <s:grams>17</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4637546676279</id>
+    <published>2020-11-19T11:37:46-08:00</published>
+    <updated>2020-11-19T11:37:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/bamboo-toothbrush-holder-allbambu"/>
+    <title>Bamboo Toothbrush Holder</title>
+    <s:type>Bamboo Toothbrush Holder</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/allBambu_-_Bamboo_Toothbrush_Holder-_Main.png?v=1605814658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Toothbrush Holder<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<ul>
+<li><meta charset="utf-8"></li>
+</ul>
+<meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1"><span data-mce-fragment="1">Made from organically grown bamboo, this eco-friendly toothbrush holder is designed to keep your bamboo toothbrush dry &amp; bacteria-free</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">It has a drainage hole at the bottom so the water can drain properly and prevent mold build-up</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">The compact, lightweight design also makes it travel friendly. Just toss it in the bag and it's ready to go!</span></li>
+<li data-mce-fragment="1"><span data-mce-fragment="1">A great zero waste alternative to plastic toothbrush holders</span></li>
+</ul>
+<p data-mce-fragment="1"><span data-mce-fragment="1">           <strong>Bamboo Toothbrush not included with the holder</strong></span></p>
+</div>
+<h1><strong>Product Specifications</strong></h1>
+</div>
+<ul>
+<li>Product Dimension: 4cm x 4cm x3cm</li>
+<li>Hand wash recommended</li>
+<li>Vegan &amp; PETA Certified</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrush Holders</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4637546676279</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>28</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4637546086455</id>
+    <published>2020-11-19T11:34:21-08:00</published>
+    <updated>2020-11-19T11:34:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/bamboo-travel-case-adult-allbambu"/>
+    <title>Bamboo Travel Case - Adult</title>
+    <s:type>Bamboo Toothbrush Travel Case</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/allBambu_-_Bamboo_Adult_Travel__Case_vJJpmOy.png?v=1605814371"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Toothbrush Travel Case<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<ul>
+<li><span>Take your toothbrush anywhere you go with these eco-friendly premium quality <strong>Bamboo Toothbrush Travel Cases.</strong></span></li>
+<li>Adult size<br>
+</li>
+<li>
+<span>Stylish and sustainable, our bamboo travel case is perfect for keeping your toothbrush safe and clean</span><span>.</span>
+</li>
+</ul>
+<h1><span><strong> Features</strong></span></h1>
+<ul>
+<li><span>Each travel case has small air holes to release moisture.</span></li>
+<li><span>Made from 100% Natural Bamboo Stalks</span></li>
+<li>100% biodegradable</li>
+<li><span>Product Is: Organic, GMO-Free, Vegan, Cruelty-free.</span></li>
+<li><span><strong>Brush not included.</strong></span></li>
+</ul>
+</div>
+<h1 class="fw600"><strong>Product Specifications</strong></h1>
+<ul>
+<li>Product Dimensions: 21x 2.8cm</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrush Holders</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4637546086455</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>56</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4635277492279</id>
+    <published>2020-11-19T11:18:22-08:00</published>
+    <updated>2020-11-19T11:18:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/eco-dental-plant-based-floss-refill-strawberry-allbambu"/>
+    <title>Eco Dental Plant Based Floss Refill - Strawberry</title>
+    <s:type>Floss</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/allBambu_Eco_Dental_Floss_-_Strawberry_Bub_3F06SCb.png?v=1605287867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Floss<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Dental care can be GREEN: Our 100% plant-based eco dental floss is made from organic corn and is lightly waxed with candelilla for strength and ease of use between tight teeth</li>
+<li>
+<p>Yummy Strawberry Bubblegum flavour offers a pleasant flossing experience</p>
+</li>
+<li>
+<p>Includes 2 refills packed in 100% compostable corn starch bags</p>
+</li>
+<li>
+<p>For use with allBambu’s glass floss containers</p>
+</li>
+</ul>
+<h1 class="fw600" data-mce-fragment="1"><strong>Product Specifications</strong></h1>
+<meta charset="utf-8"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">2 spools - 30m each</li>
+<li data-mce-fragment="1">100% Natural and Biodegradable</li>
+<li data-mce-fragment="1">Vegan and Cruelty-Free</li>
+<li data-mce-fragment="1">Vegan, PETA &amp; Leaping Bunny Certified</li>
+</ul>
+<br>
+<ul data-mce-fragment="1"></ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dental Floss</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4635277492279</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4635277066295</id>
+    <published>2020-11-19T11:18:21-08:00</published>
+    <updated>2020-11-19T11:18:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/eco-dental-plant-based-floss-strawberry-allbambu"/>
+    <title>Eco Dental Plant Based Floss - Strawberry</title>
+    <s:type>Floss</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/allBambu_Eco_Dental_Floss_-_Strawberry_Bubblegum.jpg?v=1605287714"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Floss<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>Dental care can be GREEN: This 100% plant-based eco dental floss is made from organic corn and is lightly waxed with candelilla for strength and ease of use between tight teeth</span></p>
+<p><span>Strawberry Bubblegum flavour offers a pleasant flossing experience</span></p>
+<ul></ul>
+<h3 class="fw600" data-mce-fragment="1">Product Specifications</h3>
+<meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">30 m spool</li>
+<li data-mce-fragment="1">Refills sold separately</li>
+<li data-mce-fragment="1">100% Natural and Biodegradable</li>
+<li data-mce-fragment="1">Vegan, PETA &amp; Leaping Bunny Certified</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dental Floss</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4635277066295</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634026541111</id>
+    <published>2020-11-19T11:18:16-08:00</published>
+    <updated>2020-11-19T11:18:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/eco-dental-plant-based-floss-refills-mint-allbambu"/>
+    <title>Eco Dental Plant Based Floss Refills - Mint</title>
+    <s:type>Floss</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/refillsfloss.png?v=1605051481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Floss<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Dental care can be GREEN: Our 100% plant-based eco dental floss is made from organic corn and is lightly waxed with candelilla for strength and ease of use between tight teeth</li>
+<li>
+<p>Natural mint flavour offers a pleasant flossing experience</p>
+</li>
+<li>
+<p><span>Includes 2 refills p</span><span>acked in 100% compostable corn starch bags</span></p>
+</li>
+<li>
+<p><span>For use with allBambu’s glass floss containers</span></p>
+</li>
+</ul>
+<h1 class="fw600" data-mce-fragment="1"><strong>Product Specifications</strong></h1>
+<ul>
+<li>2 spools - 30m each</li>
+<li>100% Natural and Biodegradable</li>
+<li>Vegan and Cruelty-Free</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dental Floss</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634026541111</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>8</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634025852983</id>
+    <published>2020-11-19T11:18:15-08:00</published>
+    <updated>2020-11-19T11:18:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/eco-dental-plant-based-floss-mint-allbambu"/>
+    <title>Eco Dental Plant Based Floss - Mint</title>
+    <s:type>Floss</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/allBambu_Eco_Dental_Floss_-Mint_ys8W5g6.png?v=1605051296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Floss<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul>
+<li>Dental care can be GREEN: This 100% plant-based eco dental floss is made from organic corn and is lightly waxed with candelilla for strength and ease of use between tight teeth</li>
+</ul>
+<ul></ul>
+<ul>
+<li>
+<p>Natural mint flavour offers a pleasant flossing experience</p>
+</li>
+</ul>
+<h1 data-mce-fragment="1" class="fw600"><strong>Product Specifications</strong></h1>
+<meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">30 m spool</li>
+<li data-mce-fragment="1">Refills sold separately</li>
+<li data-mce-fragment="1">100% Natural and Biodegradable</li>
+<li data-mce-fragment="1">Vegan, PETA &amp; Leaping Bunny Certified</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dental Floss</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634025852983</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>18</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634025099319</id>
+    <published>2020-11-19T11:18:15-08:00</published>
+    <updated>2020-11-19T11:18:15-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/kids-bamboo-toothbrush-yellow-allbambu"/>
+    <title>Kid&apos;s Bamboo Toothbrush - Yellow</title>
+    <s:type>Bamboo Toothbrush</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/yellow1.png?v=1605051106"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Toothbrush<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li>Made from organically grown bamboo, our eco-friendly sustainable bamboo toothbrushes are licensed by Health Canada</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">The BPA-free, vegan, bristles are infused with premium activated white charcoal (Binchotan from Japan) and have powerful antibacterial properties that cleans, whitens and brightens your teeth naturally and guarantees you great oral hygiene</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Each toothbrush is individually sealed in compostable PLA wrapper inside our box packaging as an additional safety and hygiene measure</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Stylish contoured smooth handle provides maximum grip comfort, the head is favourably sized and designed for optimal tooth coverage </p>
+</li>
+</ul>
+<h1 class="fw600"><strong>Product Specifications</strong></h1>
+<ul>
+<li>Soft Bristles</li>
+<li>Vegan &amp; PETA Certified</li>
+<li>Licensed by Health Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634025099319</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634024280119</id>
+    <published>2020-11-19T11:18:14-08:00</published>
+    <updated>2020-11-19T11:18:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/kids-bamboo-toothbrush-pink-allbambu"/>
+    <title>Kid&apos;s Bamboo Toothbrush - Pink</title>
+    <s:type>Bamboo Toothbrush</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/pink1.png?v=1605051011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Toothbrush<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li>Made from organically grown bamboo, our eco-friendly sustainable bamboo toothbrushes are licensed by Health Canada</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">The BPA-free, vegan, bristles are infused with premium activated white charcoal (Binchotan from Japan) and have powerful antibacterial properties that cleans, whitens and brightens your teeth naturally and guarantees you great oral hygiene</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Each toothbrush is individually sealed in compostable PLA wrapper inside our box packaging as an additional safety and hygiene measure</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Stylish contoured smooth handle provides maximum grip comfort, the head is favourably sized and designed for optimal tooth coverage </p>
+</li>
+</ul>
+<h1 class="fw600"><strong>Product Specifications</strong></h1>
+<ul>
+<li>Soft Bristles</li>
+<li>Vegan &amp; PETA Certified</li>
+<li>Licensed by Health Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634024280119</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634019168311</id>
+    <published>2020-11-19T11:18:13-08:00</published>
+    <updated>2020-11-19T11:18:13-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/adult-bamboo-toothbrush-yellow-allbambu"/>
+    <title>Adult Bamboo Toothbrush - Yellow</title>
+    <s:type>Bamboo Toothbrush</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/allBambu_Bamboo_Toothbrush_Yellow.png?v=1605050146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Toothbrush<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Made from organically grown bamboo, these eco-friendly sustainable bamboo toothbrushes are licensed by Health Canada. </span><span data-mce-fragment="1">The BPA-free, vegan bristles are infused with premium activated white charcoal (Binchotan from Japan) and have powerful antibacterial properties that cleans, whitens and brightens your teeth naturally and guarantees you great oral hygiene. </span><span data-mce-fragment="1">Each toothbrush is individually sealed in compostable PLA wrapper inside our box packaging as an additional safety and hygiene measure. </span><span data-mce-fragment="1">Stylish contoured smooth handle provides maximum grip comfort, the head is favourably sized and designed for optimal tooth coverage.</span><br>
+<ul data-mce-fragment="1"></ul>
+<h3><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">Features + Benefits</span></h3>
+<ul>
+<li>Soft or Medium Bristles</li>
+<li>Vegan &amp; PETA Certified</li>
+<li>BPA-Free</li>
+<li>Licensed by Health Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634019168311</id>
+      <title>Soft Bristles</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634019168311</id>
+      <title>Medium Bristles</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634018480183</id>
+    <published>2020-11-19T11:18:12-08:00</published>
+    <updated>2020-11-19T11:18:12-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/adult-bamboo-toothbrush-white-allbambu"/>
+    <title>Adult Bamboo Toothbrush - White</title>
+    <s:type>Bamboo Toothbrush</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/allBambu_Bamboo_Toothbrush_White.png?v=1605050066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Toothbrush<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Made from organically grown bamboo, these eco-friendly sustainable bamboo toothbrushes are licensed by Health Canada. </span><span data-mce-fragment="1">The BPA-free, vegan bristles are infused with premium activated white charcoal (Binchotan from Japan) and have powerful antibacterial properties that cleans, whitens and brightens your teeth naturally and guarantees you great oral hygiene. </span><span data-mce-fragment="1">Each toothbrush is individually sealed in compostable PLA wrapper inside our box packaging as an additional safety and hygiene measure. </span><span data-mce-fragment="1">Stylish contoured smooth handle provides maximum grip comfort, the head is favourably sized and designed for optimal tooth coverage.</span><br>
+<ul data-mce-fragment="1"></ul>
+<h3><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">Features + Benefits</span></h3>
+<ul>
+<li>Soft or Medium Bristles</li>
+<li>Vegan &amp; PETA Certified</li>
+<li>BPA-Free</li>
+<li>Licensed by Health Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634018480183</id>
+      <title>Soft Bristles</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634018480183</id>
+      <title>Medium Bristles</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634018185271</id>
+    <published>2020-11-19T11:18:11-08:00</published>
+    <updated>2020-11-19T11:18:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/adult-bamboo-toothbrush-pink-allbambu"/>
+    <title>Adult Bamboo Toothbrush - Pink</title>
+    <s:type>Bamboo Toothbrush</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/allBambu_Bamboo_Toothbrush_Pink.png?v=1605049973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Toothbrush<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Made from organically grown bamboo, these eco-friendly sustainable bamboo toothbrushes are licensed by Health Canada. </span><span data-mce-fragment="1">The BPA-free, vegan bristles are infused with premium activated white charcoal (Binchotan from Japan) and have powerful antibacterial properties that cleans, whitens and brightens your teeth naturally and guarantees you great oral hygiene. </span><span data-mce-fragment="1">Each toothbrush is individually sealed in compostable PLA wrapper inside our box packaging as an additional safety and hygiene measure. </span><span data-mce-fragment="1">Stylish contoured smooth handle provides maximum grip comfort, the head is favourably sized and designed for optimal tooth coverage.</span><br>
+<ul data-mce-fragment="1"></ul>
+<h3><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">Features + Benefits</span></h3>
+<ul>
+<li>Soft or Medium Bristles</li>
+<li>Vegan &amp; PETA Certified</li>
+<li>BPA-Free</li>
+<li>Licensed by Health Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634018185271</id>
+      <title>Soft Bristles</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634018185271</id>
+      <title>Medium Bristles</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634016841783</id>
+    <published>2020-11-19T11:18:10-08:00</published>
+    <updated>2020-11-19T11:18:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/adult-bamboo-toothbrush-blue-allbambu"/>
+    <title>Adult Bamboo Toothbrush - Blue</title>
+    <s:type>Bamboo Toothbrush</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/allBambu_Bamboo_Toothbrush_Blue.png?v=1605049855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Toothbrush<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Made from organically grown bamboo, these eco-friendly sustainable bamboo toothbrushes are licensed by Health Canada. </span><span data-mce-fragment="1">The BPA-free, vegan bristles are infused with premium activated white charcoal (Binchotan from Japan) and have powerful antibacterial properties that cleans, whitens and brightens your teeth naturally and guarantees you great oral hygiene. </span><span data-mce-fragment="1">Each toothbrush is individually sealed in compostable PLA wrapper inside our box packaging as an additional safety and hygiene measure. </span><span data-mce-fragment="1">Stylish contoured smooth handle provides maximum grip comfort, the head is favourably sized and designed for optimal tooth coverage.</span><br>
+<ul data-mce-fragment="1"></ul>
+<h3><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">Features + Benefits</span></h3>
+<ul>
+<li>Soft or Medium Bristles</li>
+<li>Vegan &amp; PETA Certified</li>
+<li>BPA-Free</li>
+<li>Licensed by Health Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634016841783</id>
+      <title>Soft Bristles</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634016841783</id>
+      <title>Medium Bristles</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634012811319</id>
+    <published>2020-11-19T11:18:09-08:00</published>
+    <updated>2020-11-19T11:18:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/adult-bamboo-toothbrush-natural-allbambu"/>
+    <title>Adult Bamboo Toothbrush - Natural</title>
+    <s:type>Bamboo Toothbrush</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/ALL-BAMBU-BOUTIQUE-LOVE-ATTACK-TOOTHBRUSH1.png?v=1605048567"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Toothbrush<br>
+        <strong>Price: </strong>
+            7.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><span data-mce-fragment="1">Made from organically grown bamboo, these eco-friendly sustainable bamboo toothbrushes are licensed by Health Canada. </span><span data-mce-fragment="1">The BPA-free, vegan bristles are infused with premium activated white charcoal (Binchotan from Japan) and have powerful antibacterial properties that cleans, whitens and brightens your teeth naturally and guarantees you great oral hygiene. </span><span data-mce-fragment="1">Each toothbrush is individually sealed in compostable PLA wrapper inside our box packaging as an additional safety and hygiene measure. </span><span data-mce-fragment="1">Stylish contoured smooth handle provides maximum grip comfort, the head is favourably sized and designed for optimal tooth coverage.</span><br data-mce-fragment="1">
+<ul data-mce-fragment="1"></ul>
+<h3 data-mce-fragment="1"><span style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;" data-mce-fragment="1" data-mce-style="font-family: -apple-system, BlinkMacSystemFont, 'San Francisco', 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif; font-size: 1.4em;">Features + Benefits</span></h3>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Soft or Medium Bristles</li>
+<li data-mce-fragment="1">Vegan &amp; PETA Certified</li>
+<li data-mce-fragment="1">BPA-Free</li>
+<li data-mce-fragment="1">Licensed by Health Canada</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634012811319</id>
+      <title>Soft Bristles</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634012811319</id>
+      <title>Medium Bristles</title>
+      <s:price currency="CAD">7.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>20</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4634011074615</id>
+    <published>2020-11-19T11:18:08-08:00</published>
+    <updated>2020-11-19T11:18:08-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/bamboo-toothbrush-4pack-allbambu"/>
+    <title>Bamboo Toothbrush 4-Pack - Soft or Medium Bristles</title>
+    <s:type>Bamboo Toothbrush</s:type>
+    <s:vendor>allBambu</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/ALL-BAMBU-BOUTIQUE-LOVE-ATTACK-4-PACK-TOOTHBRUSHES1.png?v=1605048239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>allBambu<br>
+        <strong>Type: </strong>Bamboo Toothbrush<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<ul data-mce-fragment="1">
+<li>Made from organically grown bamboo, our eco-friendly sustainable bamboo toothbrushes are licensed by Health Canada</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">The BPA-free, vegan, bristles are infused with premium activated white charcoal (Binchotan from Japan) and have powerful antibacterial properties that cleans, whitens and brightens your teeth naturally and guarantees you great oral hygiene</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Each toothbrush is individually sealed in compostable PLA wrappers inside our box packaging as an additional safety and hygiene measure</p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Stylish contoured smooth handle provides maximum grip comfort, the head is favourably sized and designed for optimal tooth coverage </p>
+</li>
+<li data-mce-fragment="1">
+<p data-mce-fragment="1">Pack contains 4 unique variations for easy identification - Blue, White, Pink, Yellow <span data-mce-fragment="1"> </span></p>
+</li>
+</ul>
+<h1 class="fw600"><strong>Product Specifications</strong></h1>
+<ul>
+<li>Soft or Medium Bristles</li>
+<li>Vegan &amp; PETA Certified</li>
+<li>Licensed by Health Canada</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothbrushes</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634011074615</id>
+      <title>Soft Bristles</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>76</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4634011074615</id>
+      <title>Medium Bristles</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>76</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4516819894327</id>
+    <published>2020-05-12T06:08:04-07:00</published>
+    <updated>2020-05-12T06:08:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/activated-charcoal-whitening-toothpaste-peppermint-nelson-naturals"/>
+    <title>Activated Charcoal Whitening Toothpaste - Peppermint</title>
+    <s:type>Toothpaste</s:type>
+    <s:vendor>Nelson Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/charcoal_1024x1024_4b9aac89-b067-4666-bf92-08d18656139b.png?v=1588870684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nelson Naturals<br>
+        <strong>Type: </strong>Toothpaste<br>
+        <strong>Price: </strong>
+            12.00 - 15.00
+            <a href="https://www.loveattack.ca/products/activated-charcoal-whitening-toothpaste-peppermint-nelson-naturals">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-label="Row" id="r-1551561514168" class="gf_row" data-icon="gpicon-row" data-id="1551561514168" data-extraclass="">
+<div class="gf_column gf_col-lg-8 gf_col-md-8 gf_col-sm-8 gf_col-xs-12" id="c-1551561521059" data-id="1551561521059">
+<div data-label="Text Block" id="e-1551561620161" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1551561620161">
+<div class="elm text-edit gf-elm-left" data-gemlang="en">
+<p>Activated charcoal has quickly grown to become the hottest ingredient in oral care in recent years, notably for its highly effective teeth whitening effects. It works like a powerful magnet for plaque, bacteria and tannins that may stain your teeth.<br></p>
+<p><span>The Peppermint essential oil in this formula makes for the perfect refreshing brushing experience.  </span></p>
+<p><span>Warning: This product will whiten your teeth but is EXTREMELY MESSY… Common sense required.</span></p>
+<p><span>Does not contain glycerin, SLS or Fluoride.</span></p>
+<h3>Ingredients </h3>
+<p><span>Activated Charcoal, Calcium Carbonate, Sodium Bicarbonate, Xylitol, Sea Salt, Colloidal Silver, Castile Soap, Trace Mineral Concentrate, Peppermint Essential Oil.</span><br></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4516819894327</id>
+      <title>93g</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4516819894327</id>
+      <title>45g</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4516814127159</id>
+    <published>2020-05-12T06:08:04-07:00</published>
+    <updated>2020-05-12T06:08:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/moringa-mineral-rich-toothpaste-forest-fresh"/>
+    <title>Moringa Mineral Rich Toothpaste - Forest Fresh</title>
+    <s:type>Toothpaste</s:type>
+    <s:vendor>Nelson Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Moringaa_1024x1024_1f5884f2-721b-47a7-b9b8-b9b74e456c5a.png?v=1588870395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nelson Naturals<br>
+        <strong>Type: </strong>Toothpaste<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-label="Row" id="r-1551561514168" class="gf_row" data-icon="gpicon-row" data-id="1551561514168" data-extraclass="">
+<div class="gf_column gf_col-lg-8 gf_col-md-8 gf_col-sm-8 gf_col-xs-12" id="c-1551561521059" data-id="1551561521059">
+<div data-label="Text Block" id="e-1551561620161" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1551561620161">
+<div class="elm text-edit gf-elm-left" data-gemlang="en">Moringa is a nutrient &amp; mineral powerhouse. Literally the most nutrient dense plant on earth! It a super addition to your daily brushing routine.<br>
+</div>
+<div class="elm text-edit gf-elm-left" data-gemlang="en">
+<div>
+<p>Iodine is a member of the Halogen family (same as Fluoride) &amp; has many amazing benefits.</p>
+<p>Bentonite Clay is used to absorb stains and acts as a mild abrasive. Its like a detox for your mouth!</p>
+<p>With the<span> </span><span>mineral rich</span><span> </span>properties of Moringa, the unique properties of Iodine combined with the detoxifying properties of Bentonite we believe this will be one of the best brushes you’ve ever had, In fact, we guarantee it!</p>
+</div>
+<div><br></div>
+<h3><strong>Ingredients</strong></h3>
+<meta charset="utf-8"> <meta charset="utf-8">
+<p><span>Calcium Carbonate, Bentonite Clay, Colloidal Silver, Sea Salt, Xylitol, Castile Soap, Moringa Leaf, Trace Mineral Concentrate, Spirulina, Moringa Seed Oil, Iodine, Essential Oils of Juniper Berry, Rosemary, Peppermint, &amp; Pine  </span><br></p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4516814127159</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4516809375799</id>
+    <published>2020-05-12T06:08:03-07:00</published>
+    <updated>2020-05-12T06:08:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/original-zero-waste-toothpaste-spearmint-nelson-naturals"/>
+    <title>Original Zero Waste Toothpaste - Spearmint</title>
+    <s:type>Toothpaste</s:type>
+    <s:vendor>Nelson Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Spearmint_1024x1024_a546c071-3d23-4675-af49-6b9c53c65d3f.png?v=1588870218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nelson Naturals<br>
+        <strong>Type: </strong>Toothpaste<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><span>The classic toothpaste flavour for the ultimate fresh breath! No funny business here.</span><span><br></span><span>Slightly less sweet than our other formulas, the Spearmint toothpaste packs a punch.</span></p>
+<p><span>Does not contain glycerin, SLS or Fluoride.</span></p>
+<h3><span>Ingredients</span></h3>
+<p><span>Calcium Carbonate, Sodium Bicarbonate, Xylitol, Sea Salt, Colloidal Silver, Castile Soap, Trace Mineral Concentrate, Spearmint Essential Oil.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothpaste</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4516809375799</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4516804296759</id>
+    <published>2020-05-12T06:08:02-07:00</published>
+    <updated>2020-05-12T06:08:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/crush-brush-tablets-mint-charcoal-nelson-naturals"/>
+    <title>Crush + Brush Tablets - Mint Charcoal</title>
+    <s:type>Toothpaste</s:type>
+    <s:vendor>Nelson Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/mintcharcoal.jpg?v=1588869775"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nelson Naturals<br>
+        <strong>Type: </strong>Toothpaste<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-label="Row" id="r-1551561514168" class="gf_row" data-icon="gpicon-row" data-id="1551561514168" data-extraclass="">
+<div class="gf_column gf_col-lg-8 gf_col-md-8 gf_col-sm-8 gf_col-xs-12" id="c-1551561521059" data-id="1551561521059">
+<div data-label="Text Block" id="e-1551561620161" class="element-wrap" data-icon="gpicon-textblock" data-ver="1" data-id="1551561620161">
+<div class="elm text-edit gf-elm-left" data-gemlang="en">
+<h1><strong>Nelson Naturals Crush + Brush Tablets - Mint</strong></h1>
+<meta charset="utf-8">
+<div>A  simple to use toxin free toothpaste tablet.</div>
+<div><br></div>
+<div>With our glass jar packaging, there is no plastic tube to add to the ever growing plastic crisis!</div>
+<div><br></div>
+<div>These little tablets are ideal for travel and use less water than traditional toothpaste. </div>
+<div></div>
+<div>Vegan, Gluten Free, Plastic Free and Cruelty Free!</div>
+<div></div>
+<div></div>
+<h1><strong>How do I use C+B?</strong></h1>
+<div>
+<meta charset="utf-8">
+<div>Because C&amp;B is so versatile you can use them in many different ways depending on where you are. <br>
+</div>
+<div>Sometimes you have a brush, sometimes you don't.</div>
+<div>Sometimes it's convenient to  spit, sometimes it's not.</div>
+<div>No matter where you are or what you're doing C&amp;B has you covered.</div>
+<div><br></div>
+<div><b>For standard use:</b></div>
+<div><b></b></div>
+<div>1. Place tablet in mouth </div>
+<div>2. Crush with teeth </div>
+<div>3. Experience effervescent fizzing and foaming</div>
+<div>4. Wet brush and brush normally</div>
+<div></div>
+<div></div>
+<h1><strong>100% Food Grade Ingredients</strong></h1>
+<div>
+<meta charset="utf-8">
+<span>In an industry filled with toxins and untested ingredients, C&amp;B only uses pure and quality food grade raw materials.</span>
+</div>
+<div><span></span></div>
+</div>
+<div></div>
+<h1><strong>Ingredients</strong></h1>
+<p>Calcium carbonate, sodium bicarbonate, activated charcoal (charcoal SKU), xylitol, potassium bitartrate (cream of tartar), menthol, sel marin (sea salt), gum arabic, magnesium stearate, silica, microcrystalline cellulose, *spearmint flavour, *peppermint flavour. *organic ingredient</p>
+</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Toothpaste Tablets</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4516804296759</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>60</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,571 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/ativo-skincare.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-02-20T12:11:59-08:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/4676844388407</id>
+    <published>2021-02-20T12:11:59-08:00</published>
+    <updated>2021-02-20T12:11:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/day-two-dry-shampoo-light-hair-ativo-skincare"/>
+    <title>Day Two Dry Shampoo - Light Hair</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Ativo Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/ativo-skincare-day-two-all-natural-dry-shampoo-light-hair-boutique-love-attack.png?v=1613591235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ativo Skincare<br>
+        <strong>Type: </strong>Dry Shampoo<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<p class="p1"><span class="s1">The day two dry shampoo is the solution to greasy, dull, oily limp hair. With a blend of organic clay powders and essential oils to lift and boost volume, the dry shampoo will bring your locks back to life. </span></p>
+</div>
+<h3><span>Features + Benefits</span></h3>
+<ul>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">100% Natural</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">100% Organic</span></span></li>
+<li>Gluten free</li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">GMO free</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Vegan</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Cruelty free</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Treated hair safe</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">8oz Paper Recyclable Bottle</span></span></li>
+</ul>
+<h3><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">How to use</span></span></h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Simply sprinkle a little on the roots and massage into the hair to boost volume and reduce grease.</span><br></p>
+<h3><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Ingredients</span></span></h3>
+<p><meta charset="utf-8"><span>Maranta arundinacea (arrowroot) root powder, kaolin (white clay), theobroma cacao (cocoa) powder, mentha piperita (peppermint) oil, vanilla planifolia oil.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dry Shampoo</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4676844388407</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>126</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4676846190647</id>
+    <published>2021-02-18T13:45:23-08:00</published>
+    <updated>2021-02-18T13:45:23-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/day-two-dry-shampoo-dark-hair-ativo-skincare"/>
+    <title>Day Two Dry Shampoo - Dark Hair</title>
+    <s:type>Dry Shampoo</s:type>
+    <s:vendor>Ativo Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/ativo-skincare-day-two-all-natural-dry-shampoo-dark-hair-boutique-love-attack.png?v=1613591404"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ativo Skincare<br>
+        <strong>Type: </strong>Dry Shampoo<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<p class="p1"><span class="s1">The day two dry shampoo is the solution to greasy, dull, oily limp hair. With a blend of organic clay powders and essential oils to lift and boost volume, the dry shampoo will bring your locks back to life. </span></p>
+</div>
+<h3><span>Features + Benefits</span></h3>
+<ul>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">100% Natural</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">100% Organic</span></span></li>
+<li>Gluten free</li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">GMO free</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Vegan</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Cruelty free</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Treated hair safe</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">8oz Paper Recyclable Bottle</span></span></li>
+</ul>
+<h3><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">How to use</span></span></h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Simply sprinkle a little on the roots and massage into the hair to boost volume and reduce grease.</span><br></p>
+<h3><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Ingredients</span></span></h3>
+<p><meta charset="utf-8"><span>Maranta arundinacea (arrowroot) root powder, organic cacao powder, kaolin (white clay), theobroma cacao (cocoa) powder, mentha piperita (peppermint) oil, vanilla planifolia oil.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dry Shampoo</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4676846190647</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>126</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4676839669815</id>
+    <published>2021-02-18T13:45:21-08:00</published>
+    <updated>2021-02-18T13:45:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/dandruff-dry-scalp-conditioner-ativo-skincare"/>
+    <title>Dandruff &amp; Dry Scalp Conditioner</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Ativo Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/ativo-skincare-dandruff-dry-scalp-conditioner-boutique-love-attack.png?v=1613590517"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ativo Skincare<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div>
+<meta charset="utf-8">
+<span>Zinc Pyrithione and Aloe Vera Dandruff &amp; Dry Scalp Conditioner gently cleans and moisturizes your scalp, while removing dandruff flakes and preventing irritation. Enriched with natural extracts such as Chamomile Extract, Aloe Vera, Vitamin B5, and Rooibos Tea Leaf. It will leave your hair and scalp feeling soft and healthy. The conditioner has a rich creamy texture.</span>
+</div>
+<div><span><br></span></div>
+<h3><span>Features + Benefits</span></h3>
+<ul>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">100% Natural</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">100% Organic</span></span></li>
+<li>Gluten free</li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">GMO free</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Vegan</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Cruelty free</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Treated hair safe</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">8oz BPA Free Recyclable Bottle</span></span></li>
+</ul>
+<h3><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">How to use</span></span></h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Apply to wet hair, massage in well for at least a minute, then rinse out with warm water. Repeat if required. </span><br></p>
+<h3><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Ingredients</span></span></h3>
+<p><meta charset="utf-8"><span data-mce-fragment="1">Water (aqua), decyl glucoside, cocamidopropyl betaine (derived from coconut oil), sodium c14-16 olefin sulfonate, panthenol (vitamin b5), glycerin (vegetable), salicylic acid, aspalathus linearis (african rooibos) leaf extract*, butyrospermum parkii (african shea butter) fruit nut extract*, pygeum (prunus africanum) bark extract*, capsicum frutescens (african cayenne) fruit extract*, quillaja (african saponaria soap) bark extract*, salix alba (willow) bark extract*, camellia oleifera (green tea) leaf extract*, ginkgo biloba (ginkgo) leaf extract*, rosemarinus officinalis (rosemary) leaf extract*, equisetum hiremale (horsetail) plant extract*, urtica dioca (nettle) root extract, salvia officinalis (sage) leaf extract*, symphytum officinalis (comfrey) root extract*, aloe barbadensis (aloe vera) leaf extract, trigonella foenum graecum (fenugreek) seed extract*, citrus grandis (grapefruit seed) extract*, glucose &amp; glucose</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Conditioner</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4676839669815</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4676836294711</id>
+    <published>2021-02-18T13:45:19-08:00</published>
+    <updated>2021-02-18T13:45:19-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/psoriasis-itchy-scalp-conditioner-ativo-skincare"/>
+    <title>Psoriasis &amp; Itchy Scalp Conditioner</title>
+    <s:type>Conditioner</s:type>
+    <s:vendor>Ativo Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/ativo-skincare-psoriasis-itchy-scalp-conditioner-boutique-love-attack.png?v=1613590066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ativo Skincare<br>
+        <strong>Type: </strong>Conditioner<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<div>
+<meta charset="utf-8"> <span>Tea Tree &amp; Neem Oil Psoriasis &amp; Itchy Scalp Conditioner helps soothe the flaking and itchy scalp that can be associated with psoriasis.  It helps to maintain a healthy looking scalp.</span>
+</div>
+<div><span><br></span></div>
+<h3><span>Features + Benefits</span></h3>
+<ul>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">100% Natural</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">100% Organic</span></span></li>
+<li>Gluten free</li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">GMO free</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Vegan</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Cruelty free</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Treated hair safe</span></span></li>
+<li><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">8oz BPA Free Recyclable Bottle</span></span></li>
+</ul>
+<h3><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">How to use</span></span></h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Apply to wet hair, massage in well for at least a minute, then rinse out with warm water. Repeat if required. </span><br></p>
+<h3><span data-open-accessibility-text-original="13px" class="s1"><span data-open-accessibility-text-original="13px">Ingredients</span></span></h3>
+<p><meta charset="utf-8"><span data-mce-fragment="1">Water (aqua), stearyl alcohol, cetrimonium chloride, cetyl alcohol, cetearyl alcohol, isopropyl myristate, dimethicone, melaleuca alternifolia (tea tree) leaf oil, azadirachta indica (neem oil) leaf, panthenol (vitamin b5), glycerin (vegetable), polysorbate 80, parfum (herbal), aspalathus linearis (african rooibos) leafextract*, butyrospermum parkll (african shea butter) fruit nut extract*, pygeum (prunus africanum) bark extract*, capsicum frutescens (african cayenne) fruit extract*, quillaja (african saponaria soap) bark extract*, matricaria recutita (chamomile) flower extract*, camillia oleifera (green tea) leaf extract*, ginkgo biloba (ginkgo) leaf extract*, rosemarinus officinalis (rosemary) leaf extract*, salvia officinalis (sage) leaf extract*, symphytum officinalis (comfrey) root extract*, aloe barbadensis (aloe vera) leaf extract, trigonella foenum graecum (fenugreek) seed extract*, citrus grandis (grapefruit seed) extract*, glucose &amp; glucose oxidase &amp; lactoperoxidase (natural preservative), potassium sorbate (food preservative), *certified organic</span><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Conditioner</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4676836294711</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4676832985143</id>
+    <published>2021-02-18T13:45:18-08:00</published>
+    <updated>2021-02-18T13:45:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/psoriasis-itchy-scalp-shampoo-ativo-skincare"/>
+    <title>Psoriasis &amp; Itchy Scalp Shampoo</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Ativo Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/ativo-skincare-psoriasis-itchy-scalp-shampoo-boutique-love-attack.png?v=1613589795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ativo Skincare<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            18.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span data-mce-fragment="1">Tea Tree and Neem Oil Psoriasis &amp; Itchy Scalp Shampoo helps soothe the flaking and itchy scalp that can be associated with psoriasis.  It helps to maintain a healthy looking scalp.</span><br></p>
+<h3>
+<meta charset="utf-8"> <meta charset="utf-8">Features + Benefits</h3>
+<ul>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">100% Natural</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">100% Organic</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">GMO free</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">Vegan</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">Cruelty free</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">Treated hair safe</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">8oz BPA Free Recyclable Bottle</span></span></li>
+</ul>
+<h3><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">How to use</span></span></h3>
+<meta charset="utf-8">
+<p><meta charset="utf-8"><span>Apply to wet hair, massage in well for at least a minute, then rinse out with warm water. Repeat if required. Follow with conditioner. </span></p>
+<h3><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">Ingredients</span></span></h3>
+<p><meta charset="utf-8"><span>Water (aqua), decyl glucoside, cocamidopropyl betaine (derived from coconut oil), sodium c14-16,olefin sulfonate, panthenol (vitamin b5), glycerin (vegetable), melaleuca alternifolia (tea tree) leaf oil, azadirachta indica (neem oil) leaf, parfum (herbal), aspalathus linearis (african rooibos) leaf extract*, butyrospermum parkll (african shea butter) fruit nut extract*, pygeum (prunus africanum) bark extract*, capsicum frutescens (african cayenne) fruit extract*, quillaja (african saponaria soap) bark extract*, camillia oleifera (green tea) leaf extract*,ginkgo biloba (ginkgo) leaf extract*, rosemarinus officinalis (rosemary) leaf extract*, equisetum hiremale (horsetail) plant extract*, urtica dioca (nettle) root extract, salvia officinalis (sage) leaf extract*, symphytum officinalis (comfrey) root extract*, aloe barbadensis (aloe vera) leaf extract, citrus grandis (grapefruit seed) extract*, glucose &amp; glucose oxidase &amp; lactoperoxidase (natural preservative), potassium sorbate (food preservative) *certified organic    </span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shampoo</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4676832985143</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4675991142455</id>
+    <published>2021-02-18T13:45:16-08:00</published>
+    <updated>2021-02-18T13:45:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/thin-fine-weak-hair-shampoo-ativo-skincare"/>
+    <title>Thin &amp; Fine Weak Hair Shampoo</title>
+    <s:type>Shampoo</s:type>
+    <s:vendor>Ativo Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/ativo-skincare-thin-and-fine-weak-hair-shampoo-boutique-love-attack.png?v=1613343756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ativo Skincare<br>
+        <strong>Type: </strong>Shampoo<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span>Thin Fine Hair Shampoo is enriched with Panthenol and Biotin to thicken each strand of hair, making your hair fuller and healthier looking.  Wheat protein restores moisture balance, elasticity &amp; shine. Your hair will have more body and strength instantly.</span></p>
+<h3>
+<meta charset="utf-8"> <meta charset="utf-8">Features + Benefits</h3>
+<ul>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">100% Natural</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">100% Organic</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">Gluten free</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">GMO free</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">Vegan</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">Cruelty free</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">Treated hair safe</span></span></li>
+<li><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">8oz BPA Free Recyclable Bottle</span></span></li>
+</ul>
+<h3><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">How to use</span></span></h3>
+<meta charset="utf-8">
+<p>Apply shampoo to wet hair, massage in well for at least a minute, then rinse out with warm water. Repeat if required. Apply conditioner and leave that on for a couple of minutes. Then rinse off and finish with COOL water.</p>
+<h3><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">Ingredients</span></span></h3>
+<p><span class="s1" data-open-accessibility-text-original="13px"><span data-open-accessibility-text-original="13px">Water (aqua), decyl glucoside, cocamidopropyl betaine (derived from coconut oil), sodium c14-16 olefin sulfonate, panthenol (vitamin b5), glycerin (vegetable), polysorbate 80, parfum (herbal), aspalathus linearis (african rooibos) leaf extract*, butyrospermum parkll (african shea butter) fruit nut extract*, pygeum (prunus africanum) bark extract*, capsicum frutescens (african cayenne) fruit extract*, quillaja (african saponaria soap) bark extract*, salix alba (willow) bark extract*, ginkgo biloba (ginkgo) leaf extract*, equisetum hiremale (horsetail) plant extract*, urtica dioca (nettle) root extract, salvia officinalis (sage) leaf extract*, symphytum officinalis (comfrey) root extract*, aloe barbadensis (aloe vera) leaf extract, trigonella foenum graecum (fenugreek) seed extract*, citrus grandis (grapefruit seed) extract*, glucose &amp; glucose oxidase &amp; lactoperoxidase (natural preservative), potassium sorbate (food preservative), *certified organic</span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Shampoo</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4675991142455</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>273</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4675989307447</id>
+    <published>2021-02-18T13:45:16-08:00</published>
+    <updated>2021-02-18T13:45:16-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/natural-hand-cleansing-gel-ativo-skincare"/>
+    <title>Natural Hand Cleansing Gel</title>
+    <s:type>Hand Soap</s:type>
+    <s:vendor>Ativo Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/ativo-skincare-natural-hand-cleansing-gel-boutique-love-attack.png?v=1613343264"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ativo Skincare<br>
+        <strong>Type: </strong>Hand Soap<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>This natural and chemical-free alternative to hand cleanser is infused with organic chamomile, aloe vera, with Vitamin B5 to prevent drying leaving your hands moisturized and germ-free. </span></p>
+<h3><span>Features + Benefits</span></h3>
+<ul>
+<li><span>Hand Sanitizer</span></li>
+<li>One pump is sufficient for full coverage.</li>
+<li>Made with 99% Isopropyl Alcohol with a concentration (65% V/V)</li>
+<li>2oz Airless Pump</li>
+</ul>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span data-mce-fragment="1">Alcohol denat (99% Isopropyl Alcohol), aqua, aloe barbadensis leaf extract, cocamidopropyl betaine, glycerine, melaleuca alternifolia, citrus sinensis, dl-panthenol, x</span><span data-mce-fragment="1">anthan Gum, lecithin, sclerotium gum, pullulan. Scented contains Sweet Orange and Grapefruit essential Oil.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Hand Soap</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4675989307447</id>
+      <title>Grapefruit Orange</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>79</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4675989307447</id>
+      <title>Unscented</title>
+      <s:price currency="CAD">6.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>79</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4675745382455</id>
+    <published>2021-02-18T13:44:44-08:00</published>
+    <updated>2021-02-18T13:44:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/cuticle-therapy-oil-ativo-skincare"/>
+    <title>Cuticle Therapy Oil</title>
+    <s:type>Cuticle Oil</s:type>
+    <s:vendor>Ativo Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/ativo-skincare-cuticle-therapy-oil-boutique-love-attack.png?v=1613251364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ativo Skincare<br>
+        <strong>Type: </strong>Cuticle Oil<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Cuticle therapy oil quicky and easily moisturizes cuticles that are essential for nail health. Soften and strengthen your nails with our luxurious oil. Oils like rosehip, jojoba, and argan will quickly penetrate the nail bed to make nails shiny and healthy. </span></p>
+<h3 class="p1" data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Features + Benefits</span></h3>
+<ul>
+<li><span class="s1" data-mce-fragment="1"><span data-mce-fragment="1">100% Natural</span></span></li>
+<li><span class="s1" data-mce-fragment="1"><span data-mce-fragment="1">100% Organic</span></span></li>
+<li><span class="s1" data-mce-fragment="1"><span data-mce-fragment="1">Gluten Free</span></span></li>
+<li><span class="s1" data-mce-fragment="1"><span data-mce-fragment="1">GMO Free</span></span></li>
+<li><span class="s1" data-mce-fragment="1"><span data-mce-fragment="1">Vegan</span></span></li>
+<li>Cruelty Free</li>
+<li>BPA FREE Twist Pen</li>
+</ul>
+<h3>How to use </h3>
+<p><meta charset="utf-8"><span>Twist bottom of brush cap until a drop of oil dampens the bristles. Rub bristles all over the nail bed.</span><span class="Apple-converted-space"> </span><span>Massage as necessary</span></p>
+<h3><span>Ingredients</span></h3>
+<p><span>Rosa canina fruit oil, camellia sinensis leaf oil, oenothera biennis (evening primrose) oil,   butyrospermum parkii (shea butter), simmondsia chinensis (jojoba) seed oil, , argania spinosa (argan) kernel oil,  tocopherol (vitamin e), citrus sinensis (sweet orange) oil, citrus limonum (lemon) oil, citrus aurantifolia (lime) oil, citrus paradisi (white grape fruit) oil, mentha piperita (peppermint) oil, mentha spicata (spearmint) oil.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cuticle Oil</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4675745382455</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>12</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4591353593911</id>
+    <published>2020-07-28T06:18:19-07:00</published>
+    <updated>2020-07-28T06:18:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/glacial-gel-overnight-mask-ativo-skincare"/>
+    <title>Glacial Gel Overnight Mask</title>
+    <s:type>Glacial Gel Overnight Mask</s:type>
+    <s:vendor>Ativo Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/glacial-gel-overnight-mask-340189_2000x_905d6e5f-6738-4465-8707-82b60b3db09c.png?v=1595942300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ativo Skincare<br>
+        <strong>Type: </strong>Glacial Gel Overnight Mask<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p class="p1"><span class="s1">Soothing and cooling cucumber extract, sweet rose and aloe very juice cool and hydrate skin while sleeping. Blue spirulina repairs and fights free radicals that can cause aging. This is a supercharged vitamin mask to fight inflammation and damage from the sun and provide lost moisture. Use as a cooling after-sun treatment or overnight while sleeping. </span></p>
+<p class="p1"><span class="s1">Use as a hydration treatment while flying or traveling long distances in a vehicle.</span></p>
+<p class="p1"><span class="s1"><span>100% Natural | 100% Organic | Tested on Friends Not Animals | 60ml Glass  Recyclable Jar</span></span></p>
+<h3 class="product_name title">Benefits</h3>
+<meta charset="utf-8">
+<ul>
+<li><span class="s1"><span>Repairs and restores hydration and moisture.</span></span></li>
+<li><span class="s1"><span>Perfect for dry, extremely dry, combination, sensitive, oily, rosacea and red skin types.</span></span></li>
+<li><span class="s1"><span>Great for anti aging.</span></span></li>
+</ul>
+<meta charset="utf-8">
+<h3 class="p1">
+<span class="s1"><span><span class="tag tag--solid"><a href="https://ativoskincare.com/collections/face/dry-rough-texture" title="Products tagged Dry / Rough Texture"></a></span></span></span><span class="s1"><span>How to use</span></span>
+</h3>
+<meta charset="utf-8">
+<p><span class="s1">The gel can be used in two ways. </span></p>
+<p><span class="s1">Use as a treatment for 20 min after cleansing and toning your skin. </span></p>
+<p><span class="s1">Use as an overnight treatment after cleansing and toning your skin. </span></p>
+<p class="p1"><span class="s1">Apply a generous amount all over the face. After the product is absorbed completely, leave treatment overnight, and rinse off in the morning. This mask can be used daily one to two times per week. Follow with a skipped morning routine and just apply your favourite moisturizer</span></p>
+<meta charset="utf-8">
+<h3 class="p1"><span class="s1"><span>Ingredients</span></span></h3>
+<p class="p1"><span class="s1"><span>Purified water, cucumis sativus (cucumber) distillate, rosa damascena (rose) distillate, aloe barbadensis juice, simmondsia chinensis (jojoba) seed oil, squalane, propanediol, spirulina, leuconostoc/radish root ferment filtrate. </span></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Face Masks</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4591353593911</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>218</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4591351988279</id>
+    <published>2020-07-28T06:07:59-07:00</published>
+    <updated>2020-07-28T06:07:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/makeup-brush-cleaner-shampoo-ativo-skincare"/>
+    <title>Makeup Brush Cleaner Shampoo</title>
+    <s:type>Makeup Brush Cleaner Shampoo</s:type>
+    <s:vendor>Ativo Skincare</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/Cleaner_1_2000x_bbea8373-2139-4c42-9d82-317110bd3dc1.png?v=1595941680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ativo Skincare<br>
+        <strong>Type: </strong>Makeup Brush Cleaner Shampoo<br>
+        <strong>Price: </strong>
+            13.00 - 22.00
+            <a href="https://www.loveattack.ca/products/makeup-brush-cleaner-shampoo-ativo-skincare">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8">
+<p class="product_name title"><strong><span class="s1">Did you know your makeup brushes harbor more than a dozen different bacteria like </span></strong><span class="s1"><span><strong>Staphylococcus, Streptococcus, and E-coli?  But don't throw them away!!</strong></span></span></p>
+<p class="p1"><span class="s1">When you use our solid makeup brush cleaner </span>shampoo, that is gentle for even the most luxurious brushes, you will not be transferring that bacteria to your skin. </p>
+<p class="p1">The brush cleaner will thoroughly clean, washing away any dirt and bacteria and the added benefits of argan and apricot oil will condition your brushes, making them feel brand new. The jar is large enough to clean large brushes. Completely safe for natural and synthetic brushes. Avoid getting the ferrule wet. Travel size is perfect for your travel makeup bag. </p>
+<h3 class="p1">How to use</h3>
+<p class="p1"><span>Wet brushes thoroughly, moisten the container with warm water. Lather the brush and swirl, rinse and repeat until the water runs clear. Reshape the bristles and then lay brushes on a flat dry towel.  </span></p>
+<p class="p1"><iframe width="556" height="313" src="https://www.youtube.com/embed/T-LGLbJt3bo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></p>
+<h3 class="p1"></h3>
+<h3 class="p1"><span>Ingredients</span></h3>
+<meta charset="utf-8">
+<p class="p1"><span>A proprietary blend of oils. It contains coconut oil, apricot kernel oil, and argan oil. Patent Pending.* </span></p>
+<h3 class="p1"><span>Product Information</span></h3>
+<ul>
+<li><span>Vegan , Gluten Free, GMO Free, Cruelty Free</span></li>
+<li><span>Shelf life 12 months </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Makeup Brush Cleansers</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4591351988279</id>
+      <title>4oz Full Size</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>168</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4591351988279</id>
+      <title>2oz Travel Size</title>
+      <s:price currency="CAD">13.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>78</s:grams>
+    </s:variant>
+  </entry>
+</feed>

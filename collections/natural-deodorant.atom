@@ -1,0 +1,727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/natural-deodorant.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-05-07T15:33:21-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/4516737220663</id>
+    <published>2021-05-07T15:33:21-07:00</published>
+    <updated>2021-05-07T15:33:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/compostable-tube-deodorant-rosemary-sage-bare-nature"/>
+    <title>Compostable Tube Deodorant - Rosemary Sage</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Bare Nature</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/bare-nature-compostable-deodorant-rosemary-sage-boutique-love-attack.png?v=1620428964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bare Nature<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Bare Nature deodorants last a minimum of 6+ months of usage.</p>
+<p>The entire package is fully compostable! The labels are even printed on Stone Paper (using 0 water) and are photodegradable.<br></p>
+<p>How they work, is by eliminating the odour causing bacteria.  Leaving you smelling FRESH like your deodorant, and not that awkward combination of body odour AND deodorant. </p>
+<p>Natural earthy, forest scent, great for both men and women.</p>
+<h3>Ingredients<br>
+</h3>
+<p><span class="s1">Theobroma cacao (Cocoa) seed butter, *Cocos nucifera (Coconut) oil,<span> </span></span><span class="s2">Euphorbia cerifera (Candelilla) wax,<span> </span></span><span class="s1">Mangifera indica (Mango) seed butter, *Helianthus annuus (Sunflower) seed oil, Zinc oxide (non-nano), Sodium bicarbonate (non-aluminum),<span> </span></span><span class="s3">Maranta arudinacea (Arrowroot) root powder.</span></p>
+<p class="p1"><span class="s4"><strong><span>Rosemary Sage:</span></strong> Tea Tree, Rosemary, Cedarwood, Sage, Lime</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4516737220663</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4516735811639</id>
+    <published>2021-05-07T15:33:20-07:00</published>
+    <updated>2021-05-07T15:33:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/compostable-tube-deodorant-tangerine-bare-nature"/>
+    <title>Compostable Tube Deodorant - Tangerine</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Bare Nature</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/bare-nature-compostable-deodorant-tangerine-boutique-love-attack.png?v=1620428892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bare Nature<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"> <meta charset="utf-8">
+<p data-mce-fragment="1">Bare Nature deodorants last a minimum of 6+ months of usage.</p>
+<p data-mce-fragment="1">The entire package is fully compostable! The labels are even printed on Stone Paper (using 0 water) and are photodegradable.<br data-mce-fragment="1"></p>
+<p data-mce-fragment="1">How they work, is by eliminating the odour causing bacteria.  Leaving you smelling FRESH like your deodorant, and not that awkward combination of body odour AND deodorant. </p>
+<h3 data-mce-fragment="1">Ingredients<br data-mce-fragment="1">
+</h3>
+<p data-mce-fragment="1"><span class="s1" data-mce-fragment="1">Theobroma cacao (Cocoa) seed butter, *Cocos nucifera (Coconut) oil,<span data-mce-fragment="1"> </span></span><span class="s2" data-mce-fragment="1">Euphorbia cerifera (Candelilla) wax,<span data-mce-fragment="1"> </span></span><span class="s1" data-mce-fragment="1">Mangifera indica (Mango) seed butter, *Helianthus annuus (Sunflower) seed oil, Zinc oxide (non-nano), Sodium bicarbonate (non-aluminum),<span data-mce-fragment="1"> </span></span><span class="s3" data-mce-fragment="1">Maranta arudinacea (Arrowroot) root powder.</span></p>
+<div class="description">
+<p class="p1"><span class="s2"><strong><span>Tangerine:</span></strong> </span><span class="s1">Tea Tree, Tangerine, Spearmint, Lime</span></p>
+</div>
+<h1><strong></strong></h1></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4516735811639</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4516735320119</id>
+    <published>2021-05-07T15:33:19-07:00</published>
+    <updated>2021-05-07T15:33:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/compostable-tube-deodorant-lemongrass-bare-nature"/>
+    <title>Compostable Tube Deodorant - Lemongrass</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Bare Nature</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/bare-nature-compostable-deodorant-lemongrass-boutique-love-attack.png?v=1620428694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bare Nature<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Bare Nature deodorants last a minimum of 6+ months of usage.</p>
+<p>The entire package is fully compostable! The labels are even printed on Stone Paper (using 0 water) and are photodegradable.<br></p>
+<p>How they work, is by eliminating the odour causing bacteria.  Leaving you smelling FRESH like your deodorant, and not that awkward combination of body odour AND deodorant. </p>
+<h3>Ingredients<br>
+</h3>
+<p><span class="s1">Theobroma cacao (Cocoa) seed butter, *Cocos nucifera (Coconut) oil,<span> </span></span><span class="s2">Euphorbia cerifera (Candelilla) wax,<span> </span></span><span class="s1">Mangifera indica (Mango) seed butter, *Helianthus annuus (Sunflower) seed oil, Zinc oxide (non-nano), Sodium bicarbonate (non-aluminum),<span> </span></span><span class="s3">Maranta arudinacea (Arrowroot) root powder.</span></p>
+<p class="p1"><span class="s1"><strong><span>Lemongrass:</span></strong> Tea Tree, Lemongrass, Lavender, Lime</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4516735320119</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>80</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6550603399223</id>
+    <published>2021-04-12T09:54:54-07:00</published>
+    <updated>2021-04-12T09:54:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/2oz-travel-tin-onsight-care"/>
+    <title>Onsight Care 2oz Travel Tin for Deodorant Bars</title>
+    <s:type>Travel Tin</s:type>
+    <s:vendor>Onsight Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-onsight-care-2oz-travel-tin_2.png?v=1618246487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Onsight Care<br>
+        <strong>Type: </strong>Travel Tin<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>2 oz travel tin fits your <strong><a href="https://www.loveattack.ca/collections/onsight-care" target="_blank" title="Onsight Care Deodorant Bars available now Boutique Love Attack " rel="noopener noreferrer">Onsight Care</a></strong> deodorant bar for easier use on the go. The perfect size to throw in your backpack or workout bag.</p>
+<p><br>Travel tins are silver, with a secure pop off lid. Perfect addition to your travel bag or for storage at home. Can be recycled at end of life.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Travel Tin</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6550603399223</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">5.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>36</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6548792934455</id>
+    <published>2021-04-12T08:50:01-07:00</published>
+    <updated>2021-04-12T08:50:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/eucalyptus-peppermint-deodorant-bar-onsight-care"/>
+    <title>Eucalyptus &amp; Peppermint Deodorant Bar</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Onsight Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-onsight-care-eucalyptus-peppermint-deodorant-bar_2.png?v=1617640396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Onsight Care<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Onsight Care's Deodorant Bar is excellent at absorbing and neutralizing odours to keep you feeling fresh all day long. Slightly scented with Eucalyptus and Peppermint essential oils.<br></p>
+<p>Save the plastic waste! Deodorant Bar comes unpackaged, for traveling we recommend a<span> </span>Travel Tin<span> </span>for safe storage.</p>
+<p>Lasts approximately 3 months depending on personal use.</p>
+<h3>Features + Benefits</h3>
+<ul>
+<li>Natural</li>
+<li>Vegan</li>
+<li>Aluminum Free</li>
+<li>Plastic Free</li>
+<li>Baking Soda Free</li>
+</ul>
+<p><strong></strong><strong>How it works</strong></p>
+<p><span>Bentonite Clay absorbs moisture and toxins from the skin quickly which helps eliminate odour. While Magnesium replaces baking soda with a more gentle approach to killing bacteria on the skin that cause odour, without blocking your pores.</span></p>
+<p><br><strong>To Use</strong></p>
+<p>Use just as commercial deodorant and glide onto underarms. Goes on clear. Can be prone to melt if left in direct sunlight or heat, please keep in cool dry space to prolong its life.<br>Pro Tip: Hold on skin for moment to heat up first, then glide for easier application.</p>
+<p><strong>Ingredients</strong></p>
+<p>Shea Butter, Arrowroot Powder, Cocoa Butter, Candelilla wax, Coconut oil, Magnesium Hydroxide, Bentonite Clay, Eucalyptus and Peppermint Essential oils.</p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6548792934455</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6548839366711</id>
+    <published>2021-04-12T08:48:16-07:00</published>
+    <updated>2021-04-12T08:48:16-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/lavender-tea-tree-deodorant-bar-onsight-care"/>
+    <title>Lavender + Tea Tree Deodorant Bar</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Onsight Care</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-onsight-care-lavender-tea-tree-deodorant-bar_2.png?v=1617663313"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Onsight Care<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            11.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Onsight Care's Deodorant Bar is excellent at absorbing and neutralizing odours to keep you feeling fresh all day long. Slightly scented with Lavender and Tea Tree essential oils.</p>
+<p>Save the plastic waste! Deodorant Bar comes unpackaged, for traveling we recommend our<span> </span>Travel Tin<span> </span>for safe storage.</p>
+<p>Lasts approximately 3 months depending on personal use.</p>
+<h3>Features + Benefits</h3>
+<ul>
+<li>Natural</li>
+<li>Vegan</li>
+<li>Aluminum Free</li>
+<li>Plastic Free</li>
+<li>Baking Soda Free</li>
+</ul>
+<p><strong></strong><strong>How it works</strong></p>
+<p><meta charset="utf-8"><span>Bentonite Clay absorbs moisture and toxins from the skin quickly which helps eliminate odour. While Magnesium replaces baking soda with a more gentle approach to killing bacteria on the skin that cause odour, without blocking your pores.</span></p>
+<p><br><strong>To Use</strong></p>
+<p><meta charset="utf-8"><span>Use just as commercial deodorant and glide onto underarms. Goes on clear. Can be prone to melt if left in direct sunlight or heat, please keep in cool dry space to prolong its life.</span></p>
+<p><br><span>Pro Tip: Hold on skin for moment to heat up first, then glide for easier application.</span></p>
+<p><strong>Ingredients</strong></p>
+<p><meta charset="utf-8"><span>Shea Butter, Arrowroot Powder, Cocoa Butter, Candelilla wax, Coconut oil, Magnesium Hydroxide, Bentonite Clay, Tea Tree and Lavender Essential oils.</span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6548839366711</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">11.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6535994146871</id>
+    <published>2021-03-02T17:11:48-08:00</published>
+    <updated>2021-03-02T17:11:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/cat-lady-vegan-natural-deodorant-routine"/>
+    <title>Cat Lady Vegan Natural Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Routine Natural Goods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/cat-lady-routine-natural-cream-vegan-deodorant-boutique-love-attack.png?v=1614286550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Routine Natural Goods<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Cat Lady Vegan natural cream deodorant from Routine has an amazing sweet and fruity scent profile. Coconut pulp, pineapple, and vanilla are the predominant scents making this deodorant smell like a pineapple upside down birthday cake.</p>
+<h3 data-mce-fragment="1"><span data-mce-fragment="1">Features + Benefits</span></h3>
+<ul>
+<li><span data-mce-fragment="1">VEGAN (Classic Formula, No Beeswax)</span></li>
+<li><span data-mce-fragment="1">Coconut pulp and vanilla essential oils </span></li>
+<li><span data-mce-fragment="1">Strawberry and vanilla flavour oils</span></li>
+<li><span data-mce-fragment="1">58g, enough for 3-6 months with regular use</span></li>
+<li><span data-mce-fragment="1">All natural ingredients and cruelty free</span></li>
+<li><span data-mce-fragment="1">12 months once opened</span></li>
+</ul>
+<h3 data-mce-fragment="1">Ingredients</h3>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>Cocos nucifera (coconut) oil, magnesium hydroxide, zea mays (corn, non-gmo) starch, kaolin, maranta arundinacea (arrowroot), sodium bicarbonate (baking soda), theobroma cacao (cocoa) seed butter, caprylic/capric triglyceride (fractionated coconut oil), cetearyl olivate, sorbitan olivate, butyrospermum parkii (shea) butter, helianthus annuus (sunflower) seed oil, olea europaea (olive) fruit oil, tocopherol (vitamin e), hectorite, brassica glycerides, calendula officinalis (marigold), aroma: cocos nucifera (coconut) fruit extract, flavor oil (organic rosemary antioxidant, strawberry, pineapple), vanilla planifolia.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6535994146871</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6535992803383</id>
+    <published>2021-03-02T17:11:47-08:00</published>
+    <updated>2021-03-02T17:11:47-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/lucy-in-the-sky-vegan-natural-deodorant-routine"/>
+    <title>Lucy in the Sky Vegan Natural Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Routine Natural Goods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/lucy-in-the-sky-routine-natural-cream-vegan-deodorant-boutique-love-attack.png?v=1614286275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Routine Natural Goods<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Sexy Sadie Vegan Natural cream deodorant from Routine has an amazing s<span data-mce-fragment="1">picy, floral and sweet scent profile made up of </span><span data-mce-fragment="1">Ylang Ylang, Sweet Orange, Vanilla and Cinnamon (spicy yet sweet with a long lasting scent).</span></p>
+<h3 data-mce-fragment="1"><span data-mce-fragment="1">Features + Benefits</span></h3>
+<ul>
+<li><span data-mce-fragment="1">VEGAN (Classic Formula, No Beeswax)</span></li>
+<li><span data-mce-fragment="1">Patchouli, Ylang Ylang, Sweet Orange, Vanilla, and Champa essential oils </span></li>
+<li><span data-mce-fragment="1">58g, enough for 3-6 months with regular use</span></li>
+<li><span data-mce-fragment="1">All natural ingredients and cruelty free</span></li>
+<li><span data-mce-fragment="1">12 months once opened</span></li>
+</ul>
+<h3 data-mce-fragment="1">Ingredients</h3>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Cocos nucifera (coconut) oil, magnesium hydroxide, zea mays (corn, non-gmo) starch, kaolin, maranta arundinacea (arrowroot), sodium bicarbonate (baking soda), theobroma cacao (cocoa) seed butter, caprylic/capric triglyceride (fractionated coconut oil), cetearyl olivate, sorbitan olivate, butyrospermum parkii (shea) butter, helianthus annuus (sunflower) seed oil, olea europaea (olive) fruit oil, tocopherol (vitamin e), hectorite, brassica glycerides, calendula officinalis (marigold), simmondsia chinensis (jojoba) seed oil, aroma: pogostemon cablin (patchouli) oil, flavor oil (organic rosemary antioxidant), cananga odorata (ylang ylang) flower oil, citrus sinensis (orange peel) oil, vanilla planifolia, cinnamomum cassia (cinnamon) oil, michelia champaca flower oil, limonene*, linalool*, eugenol*, cinnamal*, geraniol*. *naturally occurring in essential oil.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6535992803383</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6535990673463</id>
+    <published>2021-03-02T17:11:46-08:00</published>
+    <updated>2021-03-02T17:11:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/sexy-sadie-vegan-natural-deodorant-routine"/>
+    <title>Sexy Sadie Vegan Natural Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Routine Natural Goods</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/sexy-sadie-routine-natural-cream-vegan-deodorant-boutique-love-attack.png?v=1614285390"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Routine Natural Goods<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Sexy Sadie Vegan Natural cream deodorant from Routine has an amazing s<span data-mce-fragment="1">picy, floral and sweet scent profile made up of </span><span data-mce-fragment="1">Ylang Ylang, Sweet Orange, Vanilla and Cinnamon (spicy yet sweet with a long lasting scent).</span></p>
+<h3 data-mce-fragment="1"><span data-mce-fragment="1">Features + Benefits</span></h3>
+<ul>
+<li><span data-mce-fragment="1">VEGAN (Classic Formula, No Beeswax)</span></li>
+<li><span data-mce-fragment="1">Patchouli, Ylang Ylang, Sweet Orange, Vanilla, and Champa essential oils </span></li>
+<li><span data-mce-fragment="1">58g, enough for 3-6 months with regular use</span></li>
+<li><span data-mce-fragment="1">All natural ingredients and cruelty free</span></li>
+<li><span data-mce-fragment="1">12 months once opened</span></li>
+</ul>
+<h3 data-mce-fragment="1">Ingredients</h3>
+<p data-mce-fragment="1"><span data-mce-fragment="1">Cocos nucifera (coconut) oil, magnesium hydroxide, zea mays (corn, non-gmo) starch, kaolin, maranta arundinacea (arrowroot), sodium bicarbonate (baking soda), theobroma cacao (cocoa) seed butter, caprylic/capric triglyceride (fractionated coconut oil), cetearyl olivate, sorbitan olivate, butyrospermum parkii (shea) butter, helianthus annuus (sunflower) seed oil, olea europaea (olive) fruit oil, tocopherol (vitamin e), hectorite, brassica glycerides, calendula officinalis (marigold), simmondsia chinensis (jojoba) seed oil, aroma: pogostemon cablin (patchouli) oil, flavor oil (organic rosemary antioxidant), cananga odorata (ylang ylang) flower oil, citrus sinensis (orange peel) oil, vanilla planifolia, cinnamomum cassia (cinnamon) oil, michelia champaca flower oil, limonene*, linalool*, eugenol*, cinnamal*, geraniol*. *naturally occurring in essential oil.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6535990673463</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>176</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674075164727</id>
+    <published>2021-02-09T12:24:21-08:00</published>
+    <updated>2021-02-09T12:24:21-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/get-closer-all-natural-deodorant-kpure-naturals"/>
+    <title>Get Closer All Natural Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-get-closer-deodorant_2.png?v=1612834012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            15.00 - 27.00
+            <a href="https://www.loveattack.ca/products/get-closer-all-natural-deodorant-kpure-naturals">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div style="text-align: left;">
+<meta charset="utf-8"> <meta charset="utf-8"> <meta charset="utf-8">
+<p>This light as air whipped mousse is moisturizing, deodorizing and absorbs wetness. With an uplifting unisex scent (patchouli/orange), it also works great to prevent smelly feet when applied to the bottoms of clean dry feet.  Made with organic shea butter, organic cocoa butter and almond oil to moisturize, activated charcoal to absorb wetness, and aluminum-free baking soda and a blend of essential oils to deodorize.  This formulation has been five years in the making, and has stood the test of marathon training, bootcamp sessions and everyday parenting life.</p>
+<p>Now available in a travel size mini.  Perfect for mid-day touchups. And now available in large 4oz. </p>
+<p>When transitioning to an all-natural deodorant, your body may need a couple of weeks to adjust. You may notice a detox period. This is your body ridding itself of your old antiperspirant and the chemicals in the antiperspirant.  You may notice a rash, heavy perspiration and/or odour. Don't give up! Apply the deodorant a couple of times a day if needed in the beginning, until your body adjusts to the changes. *Avoid using immediately after shaving. Shave in the evening if necessary, to avoid irritation.* The longer you use it, the less you need, and you will be able to skip a day while still smelling fresh. So if you notice redness or irritation after a couple of weeks, take a day or two break from the deodorant, or alternate with the Gentle, baking soda-free version, and then come back to it. It will be worth it, keeping the chemicals out of your body and/or breastmilk!</p>
+<p><iframe src="https://www.youtube.com/embed/jwTHxtMpvvU" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<ul></ul>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span>Organic Shea Butter, Organic Cocoa Butter, Organic Coconut Oil and Sweet Almond Oil, Arrowroot Powder, Activated Charcoal, Aluminum-free baking soda, rosewater,  organic witch hazel and a blend of organic essential oils. </span></p>
+<p><span><meta charset="utf-8">﻿***PLEASE NOTE: your deodorant will melt in warmer temperatures.  If it does melt, it will lose it's whipped consistency, but it will not affect the efficacy of the deodorant.  Simply give the deodorant a stir with a toothpick and place in the fridge to firm up.***</span></p>
+</div>
+<div style="text-align: left;"><strong></strong></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"><span></span></div>
+<div style="text-align: left;"><meta charset="utf-8"></div>
+<div style="text-align: left;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674075164727</id>
+      <title>4oz</title>
+      <s:price currency="CAD">27.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>119</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674075164727</id>
+      <title>2oz</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>135</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674076672055</id>
+    <published>2021-02-09T12:23:36-08:00</published>
+    <updated>2021-02-09T12:23:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/get-gently-closer-all-natural-deodorant-kpure-naturals"/>
+    <title>Get Gently Closer All Natural Deodorant</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-get-gently-closer-deodorant.png?v=1612834612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-single__meta"><form data-product-form="" novalidate="novalidate" enctype="multipart/form-data" class="product-form product-form-product-template" id="product_form_5901604423" action="https://kpurenaturals.com/cart/add" method="post" accept-charset="UTF-8">
+<div class="product-form__controls-group product-form__controls-group--submit">
+<div class="product-form__item product-form__item--submit product-form__item--payment-button">
+<div class="shopify-payment-button" data-shopify="payment-button">
+<div>
+<div>
+<div>
+<div>
+<meta charset="utf-8">
+<span>A baking soda-free, all-natural deodorant that really works??  Yes! We've replaced baking soda with Magnesium and the biggest perk for you, is that it's naturally absorbent, both of moisture and odour. So if you have sensitive skin, or have adverse reactions to sodium bicarbonate (baking soda), this is THE deodorant for you! As with our regular deodorant, you may or may not experience a detox period, but be patient. Give the deodorant time to work, applying twice a day for the first few days if necessary. And the longer you use K'pure deodorants, the less you'll need to use.</span>
+</div>
+<div><br></div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</form></div>
+<div class="product-single__description rte"><br></div>
+<p><iframe src="https://www.youtube.com/embed/jwTHxtMpvvU" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<ul></ul>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span data-mce-fragment="1">Organic butyrospermum parkii (shea) butter, organic theobroma cacoa (cocoa) seed butter, organic cocos nuciferus (coconut) oil, prunus amygdalus dulcis (sweet almond) oil and tocopherol (Vitamin E) to moisturize and protect skin; maranta arudinacea (arrow) root powder and activated charcoal powder to absorb wetness, and magnesium hydroxide, rosa damascena (rose) flower water, organic hamamelis virginiana (witch hazel) and a blend of organic essential oils to deodorize.</span><br></p>
+<p><span><meta charset="utf-8">﻿***PLEASE NOTE: your deodorant will melt in warmer temperatures.  If it does melt, it will lose it's whipped consistency, but it will not affect the efficacy of the deodorant.  Simply give the deodorant a stir with a toothpick and place in the fridge to firm up.***</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674076672055</id>
+      <title>Lavender/Vanilla</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>133</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674076672055</id>
+      <title>Original (Patchouli/Orange)</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>133</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4673003946039</id>
+    <published>2021-02-04T14:37:22-08:00</published>
+    <updated>2021-02-04T14:37:22-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/compostable-tube-deodorant-blossom-bottle-none"/>
+    <title>Compostable Tube Deodorant - Blossom</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Bottle None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/bottle-none-aluminum-free-compostable-packaging-deodorant-boutique-love-attack_2_1836476c-77ec-4809-a9ad-c889d7ae2020.png?v=1612478225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottle None<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-description user-content" data-mce-fragment="1">
+<p data-mce-fragment="1">Deodorant that REALLY works!!  NO Aluminum.</p>
+<p data-mce-fragment="1">Antibacterial and anti-fungal formula that eliminates odour causing bacteria.  (Even if you are already smelly).  With Zinc, baking soda, and therapeutic grade essential oil to neutralize even the strongest of odours. </p>
+<p data-mce-fragment="1"><meta charset="utf-8"><meta charset="utf-8">BLOSSOM<span data-mce-fragment="1"> is soft and floral. Like an evening stroll through a botanical garden.</span><br></p>
+<h3 data-mce-fragment="1">Features + Benefits</h3>
+<ul>
+<li>80g compostable tube deodorant</li>
+<li>All natural ingredients</li>
+<li>Vegan formula</li>
+<li>Alluminum free</li>
+<li>Made in Vernon, BC</li>
+</ul>
+<h3 data-mce-fragment="1">Ingredients</h3>
+<p data-mce-fragment="1">Theobroma cacao (cocoa) seed butter, Cocos nucifera (coconut) oil, Euphorbia cerifera (candelilla) wax, Mangifera indica (mango) seed butter, Helianthus annuus (sunflower) seed oil, Zinc oxide (non-nano size), Sodium Bicarbonate (non-aluminum),  Maranta arudinacea (arrowroot) powder, Citrus aurantium dulcis (orange) peel oil, Citrus limon (lemon) peel oil, Citrus aurantifolia (lime) oil.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4673003946039</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>101</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4673002864695</id>
+    <published>2021-02-04T14:34:58-08:00</published>
+    <updated>2021-02-04T14:34:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/compostable-tube-deodorant-earth-bottle-none"/>
+    <title>Compostable Tube Deodorant - Earth</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Bottle None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/bottle-none-aluminum-free-compostable-packaging-deodorant-boutique-love-attack_2_784d3dcd-a21e-414a-8f70-7ee4155d19d8.png?v=1612478079"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottle None<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-description user-content" data-mce-fragment="1">
+<p data-mce-fragment="1">Deodorant that REALLY works!!  NO Aluminum.</p>
+<p data-mce-fragment="1">Antibacterial and anti-fungal formula that eliminates odour causing bacteria.  (Even if you are already smelly).  With Zinc, baking soda, and therapeutic grade essential oil to neutralize even the strongest of odours. </p>
+<p data-mce-fragment="1"><meta charset="utf-8">EARTH<span> is like walking through a steam room with Tea tree, Rosemary, Cedar wood, Sage, and Lime.</span></p>
+<h3 data-mce-fragment="1">Features + Benefits</h3>
+<ul>
+<li>80g compostable tube deodorant</li>
+<li>All natural ingredients</li>
+<li>Vegan formula</li>
+<li>Alluminum free</li>
+<li>Made in Vernon, BC</li>
+</ul>
+<h3 data-mce-fragment="1">Ingredients</h3>
+<p data-mce-fragment="1">Theobroma cacao (cocoa) seed butter, Cocos nucifera (coconut) oil, Euphorbia cerifera (candelilla) wax, Mangifera indica (mango) seed butter, Helianthus annuus (sunflower) seed oil, Zinc oxide (non-nano size), Sodium Bicarbonate (non-aluminum),  Maranta arudinacea (arrowroot) powder, Citrus aurantium dulcis (orange) peel oil, Citrus limon (lemon) peel oil, Citrus aurantifolia (lime) oil.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4673002864695</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>101</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4673001553975</id>
+    <published>2021-02-04T14:29:20-08:00</published>
+    <updated>2021-02-04T14:29:20-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/compostable-tube-deodorant-citrus-bottle-none"/>
+    <title>Compostable Tube Deodorant - Citrus</title>
+    <s:type>Deodorant</s:type>
+    <s:vendor>Bottle None</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/bottle-none-aluminum-free-compostable-packaging-deodorant-boutique-love-attack_2.png?v=1612477761"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bottle None<br>
+        <strong>Type: </strong>Deodorant<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div class="product-description user-content" data-mce-fragment="1">
+<p data-mce-fragment="1">Deodorant that REALLY works!!  NO Aluminum.</p>
+<p data-mce-fragment="1">Antibacterial and anti-fungal formula that eliminates odour causing bacteria.  (Even if you are already smelly).  With Zinc, baking soda, and therapeutic grade essential oil to neutralize even the strongest of odours. </p>
+<p data-mce-fragment="1">CITRUS is subtle and super fresh.  Like a citrus spritzer for your underarms.</p>
+<h3 data-mce-fragment="1">Features + Benefits</h3>
+<ul>
+<li>80g compostable tube deodorant</li>
+<li>All natural ingredients</li>
+<li>Vegan formula</li>
+<li>Alluminum free</li>
+<li>Made in Vernon, BC</li>
+</ul>
+<h3 data-mce-fragment="1">Ingredients</h3>
+<p data-mce-fragment="1">Theobroma cacao (cocoa) seed butter, Cocos nucifera (coconut) oil, Euphorbia cerifera (candelilla) wax, Mangifera indica (mango) seed butter, Helianthus annuus (sunflower) seed oil, Zinc oxide (non-nano size), Sodium Bicarbonate (non-aluminum),  Maranta arudinacea (arrowroot) powder, Citrus aurantium dulcis (orange) peel oil, Citrus limon (lemon) peel oil, Citrus aurantifolia (lime) oil.</p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Deodorant</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4673001553975</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>101</s:grams>
+    </s:variant>
+  </entry>
+</feed>

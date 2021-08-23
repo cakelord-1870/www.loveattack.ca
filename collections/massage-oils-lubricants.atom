@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/massage-oils-lubricants.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-01-22T12:44:46-08:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/4668227420215</id>
+    <published>2021-01-22T12:44:46-08:00</published>
+    <updated>2021-01-22T12:44:46-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/sexy-magic-intimate-skin-serum-geti-cosmetics"/>
+    <title>Sexy Magic Intimate Skin Serum</title>
+    <s:type>Skin Serum</s:type>
+    <s:vendor>Geti Cosmetics</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/BoutiqueLoveAttackGetiCosmeticsSexyMagicIntimateSkinSerum1.png?v=1611340572"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Geti Cosmetics<br>
+        <strong>Type: </strong>Skin Serum<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">We moisturize every other inch of our skin…why not “down there”? After all, it’s skin like any other — subject to damage, age &amp; gravity.</span>Give your naughty bits some love! A natural blend of 100% plant-based oils that moisturize and rejuvenate intimate skin. </p>
+<h3>Features + Benefits</h3>
+<ul>
+<li>Rejuvenate Your Intimate Skin – a little moisture goes a long way in restoring youthful elasticity and colour.</li>
+<li>Made with 100% Genital-Safe Oils.</li>
+<li>Unisex Formula – perfect for men and women.</li>
+<li>1oz blue glass bottle with lid.</li>
+</ul>
+<h3>How to use</h3>
+<p><meta charset="utf-8">Rub a quarter-sized drop of oil between your hands and gently apply to clean genital skin. </p>
+<p>Designed for external use. Not a lubricant.</p>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span>Organic Camellia Oil, Organic Evening Primrose</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Intimate Skin Serum</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4668227420215</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>73</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/1386243915831</id>
+    <published>2018-08-20T17:57:27-07:00</published>
+    <updated>2018-08-20T17:57:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/lovers-oil-province-apothecary"/>
+    <title>DAMAGED PACKAGING - Lover&apos;s Oil</title>
+    <s:type>Sexual Wellness</s:type>
+    <s:vendor>Province Apothecary</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/14.png?v=1624650625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Province Apothecary<br>
+        <strong>Type: </strong>Sexual Wellness<br>
+        <strong>Price: </strong>
+            10.00 - 16.00
+            <a href="https://www.loveattack.ca/products/lovers-oil-province-apothecary">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8"><meta charset="utf-8"><meta charset="utf-8">
+<p class="tab-content"><strong>*Labels are a little loose. Still unopened, contents perfect*</strong></p>
+<p class="tab-content"><strong></strong>Our all-natural massage oil is the best way to have fun in the bedroom! We’ve blended 10 of the most sensual essential oils into a non-toxic rich and moisturizing base for a heightened aromatherapy experience to bring you and your lover closer together.<br><br><strong>Rose Absolute |</strong> An exotic essential oil used for centuries in perfuming for it’s complex, sweet floral scent. <br><br><strong>Cedarwood Oil |</strong> Soft, woodsy scent that comforts and grounds the mind to instill confidence and self-assurance.</p>
+<h3 class="tab-content"><strong>Ingredients</strong></h3>
+<meta charset="utf-8">
+<p class="tab-content">Fractionated Coconut Oil*, Sunflower Seed Oil*, Cedarwood Oil*, Jojoba Seed Oil, Evening Primrose Oil*, Vitamin E, Bergamot Fcf Oil, Ylang Ylang Oil*, Clary Sage Oil*, Rose Geranium Flower Oil, Jasmine Oil, Cardamon Oil, Rosemary Leaf Extract*, Rose Absolute Oil, Vetiver Oil*. *Certified Organic ingredients</p>
+<h3 class="tab-content">Directions</h3>
+<meta charset="utf-8">
+<p class="tab-content"><span>Use generously and massage into skin where desired. For external use only. Do not use with latex products. </span><span>This product has a shelf life of 6 months after opening. </span></p>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Massage Oils</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/1386243915831</id>
+      <title>60ml</title>
+      <s:price currency="CAD">10.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/1386243915831</id>
+      <title>120ml</title>
+      <s:price currency="CAD">16.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>72</s:grams>
+    </s:variant>
+  </entry>
+</feed>

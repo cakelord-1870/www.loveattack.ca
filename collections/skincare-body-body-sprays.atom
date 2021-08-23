@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/skincare-body-body-sprays.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-03-16T14:49:24-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/6541173981239</id>
+    <published>2021-03-16T14:49:24-07:00</published>
+    <updated>2021-03-16T14:49:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/cooling-mist-taurah"/>
+    <title>Cooling Mist</title>
+    <s:type>Essential Oil Spray</s:type>
+    <s:vendor>Taurah</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/taurah-cooling-mist-boutique-love-attack.png?v=1615494698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taurah<br>
+        <strong>Type: </strong>Essential Oil Spray<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">
+<meta charset="utf-8">
+<div data-mce-fragment="1">The Cooling Mist brings you the fresh feeling you crave post-workout. The 60 ml spray bottle is filled with a refreshing aloe vera, cucumber and spearmint blend to spray as a facial mist, body mist, and aromatic mist post-movement. </div>
+</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1"></div>
+<h3 data-mce-fragment="1">Ingredients</h3>
+<div data-mce-fragment="1">
+<p data-mce-fragment="1">Distilled Water, Aloe Vera Juice, Cucumber Extract, Essential Oil Blend (Cucumber, Spearmint)</p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>Store in a cool, dry place. S</span><span>helf life of 12 months.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6541173981239</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>116</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/6540714213431</id>
+    <published>2021-03-16T14:48:39-07:00</published>
+    <updated>2021-03-16T14:48:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/calming-mist-taurah"/>
+    <title>Calming Mist</title>
+    <s:type>Essential Oil Spray</s:type>
+    <s:vendor>Taurah</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/taurah-calming-mist-boutique-love-attack.png?v=1615428975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taurah<br>
+        <strong>Type: </strong>Essential Oil Spray<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<div data-mce-fragment="1">The Calming Mist brings you<span data-mce-fragment="1"> </span>the focused, meditative feeling you are searching for.</div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">The 60 ml spray bottle is filled with a calming aromatic blend promoting a relaxing atmosphere to uplift your environment while easing the mind.  </div>
+<div data-mce-fragment="1"></div>
+<div data-mce-fragment="1">Use this spray as a facial mist, body mist, and aromatic mist. </div>
+<div data-mce-fragment="1"></div>
+<h3 data-mce-fragment="1">Ingredients</h3>
+<div data-mce-fragment="1">
+<p data-mce-fragment="1">Distilled Water, Essential Oil Blend (Lavender, Bergamot, Frankincense, Wild Orange)</p>
+<p data-mce-fragment="1"><meta charset="utf-8"><span>Store in a cool, dry place. S</span><span>helf life of 12 months.</span></p>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/6540714213431</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>116</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674078900279</id>
+    <published>2021-02-09T12:22:33-08:00</published>
+    <updated>2021-02-09T12:22:33-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/settle-down-essential-oil-spray-kpure-naturals"/>
+    <title>Settle Down Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-settle-down-essential-oil-spray.png?v=1612837562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Settle Down is a calming spray for pillow, face and body.  A great addition to the entire family's bedtime routine, and we've added witch hazel and coconut oil, so it also doubles as a hydrating facial toner with a blend of organic essential oils including lavender. </span></p>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span>Purified water, organic witch hazel, coconut oil and a blend of pure and organic essential oils including lavender.</span></p>
+<p><iframe src="https://www.youtube.com/embed/_lCvAsZ1tHo" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674078900279</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674084405303</id>
+    <published>2021-02-09T12:20:59-08:00</published>
+    <updated>2021-02-09T12:20:59-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/time-out-essential-oil-spray-kpure-naturals"/>
+    <title>Time Out Uplifting Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-time-out-essential-oil-spray.png?v=1612838386"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>For that magical time between coffee and wine o'clock, Time Out uplifting organic essential oil spray.  Use this as a hydrating facial toner, body spray, room spray or mist the kids as they walk through the front door after school.  </span><br></p>
+<h3>Ingredients</h3>
+<p>Purified water, organic witch hazel, coconut oil, patchouli, orange, bergamot, almond and other pure, organic essential oils.</p>
+<p><iframe src="https://www.youtube.com/embed/_lCvAsZ1tHo" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674084405303</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674085191735</id>
+    <published>2021-02-09T12:19:09-08:00</published>
+    <updated>2021-02-09T12:19:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/chill-out-aloe-vera-mist-kpure-naturals"/>
+    <title>Chill Out Aloe Vera Mist Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-chill-out-essential-oil-spray.png?v=1612838544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>A refreshing and soothing blend of aloe vera, organic witch hazel and pure, organic essential oils.  Use this cooling mist before, during and after those long summer days. For an extra cooling experience, store Chill Out in the fridge.  Chill Out can also be used as a hydrating facial toner  </p>
+<h3>Ingredients</h3>
+<p>Purified water, Aloe Barbadensis Leaf Juice, organic Hamamelis Virginiana (witch hazel) and a blend of pure and organic essential oils. </p>
+<p><iframe src="https://www.youtube.com/embed/_lCvAsZ1tHo" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674085191735</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674085814327</id>
+    <published>2021-02-09T12:18:36-08:00</published>
+    <updated>2021-02-09T12:18:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/deep-breath-soothing-essential-oil-spray-kpure-naturals"/>
+    <title>Deep Breath Soothing Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-deep-breath-essential-oil-spray.png?v=1612838892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>Deep Breath contains a blend of organic essential oils, including eucalyptus, lime and peppermint.   Great for cold and flu season, stressful situations or any time a breath of fresh air is all you need.  With the addition of witch hazel and coconut oil, you can use Deep Breath as a hydrating facial toner and a soothing room and body spray.  </span></p>
+<h3>Ingredients</h3>
+<p><meta charset="utf-8"><span>Purified water, organic witch hazel, coconut oil and a blend of pure and organic essential oils including peppermint, eucalyptus and citrus.</span></p>
+<p><iframe src="https://www.youtube.com/embed/_lCvAsZ1tHo" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674085814327</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674086109239</id>
+    <published>2021-02-09T12:16:58-08:00</published>
+    <updated>2021-02-09T12:16:58-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/good-morning-essential-oil-spray-kpure-naturals"/>
+    <title>Good Morning Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-good-morning-essential-oil-spray.png?v=1612839056"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>An all-natural and organic aromatherapy spray, perfect for those rough mornings (afternoons, evenings....) due to pregnancy or an overindulgent evening.  With an blend of pure and organic essential oils, Good Morning can be used from head to toe, allowing the refreshing blend of grapefruit, ginger and spearmint to soothe and refresh.  </p>
+<h3>Ingredients</h3>
+<p>Purified water, hamamelis virginiana (witch hazel)* , cocos nucifera (coconut) oil and a blend of pure, organic essential oils.*</p>
+<p>*organic ingredients </p>
+<p><iframe src="https://www.youtube.com/embed/_lCvAsZ1tHo" height="315" width="560" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0"></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674086109239</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4674086338615</id>
+    <published>2021-02-09T12:16:14-08:00</published>
+    <updated>2021-02-09T12:16:14-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/keep-going-energizing-essential-oil-spray-kpure-naturals"/>
+    <title>Keep Going Energizing Essential Oil Spray + Toner</title>
+    <s:type>Essential Oil Sprays</s:type>
+    <s:vendor>K&apos;Pure Naturals</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-kpure-naturals-keep-going-essential-oil-spray.png?v=1612839216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>K&#39;Pure Naturals<br>
+        <strong>Type: </strong>Essential Oil Sprays<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>Keep Going is a refreshing blend of lemon, spearmint and other organic essential oils. Ideal for before, during and after workouts or when the 3pm slump hits. Organic witch hazel and coconut oil make it the perfect hydrating facial toner, that can also be used as a body spray, room spray and gym bag spray.  </span></p>
+<h3>Ingredients</h3>
+<p>Purified water, organic hamamelis virginiana (witch hazel) , capric triglyceride (coconut oil) and a blend pure, organic essential oils, including spearmint and lemon.  </p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/_lCvAsZ1tHo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:tag>Toners</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4674086338615</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">9.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>82</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/4585001910327</id>
+    <published>2020-07-20T06:31:38-07:00</published>
+    <updated>2020-07-20T06:31:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/eucalyptus-mood-mist-mifa-and-co"/>
+    <title>Eucalyptus Mood Mist Natural Essential Oil Spray</title>
+    <s:type>Aromatherapy</s:type>
+    <s:vendor>Mifa &amp; Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-mifa-and-co-essential-oil-eucalyptus-mood-mist.png?v=1624579361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mifa &amp; Co.<br>
+        <strong>Type: </strong>Aromatherapy<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p>Refresh-Purify-Soothe</p>
+<p>3.4oz / 100ml</p>
+<p><span>MIFA’s 100% natural essential oil spray, EUCALYPTUS MOOD MIST, is a versatile essential oil blend that is grounding, uplifting, and refreshing. Created to restore, refresh and reset your experience by encouraging daily connection to self, deep breathing and relaxation.</span></p>
+<p><span>A purifying blend of Bulgarian lavender water, witch hazel, eucalyptus, and tea tree essential oils.  Spray across your face, body, bedding or in the shower to inhale or as a room spray to subtly scent.</span></p>
+<p><span>It’s a wonderful ritual that will encourage deep breaths and reset your mood.</span> </p>
+<p><em>As seen in<span> </span><a href="https://www.ellecanada.com/beauty/health-and-fitness/best-aromatherapy-products-2020">Elle Canada</a>,<span> </span><a href="https://fashionmagazine.com/face-body/stress-relieving-beauty-products/">Fashion Magazine</a>,<span> </span><a href="https://montecristomagazine.com/beauty/soothing-skin-during-pandemic">Montecristo</a>,<span> </span><a href="https://www.vitadaily.ca/beauty/eco-friendly-beauty-options-for-spring-1.24117567">VITA Daily</a>, and<span> </span><a href="https://vancouversun.com/life/fashion-beauty/this-just-in-mifa-eucalyptus-mood-mist-osea-undaria-argan-oil-and-maybelline-new-york-brow-fast-sculpt/">Vancouver Sun</a>.</em></p>
+<h3><b>Key Ingredients</b></h3>
+<p><b>Bulgarian Lavender Water</b><span> – Steam distilled lavender water that it's calming and uplifting scent that will reduce anxiety and stress. It is the most soothing scent a person can experience.</span></p>
+<p><b>Eucalyptus</b><span> – </span>Best known for its refreshing scent. It is a miracle plant that boosts mental clarity, while the healing properties will stimulate your immune system. An essential oil with antibacterial and anti-fungal properties. </p>
+<p><span><strong>Lavender</strong> – Prized around the world since ancient times, the smoky, herbal scent of this flowering plant calms the mind and soothes the senses. </span> </p>
+<h3><b>Full Ingredients List</b></h3>
+<p><span>Lavandula angustifolia (Lavender) Flower Water, Witch Hazel Distillate (Extrait de Noisetier)*, Eucalyptus Globulus (Eucalyptus) Oil*, Lavandula angustifolia (Lavender) Oil*, Phenethyl Alcohol (L'alcool Phenethyl)**, Melaleuca Alternifolia Leaf (Tea Tree/Théier) Oil*</span></p>
+<p><span> </span><span>*CERTIFIED ORGANIC INGREDIENTS/ Ingrédients Certifiés Organiques </span>**Plant based preservative (conservateur à base de plantes) </p>
+<h3><b>Recommended Use</b></h3>
+<p><span>Always shake before use to disperse oils. Spray 6 inches away from the face and inhale. Mist onto face, body or use as a room/pillow spray. </span></p>
+<p><i><span>Caution: Do not take internally. Discontinue use if irritation occurs.</span></i> </p>
+<meta charset="utf-8">
+<h3><b>Product Information</b></h3>
+<p><span>Cruelty-Free, Toxin-Free, Sulfate-Free, Paraben-Free, Gluten-Free, Soy-Free, Phthalate-Free, Fragrance-Free, Palm Oil-Free, Vegan.</span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Essential Oil Sprays</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4585001910327</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>266</s:grams>
+    </s:variant>
+  </entry>
+</feed>

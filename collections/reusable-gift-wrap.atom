@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/reusable-gift-wrap.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2021-02-01T17:50:03-08:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/4672084869175</id>
+    <published>2021-02-01T17:50:03-08:00</published>
+    <updated>2021-02-01T17:50:03-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/re-nu-wrap-zero-waste-furoshiki-wrap-chambray-denim-bellantoni"/>
+    <title>Re•Nu Wrap - Zero Waste Furoshiki Wrap - Chambray Denim</title>
+    <s:type>Gift Wrap</s:type>
+    <s:vendor>Bellantoni</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/boutique-love-attack-reusable-gift-wrap-bellantoni.png?v=1612228455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bellantoni<br>
+        <strong>Type: </strong>Gift Wrap<br>
+        <strong>Price: </strong>
+            15.00 - 20.00
+            <a href="https://www.loveattack.ca/products/re-nu-wrap-zero-waste-furoshiki-wrap-chambray-denim-bellantoni">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1">Reusable, Recycled, Textile Waste Diverted + Single-Use Gift Wrap Diverted. </p>
+<p class="" data-mce-fragment="1">Meet the Re•Nu Wrap: Zero Waste Furoshiki Wrap made form textile waste. Each wrap is sewn in Vancouver, Canada, with fully finished edges to ensure longevity of use. Use the Re•Nu Wrap can be tied more than 10 different ways. Use it as gift wrap, a lunch bag, wine bottle wrap, bandana, etc.</p>
+<h3 data-mce-fragment="1">Eco Recipe</h3>
+<ul>
+<li>100% Reclaimed Fabric</li>
+<li>Handmade in Vancouver in small quantities.</li>
+</ul>
+<h3>Care</h3>
+<p class="" data-mce-fragment="1">Machine wash cold, delicate cycle. Tumble dry low. Iron on low-medium.</p>
+<h3>What's Included?</h3>
+<ul>
+<li>1 Wrap</li>
+<li>Instructions within packaging</li>
+<li>”To:/From:” Hangtag, made from 100% recycled kraft paper and biodegradable hemp twine</li>
+</ul>
+<h3 data-mce-fragment="1"><strong data-mce-fragment="1">Sizes</strong></h3>
+<ul>
+<li>Small: 16” x 16” - fits small items, such as scrunchies, makeup, candles, small boxes, etc.</li>
+<li>Medium: 20” x 20” - fits average items, such as books, clothing, bundled items, wine bottles, etc.</li>
+<li>Large: 25” x 25” - fits larger items, such as boxes, toys, bundled items, etc.</li>
+</ul>
+<h3>Did you know?</h3>
+<p class="" data-mce-fragment="1">Canadians produce an average of 540,000 tonnes of gift wrap waste each year, which is often made with plastic particles. That’s equivalent to 100,000 elephants. Our goal is to reduce this number by introducing the Re•Nu Wrap as a replacement that can be reused over and over again.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gift Wrap</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4672084869175</id>
+      <title>Small 16&quot;x16&quot;</title>
+      <s:price currency="CAD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>41</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4672084869175</id>
+      <title>Medium 20&quot;x20&quot;</title>
+      <s:price currency="CAD">17.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>41</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/4672084869175</id>
+      <title>Large 25&quot;x25&quot;</title>
+      <s:price currency="CAD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>41</s:grams>
+    </s:variant>
+  </entry>
+</feed>

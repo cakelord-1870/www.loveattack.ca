@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.loveattack.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.loveattack.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.loveattack.ca/collections/jewelry.atom"/>
+  <title>Boutique Love Attack</title>
+  <updated>2020-03-13T12:58:24-07:00</updated>
+  <author>
+    <name>Boutique Love Attack</name>
+  </author>
+  <entry>
+    <id>https://www.loveattack.ca/products/10239229761</id>
+    <published>2020-03-13T12:58:24-07:00</published>
+    <updated>2020-03-13T12:58:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/electric-cuff-silver-sarah-mulder-jewelry"/>
+    <title>Electric Cuff | Silver</title>
+    <s:type>Bracelet</s:type>
+    <s:vendor>Sarah Mulder Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/ELECTRICSCUFF1_2d3870b4-2220-4c31-bc0b-99adf3b48d0f.jpg?v=1583879746"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarah Mulder Jewelry<br>
+        <strong>Type: </strong>Bracelet<br>
+        <strong>Price: </strong>
+            49.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p style="text-align: left;">Silver plated cuff style bracelet. One size fits all. Unique and eye-catching design.<br></p>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;">
+<strong>Sarah Mulder Jewelry</strong><span> </span>is designed in Vancouver, BC.</div>
+<div style="text-align: left;"></div>
+<div style="text-align: left;"><em>"For city dwellers with bohemian hearts"</em></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Bracelets</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/10239229761</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">49.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>13</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/20593934337</id>
+    <published>2017-10-30T07:42:40-07:00</published>
+    <updated>2017-10-30T07:42:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/dreamer-gold-hoop-earrings-sarah-mulder-jewelry"/>
+    <title>Dreamer Large Hoop Earrings - Gold</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Sarah Mulder Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/sarah-mulder-jewelry-gold-hoop-earrings.png?v=1614106927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarah Mulder Jewelry<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p><meta charset="utf-8"><span>14k gold plated hoop earrings</span></p>
+<p>Sarah Mulder Jewelry is designed in Vancouver, BC.</p>
+<p><em>"For city dwellers with bohemian hearts"</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/20593934337</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">48.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/20585152513</id>
+    <published>2017-10-30T07:42:40-07:00</published>
+    <updated>2017-10-30T07:42:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/radiance-hoop-earrings-sarah-mulder-jewelry"/>
+    <title>Radiance Hoop Earrings - Silver</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Sarah Mulder Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/RADIANCESILVER.jpg?v=1579876924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sarah Mulder Jewelry<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong><strong>﻿<meta charset="utf-8"></strong></strong>
+<p>Silver plated glossy hoop medium sized earrings with a nickel free ear post.</p>
+<p><strong>Sarah Mulder Jewelry</strong> is designed in Vancouver, BC.</p>
+<p><br><em>"For city dwellers with bohemian hearts"</em></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/20585152513</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.loveattack.ca/products/10322028801</id>
+    <published>2017-10-18T06:17:45-07:00</published>
+    <updated>2017-10-18T06:17:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.loveattack.ca/products/lone-earrings-gold"/>
+    <title>Lone Earrings - Gold</title>
+    <s:type>Earrings</s:type>
+    <s:vendor>Lisbeth Jewelry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1951/0465/products/LoneHoopsMain.png?v=1611019487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lisbeth Jewelry<br>
+        <strong>Type: </strong>Earrings<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><span data-mce-fragment="1">Medium sized hoop earrings with removable ball for a versatile  2 in 1 design</span></p>
+<h3 data-mce-fragment="1"><span mce-data-marked="1" data-mce-fragment="1">Features + Benefits</span></h3>
+<div data-mce-fragment="1">
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">Handmade in Toronto, ON </li>
+<li data-mce-fragment="1">Gold Fill</li>
+</ul>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earrings</s:tag>
+    <s:variant>
+      <id>https://www.loveattack.ca/products/10322028801</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>1</s:grams>
+    </s:variant>
+  </entry>
+</feed>
